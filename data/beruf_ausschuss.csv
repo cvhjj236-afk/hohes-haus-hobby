@@ -1,0 +1,1554 @@
+gp,klub,feld,beruf,personen,im_ausschuss
+XX,ÖVP,Inneres,0,48,5
+XX,ÖVP,Justiz,0,54,6
+XX,ÖVP,Finanzen & Budget,0,45,8
+XX,ÖVP,Gesundheit,0,52,5
+XX,ÖVP,Arbeit,0,53,7
+XX,ÖVP,Soziales & Pflege,0,53,7
+XX,ÖVP,Konsumentenschutz,0,54,0
+XX,ÖVP,Familie & Jugend,0,54,8
+XX,ÖVP,Frauen & Gleichbehandlung,0,54,10
+XX,ÖVP,Bildung,0,45,6
+XX,ÖVP,Wissenschaft & Forschung,0,45,9
+XX,ÖVP,Kunst & Kultur,0,53,9
+XX,ÖVP,Sport,0,54,0
+XX,ÖVP,Landesverteidigung,0,48,4
+XX,ÖVP,Außen & Europa,0,54,7
+XX,ÖVP,Landwirtschaft,0,40,3
+XX,ÖVP,Umwelt & Klima,0,54,9
+XX,ÖVP,Energie,0,54,0
+XX,ÖVP,Verkehr & Mobilität,0,54,8
+XX,ÖVP,Innovation & Technologie,0,54,0
+XX,ÖVP,Wirtschaft,0,45,9
+XX,ÖVP,Tourismus,0,45,0
+XX,ÖVP,Öffentlicher Dienst,0,54,0
+XX,SPÖ,Inneres,0,63,5
+XX,SPÖ,Justiz,0,73,8
+XX,SPÖ,Finanzen & Budget,0,69,18
+XX,SPÖ,Gesundheit,0,74,9
+XX,SPÖ,Arbeit,0,63,6
+XX,SPÖ,Soziales & Pflege,0,63,6
+XX,SPÖ,Konsumentenschutz,0,77,0
+XX,SPÖ,Familie & Jugend,0,77,8
+XX,SPÖ,Frauen & Gleichbehandlung,0,77,8
+XX,SPÖ,Bildung,0,63,4
+XX,SPÖ,Wissenschaft & Forschung,0,63,6
+XX,SPÖ,Kunst & Kultur,0,76,10
+XX,SPÖ,Sport,0,77,0
+XX,SPÖ,Landesverteidigung,0,63,5
+XX,SPÖ,Außen & Europa,0,77,9
+XX,SPÖ,Landwirtschaft,0,76,8
+XX,SPÖ,Umwelt & Klima,0,77,9
+XX,SPÖ,Energie,0,77,0
+XX,SPÖ,Verkehr & Mobilität,0,77,9
+XX,SPÖ,Innovation & Technologie,0,77,0
+XX,SPÖ,Wirtschaft,0,69,12
+XX,SPÖ,Tourismus,0,69,0
+XX,SPÖ,Öffentlicher Dienst,0,77,0
+XX,SPÖ,Bildung,1,14,5
+XX,SPÖ,Wissenschaft & Forschung,1,14,3
+XX,SPÖ,Arbeit,1,14,4
+XX,SPÖ,Soziales & Pflege,1,14,4
+XX,SPÖ,Finanzen & Budget,1,8,3
+XX,SPÖ,Wirtschaft,1,8,5
+XX,SPÖ,Tourismus,1,8,0
+XX,FPÖ,Inneres,0,44,8
+XX,FPÖ,Justiz,1,5,3
+XX,FPÖ,Finanzen & Budget,0,32,3
+XX,FPÖ,Gesundheit,0,44,2
+XX,FPÖ,Arbeit,0,46,7
+XX,FPÖ,Soziales & Pflege,0,46,7
+XX,FPÖ,Konsumentenschutz,0,48,0
+XX,FPÖ,Familie & Jugend,0,48,7
+XX,FPÖ,Frauen & Gleichbehandlung,0,48,7
+XX,FPÖ,Bildung,0,45,7
+XX,FPÖ,Wissenschaft & Forschung,0,45,5
+XX,FPÖ,Kunst & Kultur,0,48,8
+XX,FPÖ,Sport,0,48,0
+XX,FPÖ,Landesverteidigung,0,44,6
+XX,FPÖ,Außen & Europa,0,48,9
+XX,FPÖ,Landwirtschaft,0,43,2
+XX,FPÖ,Umwelt & Klima,0,48,6
+XX,FPÖ,Energie,0,48,0
+XX,FPÖ,Verkehr & Mobilität,0,48,12
+XX,FPÖ,Innovation & Technologie,0,48,0
+XX,FPÖ,Wirtschaft,0,32,4
+XX,FPÖ,Tourismus,0,32,0
+XX,FPÖ,Öffentlicher Dienst,0,48,0
+XX,SPÖ,Gesundheit,1,3,2
+XX,FPÖ,Justiz,0,43,5
+XX,FPÖ,Finanzen & Budget,1,16,8
+XX,FPÖ,Wirtschaft,1,16,8
+XX,FPÖ,Tourismus,1,16,0
+XX,SPÖ,Inneres,1,14,4
+XX,SPÖ,Landesverteidigung,1,14,3
+XX,LIF,Inneres,0,10,0
+XX,LIF,Justiz,0,9,0
+XX,LIF,Finanzen & Budget,1,2,2
+XX,LIF,Gesundheit,0,10,1
+XX,LIF,Arbeit,0,11,1
+XX,LIF,Soziales & Pflege,0,11,1
+XX,LIF,Konsumentenschutz,0,11,0
+XX,LIF,Familie & Jugend,0,11,1
+XX,LIF,Frauen & Gleichbehandlung,0,11,1
+XX,LIF,Bildung,0,9,0
+XX,LIF,Wissenschaft & Forschung,0,9,2
+XX,LIF,Kunst & Kultur,0,11,1
+XX,LIF,Sport,0,11,0
+XX,LIF,Landesverteidigung,0,10,0
+XX,LIF,Außen & Europa,0,11,2
+XX,LIF,Landwirtschaft,0,11,2
+XX,LIF,Umwelt & Klima,0,11,1
+XX,LIF,Energie,0,11,0
+XX,LIF,Verkehr & Mobilität,0,11,2
+XX,LIF,Innovation & Technologie,0,11,0
+XX,LIF,Wirtschaft,1,2,2
+XX,LIF,Tourismus,1,2,0
+XX,LIF,Öffentlicher Dienst,0,11,0
+XX,GRÜNE,Inneres,1,1,1
+XX,GRÜNE,Justiz,0,11,1
+XX,GRÜNE,Finanzen & Budget,0,10,1
+XX,GRÜNE,Gesundheit,0,11,1
+XX,GRÜNE,Arbeit,0,11,1
+XX,GRÜNE,Soziales & Pflege,0,11,1
+XX,GRÜNE,Konsumentenschutz,0,11,0
+XX,GRÜNE,Familie & Jugend,0,11,1
+XX,GRÜNE,Frauen & Gleichbehandlung,0,11,2
+XX,GRÜNE,Bildung,0,5,0
+XX,GRÜNE,Wissenschaft & Forschung,0,5,1
+XX,GRÜNE,Kunst & Kultur,0,11,1
+XX,GRÜNE,Sport,0,11,0
+XX,GRÜNE,Landesverteidigung,1,1,0
+XX,GRÜNE,Außen & Europa,0,11,2
+XX,GRÜNE,Landwirtschaft,0,11,1
+XX,GRÜNE,Umwelt & Klima,0,11,1
+XX,GRÜNE,Energie,0,11,0
+XX,GRÜNE,Verkehr & Mobilität,0,11,2
+XX,GRÜNE,Innovation & Technologie,0,11,0
+XX,GRÜNE,Wirtschaft,0,10,2
+XX,GRÜNE,Tourismus,0,10,0
+XX,GRÜNE,Öffentlicher Dienst,0,11,0
+XX,ÖVP,Inneres,1,6,1
+XX,ÖVP,Landesverteidigung,1,6,3
+XX,LIF,Inneres,1,1,1
+XX,LIF,Finanzen & Budget,0,9,0
+XX,LIF,Landesverteidigung,1,1,1
+XX,LIF,Wirtschaft,0,9,1
+XX,LIF,Tourismus,0,9,0
+XX,ÖVP,Bildung,1,9,4
+XX,ÖVP,Wissenschaft & Forschung,1,9,3
+XX,FPÖ,Gesundheit,1,4,4
+XX,GRÜNE,Inneres,0,10,1
+XX,GRÜNE,Landesverteidigung,0,10,1
+XX,FPÖ,Arbeit,1,2,0
+XX,FPÖ,Soziales & Pflege,1,2,0
+XX,ÖVP,Finanzen & Budget,1,9,4
+XX,ÖVP,Wirtschaft,1,9,3
+XX,ÖVP,Tourismus,1,9,0
+XX,GRÜNE,Bildung,1,6,1
+XX,GRÜNE,Wissenschaft & Forschung,1,6,0
+XX,SPÖ,Kunst & Kultur,1,1,0
+XX,FPÖ,Landwirtschaft,1,5,5
+XX,LIF,Justiz,1,2,1
+XX,ÖVP,Landwirtschaft,1,14,4
+XX,FPÖ,Bildung,1,3,2
+XX,FPÖ,Wissenschaft & Forschung,1,3,2
+XX,SPÖ,Justiz,1,4,3
+XX,ÖVP,Kunst & Kultur,1,1,1
+XX,FPÖ,Inneres,1,4,2
+XX,FPÖ,Landesverteidigung,1,4,1
+XX,GRÜNE,Finanzen & Budget,1,1,0
+XX,GRÜNE,Wirtschaft,1,1,0
+XX,GRÜNE,Tourismus,1,1,0
+XX,LIF,Gesundheit,1,1,0
+XX,LIF,Bildung,1,2,1
+XX,LIF,Wissenschaft & Forschung,1,2,1
+XX,ÖVP,Gesundheit,1,2,2
+XX,SPÖ,Landwirtschaft,1,1,0
+XX,ÖVP,Arbeit,1,1,0
+XX,ÖVP,Soziales & Pflege,1,1,0
+XXI,FPÖ,Inneres,0,55,5
+XXI,FPÖ,Justiz,0,57,6
+XXI,FPÖ,Finanzen & Budget,1,16,6
+XXI,FPÖ,Gesundheit,0,58,7
+XXI,FPÖ,Arbeit,0,56,8
+XXI,FPÖ,Soziales & Pflege,0,56,8
+XXI,FPÖ,Konsumentenschutz,0,61,0
+XXI,FPÖ,Familie & Jugend,0,61,8
+XXI,FPÖ,Frauen & Gleichbehandlung,0,61,9
+XXI,FPÖ,Bildung,0,58,7
+XXI,FPÖ,Wissenschaft & Forschung,0,58,6
+XXI,FPÖ,Kunst & Kultur,0,59,10
+XXI,FPÖ,Sport,0,61,8
+XXI,FPÖ,Landesverteidigung,0,55,6
+XXI,FPÖ,Außen & Europa,0,61,11
+XXI,FPÖ,Landwirtschaft,0,52,4
+XXI,FPÖ,Umwelt & Klima,0,61,8
+XXI,FPÖ,Energie,0,61,0
+XXI,FPÖ,Verkehr & Mobilität,0,61,9
+XXI,FPÖ,Innovation & Technologie,0,61,0
+XXI,FPÖ,Wirtschaft,1,16,6
+XXI,FPÖ,Tourismus,1,16,0
+XXI,FPÖ,Öffentlicher Dienst,0,61,0
+XXI,ÖVP,Inneres,0,50,6
+XXI,ÖVP,Justiz,0,56,9
+XXI,ÖVP,Finanzen & Budget,0,45,10
+XXI,ÖVP,Gesundheit,0,56,8
+XXI,ÖVP,Arbeit,0,54,7
+XXI,ÖVP,Soziales & Pflege,0,54,7
+XXI,ÖVP,Konsumentenschutz,0,58,0
+XXI,ÖVP,Familie & Jugend,0,58,10
+XXI,ÖVP,Frauen & Gleichbehandlung,0,58,8
+XXI,ÖVP,Bildung,0,53,9
+XXI,ÖVP,Wissenschaft & Forschung,0,53,8
+XXI,ÖVP,Kunst & Kultur,0,56,7
+XXI,ÖVP,Sport,0,58,9
+XXI,ÖVP,Landesverteidigung,0,50,7
+XXI,ÖVP,Außen & Europa,0,58,9
+XXI,ÖVP,Landwirtschaft,0,47,3
+XXI,ÖVP,Umwelt & Klima,0,58,11
+XXI,ÖVP,Energie,0,58,0
+XXI,ÖVP,Verkehr & Mobilität,0,58,10
+XXI,ÖVP,Innovation & Technologie,0,58,0
+XXI,ÖVP,Wirtschaft,0,45,11
+XXI,ÖVP,Tourismus,0,45,0
+XXI,ÖVP,Öffentlicher Dienst,0,58,0
+XXI,SPÖ,Inneres,0,62,8
+XXI,SPÖ,Justiz,0,66,8
+XXI,SPÖ,Finanzen & Budget,0,62,18
+XXI,SPÖ,Gesundheit,0,70,11
+XXI,SPÖ,Arbeit,0,59,8
+XXI,SPÖ,Soziales & Pflege,0,59,8
+XXI,SPÖ,Konsumentenschutz,0,71,0
+XXI,SPÖ,Familie & Jugend,0,71,10
+XXI,SPÖ,Frauen & Gleichbehandlung,0,71,13
+XXI,SPÖ,Bildung,0,59,3
+XXI,SPÖ,Wissenschaft & Forschung,0,59,7
+XXI,SPÖ,Kunst & Kultur,0,69,8
+XXI,SPÖ,Sport,0,71,10
+XXI,SPÖ,Landesverteidigung,0,62,10
+XXI,SPÖ,Außen & Europa,0,71,10
+XXI,SPÖ,Landwirtschaft,0,71,10
+XXI,SPÖ,Umwelt & Klima,0,71,12
+XXI,SPÖ,Energie,0,71,0
+XXI,SPÖ,Verkehr & Mobilität,0,71,11
+XXI,SPÖ,Innovation & Technologie,0,71,0
+XXI,SPÖ,Wirtschaft,0,62,12
+XXI,SPÖ,Tourismus,0,62,0
+XXI,SPÖ,Öffentlicher Dienst,0,71,0
+XXI,FPÖ,Finanzen & Budget,0,45,4
+XXI,FPÖ,Landwirtschaft,1,9,7
+XXI,FPÖ,Wirtschaft,0,45,6
+XXI,FPÖ,Tourismus,0,45,0
+XXI,SPÖ,Arbeit,1,12,5
+XXI,SPÖ,Soziales & Pflege,1,12,5
+XXI,SPÖ,Finanzen & Budget,1,9,5
+XXI,SPÖ,Wirtschaft,1,9,5
+XXI,SPÖ,Tourismus,1,9,0
+XXI,FPÖ,Justiz,1,4,3
+XXI,SPÖ,Inneres,1,9,3
+XXI,SPÖ,Landesverteidigung,1,9,2
+XXI,SPÖ,Bildung,1,12,6
+XXI,SPÖ,Wissenschaft & Forschung,1,12,3
+XXI,SPÖ,Kunst & Kultur,1,2,0
+XXI,GRÜNE,Inneres,1,1,0
+XXI,GRÜNE,Justiz,0,13,2
+XXI,GRÜNE,Finanzen & Budget,0,12,2
+XXI,GRÜNE,Gesundheit,0,13,1
+XXI,GRÜNE,Arbeit,0,14,2
+XXI,GRÜNE,Soziales & Pflege,0,14,2
+XXI,GRÜNE,Konsumentenschutz,0,14,0
+XXI,GRÜNE,Familie & Jugend,0,14,2
+XXI,GRÜNE,Frauen & Gleichbehandlung,0,14,2
+XXI,GRÜNE,Bildung,0,11,2
+XXI,GRÜNE,Wissenschaft & Forschung,0,11,1
+XXI,GRÜNE,Kunst & Kultur,0,12,1
+XXI,GRÜNE,Sport,0,14,1
+XXI,GRÜNE,Landesverteidigung,1,1,0
+XXI,GRÜNE,Außen & Europa,0,14,2
+XXI,GRÜNE,Landwirtschaft,0,12,1
+XXI,GRÜNE,Umwelt & Klima,0,14,3
+XXI,GRÜNE,Energie,0,14,0
+XXI,GRÜNE,Verkehr & Mobilität,0,14,2
+XXI,GRÜNE,Innovation & Technologie,0,14,0
+XXI,GRÜNE,Wirtschaft,0,12,4
+XXI,GRÜNE,Tourismus,0,12,0
+XXI,GRÜNE,Öffentlicher Dienst,0,14,0
+XXI,ÖVP,Justiz,1,2,1
+XXI,GRÜNE,Inneres,0,13,2
+XXI,GRÜNE,Kunst & Kultur,1,2,0
+XXI,GRÜNE,Landesverteidigung,0,13,2
+XXI,FPÖ,Arbeit,1,5,1
+XXI,FPÖ,Soziales & Pflege,1,5,1
+XXI,ÖVP,Inneres,1,8,4
+XXI,ÖVP,Landesverteidigung,1,8,4
+XXI,ÖVP,Bildung,1,5,2
+XXI,ÖVP,Wissenschaft & Forschung,1,5,1
+XXI,ÖVP,Arbeit,1,4,1
+XXI,ÖVP,Soziales & Pflege,1,4,1
+XXI,FPÖ,Gesundheit,1,3,3
+XXI,ÖVP,Finanzen & Budget,1,13,6
+XXI,ÖVP,Wirtschaft,1,13,5
+XXI,ÖVP,Tourismus,1,13,0
+XXI,ÖVP,Landwirtschaft,1,11,6
+XXI,FPÖ,Bildung,1,3,3
+XXI,FPÖ,Wissenschaft & Forschung,1,3,1
+XXI,SPÖ,Justiz,1,5,2
+XXI,ÖVP,Kunst & Kultur,1,2,2
+XXI,GRÜNE,Bildung,1,3,0
+XXI,GRÜNE,Wissenschaft & Forschung,1,3,0
+XXI,ÖVP,Gesundheit,1,2,2
+XXI,FPÖ,Inneres,1,6,3
+XXI,FPÖ,Landesverteidigung,1,6,4
+XXI,SPÖ,Gesundheit,1,1,1
+XXI,FPÖ,Kunst & Kultur,1,2,1
+XXI,GRÜNE,Finanzen & Budget,1,2,0
+XXI,GRÜNE,Wirtschaft,1,2,0
+XXI,GRÜNE,Tourismus,1,2,0
+XXI,GRÜNE,Justiz,1,1,1
+XXI,GRÜNE,Gesundheit,1,1,1
+XXI,GRÜNE,Landwirtschaft,1,2,1
+XXII,ÖVP,Inneres,0,76,11
+XXII,ÖVP,Justiz,0,81,13
+XXII,ÖVP,Finanzen & Budget,0,62,21
+XXII,ÖVP,Gesundheit,0,80,11
+XXII,ÖVP,Arbeit,0,78,12
+XXII,ÖVP,Soziales & Pflege,0,78,12
+XXII,ÖVP,Konsumentenschutz,0,84,0
+XXII,ÖVP,Familie & Jugend,0,84,13
+XXII,ÖVP,Frauen & Gleichbehandlung,0,84,15
+XXII,ÖVP,Bildung,0,78,9
+XXII,ÖVP,Wissenschaft & Forschung,0,78,12
+XXII,ÖVP,Kunst & Kultur,0,82,20
+XXII,ÖVP,Sport,0,84,17
+XXII,ÖVP,Landesverteidigung,0,76,9
+XXII,ÖVP,Außen & Europa,0,84,14
+XXII,ÖVP,Landwirtschaft,0,66,6
+XXII,ÖVP,Umwelt & Klima,0,84,13
+XXII,ÖVP,Energie,0,84,0
+XXII,ÖVP,Verkehr & Mobilität,0,84,16
+XXII,ÖVP,Innovation & Technologie,0,84,0
+XXII,ÖVP,Wirtschaft,0,62,18
+XXII,ÖVP,Tourismus,0,62,0
+XXII,ÖVP,Öffentlicher Dienst,0,84,0
+XXII,SPÖ,Inneres,0,65,9
+XXII,SPÖ,Justiz,0,67,6
+XXII,SPÖ,Finanzen & Budget,0,61,14
+XXII,SPÖ,Gesundheit,0,72,11
+XXII,SPÖ,Arbeit,0,61,8
+XXII,SPÖ,Soziales & Pflege,0,61,8
+XXII,SPÖ,Konsumentenschutz,0,72,0
+XXII,SPÖ,Familie & Jugend,0,72,12
+XXII,SPÖ,Frauen & Gleichbehandlung,0,72,12
+XXII,SPÖ,Bildung,0,60,4
+XXII,SPÖ,Wissenschaft & Forschung,0,60,8
+XXII,SPÖ,Kunst & Kultur,0,69,16
+XXII,SPÖ,Sport,0,72,10
+XXII,SPÖ,Landesverteidigung,0,65,10
+XXII,SPÖ,Außen & Europa,0,72,10
+XXII,SPÖ,Landwirtschaft,0,72,11
+XXII,SPÖ,Umwelt & Klima,0,72,11
+XXII,SPÖ,Energie,0,72,0
+XXII,SPÖ,Verkehr & Mobilität,0,72,11
+XXII,SPÖ,Innovation & Technologie,0,72,0
+XXII,SPÖ,Wirtschaft,0,61,13
+XXII,SPÖ,Tourismus,0,61,0
+XXII,SPÖ,Öffentlicher Dienst,0,72,0
+XXII,SPÖ,Arbeit,1,11,4
+XXII,SPÖ,Soziales & Pflege,1,11,4
+XXII,SPÖ,Finanzen & Budget,1,11,5
+XXII,SPÖ,Wirtschaft,1,11,6
+XXII,SPÖ,Tourismus,1,11,0
+XXII,SPÖ,Kunst & Kultur,1,3,0
+XXII,FPÖ,Inneres,0,21,2
+XXII,FPÖ,Justiz,1,2,2
+XXII,FPÖ,Finanzen & Budget,0,16,2
+XXII,FPÖ,Gesundheit,0,22,2
+XXII,FPÖ,Arbeit,0,21,3
+XXII,FPÖ,Soziales & Pflege,0,21,3
+XXII,FPÖ,Konsumentenschutz,0,23,0
+XXII,FPÖ,Familie & Jugend,0,23,4
+XXII,FPÖ,Frauen & Gleichbehandlung,0,23,2
+XXII,FPÖ,Bildung,0,22,2
+XXII,FPÖ,Wissenschaft & Forschung,0,22,2
+XXII,FPÖ,Kunst & Kultur,0,23,4
+XXII,FPÖ,Sport,0,23,5
+XXII,FPÖ,Landesverteidigung,0,21,2
+XXII,FPÖ,Außen & Europa,0,23,4
+XXII,FPÖ,Landwirtschaft,0,21,0
+XXII,FPÖ,Umwelt & Klima,0,23,2
+XXII,FPÖ,Energie,0,23,0
+XXII,FPÖ,Verkehr & Mobilität,0,23,4
+XXII,FPÖ,Innovation & Technologie,0,23,0
+XXII,FPÖ,Wirtschaft,0,16,1
+XXII,FPÖ,Tourismus,0,16,0
+XXII,FPÖ,Öffentlicher Dienst,0,23,0
+XXII,SPÖ,Bildung,1,12,6
+XXII,SPÖ,Wissenschaft & Forschung,1,12,2
+XXII,GRÜNE,Inneres,1,2,0
+XXII,GRÜNE,Justiz,0,18,2
+XXII,GRÜNE,Finanzen & Budget,0,16,2
+XXII,GRÜNE,Gesundheit,0,18,1
+XXII,GRÜNE,Arbeit,0,19,2
+XXII,GRÜNE,Soziales & Pflege,0,19,2
+XXII,GRÜNE,Konsumentenschutz,0,19,0
+XXII,GRÜNE,Familie & Jugend,0,19,2
+XXII,GRÜNE,Frauen & Gleichbehandlung,0,19,3
+XXII,GRÜNE,Bildung,0,15,2
+XXII,GRÜNE,Wissenschaft & Forschung,0,15,3
+XXII,GRÜNE,Kunst & Kultur,0,16,3
+XXII,GRÜNE,Sport,0,19,2
+XXII,GRÜNE,Landesverteidigung,1,2,0
+XXII,GRÜNE,Außen & Europa,0,19,2
+XXII,GRÜNE,Landwirtschaft,0,17,1
+XXII,GRÜNE,Umwelt & Klima,0,19,2
+XXII,GRÜNE,Energie,0,19,0
+XXII,GRÜNE,Verkehr & Mobilität,0,19,3
+XXII,GRÜNE,Innovation & Technologie,0,19,0
+XXII,GRÜNE,Wirtschaft,0,16,2
+XXII,GRÜNE,Tourismus,0,16,0
+XXII,GRÜNE,Öffentlicher Dienst,0,19,0
+XXII,ÖVP,Justiz,1,3,2
+XXII,GRÜNE,Inneres,0,17,2
+XXII,GRÜNE,Kunst & Kultur,1,3,1
+XXII,GRÜNE,Landesverteidigung,0,17,3
+XXII,ÖVP,Inneres,1,8,4
+XXII,ÖVP,Landesverteidigung,1,8,5
+XXII,ÖVP,Arbeit,1,6,1
+XXII,ÖVP,Soziales & Pflege,1,6,1
+XXII,ÖVP,Landwirtschaft,1,18,8
+XXII,FPÖ,Justiz,0,21,2
+XXII,FPÖ,Landwirtschaft,1,2,2
+XXII,GRÜNE,Bildung,1,4,1
+XXII,GRÜNE,Wissenschaft & Forschung,1,4,0
+XXII,GRÜNE,Finanzen & Budget,1,3,0
+XXII,GRÜNE,Wirtschaft,1,3,1
+XXII,GRÜNE,Tourismus,1,3,0
+XXII,ÖVP,Finanzen & Budget,1,22,7
+XXII,ÖVP,Wirtschaft,1,22,11
+XXII,ÖVP,Tourismus,1,22,0
+XXII,ÖVP,Bildung,1,6,4
+XXII,ÖVP,Wissenschaft & Forschung,1,6,2
+XXII,ÖVP,Gesundheit,1,4,4
+XXII,ÖVP,Kunst & Kultur,1,2,2
+XXII,SPÖ,Justiz,1,5,4
+XXII,SPÖ,Inneres,1,7,2
+XXII,SPÖ,Landesverteidigung,1,7,1
+XXII,FPÖ,Finanzen & Budget,1,7,2
+XXII,FPÖ,Wirtschaft,1,7,2
+XXII,FPÖ,Tourismus,1,7,0
+XXII,FPÖ,Arbeit,1,2,1
+XXII,FPÖ,Soziales & Pflege,1,2,1
+XXII,FPÖ,Bildung,1,1,1
+XXII,FPÖ,Wissenschaft & Forschung,1,1,0
+XXII,FPÖ,Inneres,1,2,2
+XXII,FPÖ,Landesverteidigung,1,2,2
+XXII,FPÖ,Gesundheit,1,1,1
+XXII,GRÜNE,Justiz,1,1,0
+XXII,GRÜNE,Gesundheit,1,1,1
+XXII,GRÜNE,Landwirtschaft,1,2,1
+XXIII,ÖVP,Inneres,0,66,10
+XXIII,ÖVP,Justiz,0,69,11
+XXIII,ÖVP,Finanzen & Budget,0,55,16
+XXIII,ÖVP,Gesundheit,0,68,7
+XXIII,ÖVP,Arbeit,0,68,10
+XXIII,ÖVP,Soziales & Pflege,0,68,10
+XXIII,ÖVP,Konsumentenschutz,0,73,11
+XXIII,ÖVP,Familie & Jugend,0,73,12
+XXIII,ÖVP,Frauen & Gleichbehandlung,0,73,14
+XXIII,ÖVP,Bildung,0,66,7
+XXIII,ÖVP,Wissenschaft & Forschung,0,66,15
+XXIII,ÖVP,Kunst & Kultur,0,71,11
+XXIII,ÖVP,Sport,0,73,12
+XXIII,ÖVP,Landesverteidigung,0,66,9
+XXIII,ÖVP,Außen & Europa,0,73,14
+XXIII,ÖVP,Landwirtschaft,0,57,3
+XXIII,ÖVP,Umwelt & Klima,0,73,10
+XXIII,ÖVP,Energie,0,73,0
+XXIII,ÖVP,Verkehr & Mobilität,0,73,11
+XXIII,ÖVP,Innovation & Technologie,0,73,12
+XXIII,ÖVP,Wirtschaft,0,55,7
+XXIII,ÖVP,Tourismus,0,55,7
+XXIII,ÖVP,Öffentlicher Dienst,0,73,0
+XXIII,SPÖ,Inneres,0,67,8
+XXIII,SPÖ,Justiz,0,73,9
+XXIII,SPÖ,Finanzen & Budget,0,66,20
+XXIII,SPÖ,Gesundheit,0,76,14
+XXIII,SPÖ,Arbeit,0,70,10
+XXIII,SPÖ,Soziales & Pflege,0,70,10
+XXIII,SPÖ,Konsumentenschutz,0,77,12
+XXIII,SPÖ,Familie & Jugend,0,77,14
+XXIII,SPÖ,Frauen & Gleichbehandlung,0,77,14
+XXIII,SPÖ,Bildung,0,62,5
+XXIII,SPÖ,Wissenschaft & Forschung,0,62,14
+XXIII,SPÖ,Kunst & Kultur,0,75,10
+XXIII,SPÖ,Sport,0,77,10
+XXIII,SPÖ,Landesverteidigung,0,67,12
+XXIII,SPÖ,Außen & Europa,0,77,12
+XXIII,SPÖ,Landwirtschaft,0,77,12
+XXIII,SPÖ,Umwelt & Klima,0,77,12
+XXIII,SPÖ,Energie,0,77,0
+XXIII,SPÖ,Verkehr & Mobilität,0,77,12
+XXIII,SPÖ,Innovation & Technologie,0,77,11
+XXIII,SPÖ,Wirtschaft,0,66,10
+XXIII,SPÖ,Tourismus,0,66,11
+XXIII,SPÖ,Öffentlicher Dienst,0,77,0
+XXIII,SPÖ,Kunst & Kultur,1,2,1
+XXIII,SPÖ,Bildung,1,15,6
+XXIII,SPÖ,Wissenschaft & Forschung,1,15,4
+XXIII,ÖVP,Justiz,1,4,2
+XXIII,GRÜNE,Inneres,0,22,4
+XXIII,GRÜNE,Justiz,0,20,3
+XXIII,GRÜNE,Finanzen & Budget,0,20,4
+XXIII,GRÜNE,Gesundheit,0,21,2
+XXIII,GRÜNE,Arbeit,0,22,3
+XXIII,GRÜNE,Soziales & Pflege,0,22,3
+XXIII,GRÜNE,Konsumentenschutz,0,22,3
+XXIII,GRÜNE,Familie & Jugend,0,22,3
+XXIII,GRÜNE,Frauen & Gleichbehandlung,0,22,3
+XXIII,GRÜNE,Bildung,0,16,1
+XXIII,GRÜNE,Wissenschaft & Forschung,0,16,4
+XXIII,GRÜNE,Kunst & Kultur,1,3,1
+XXIII,GRÜNE,Sport,0,22,3
+XXIII,GRÜNE,Landesverteidigung,0,22,3
+XXIII,GRÜNE,Außen & Europa,0,22,3
+XXIII,GRÜNE,Landwirtschaft,0,18,2
+XXIII,GRÜNE,Umwelt & Klima,0,22,3
+XXIII,GRÜNE,Energie,0,22,0
+XXIII,GRÜNE,Verkehr & Mobilität,0,22,3
+XXIII,GRÜNE,Innovation & Technologie,0,22,3
+XXIII,GRÜNE,Wirtschaft,0,20,2
+XXIII,GRÜNE,Tourismus,0,20,3
+XXIII,GRÜNE,Öffentlicher Dienst,0,22,0
+XXIII,ÖVP,Arbeit,1,5,2
+XXIII,ÖVP,Soziales & Pflege,1,5,2
+XXIII,SPÖ,Finanzen & Budget,1,11,6
+XXIII,SPÖ,Wirtschaft,1,11,4
+XXIII,SPÖ,Tourismus,1,11,1
+XXIII,ÖVP,Landwirtschaft,1,16,7
+XXIII,FPÖ,Inneres,0,18,3
+XXIII,FPÖ,Justiz,0,18,0
+XXIII,FPÖ,Finanzen & Budget,0,14,3
+XXIII,FPÖ,Gesundheit,0,21,3
+XXIII,FPÖ,Arbeit,0,22,3
+XXIII,FPÖ,Soziales & Pflege,0,22,3
+XXIII,FPÖ,Konsumentenschutz,0,22,5
+XXIII,FPÖ,Familie & Jugend,0,22,4
+XXIII,FPÖ,Frauen & Gleichbehandlung,0,22,4
+XXIII,FPÖ,Bildung,0,21,2
+XXIII,FPÖ,Wissenschaft & Forschung,0,21,4
+XXIII,FPÖ,Kunst & Kultur,0,22,3
+XXIII,FPÖ,Sport,0,22,4
+XXIII,FPÖ,Landesverteidigung,0,18,2
+XXIII,FPÖ,Außen & Europa,0,22,4
+XXIII,FPÖ,Landwirtschaft,0,22,3
+XXIII,FPÖ,Umwelt & Klima,0,22,3
+XXIII,FPÖ,Energie,0,22,0
+XXIII,FPÖ,Verkehr & Mobilität,0,22,3
+XXIII,FPÖ,Innovation & Technologie,0,22,3
+XXIII,FPÖ,Wirtschaft,0,14,2
+XXIII,FPÖ,Tourismus,0,14,1
+XXIII,FPÖ,Öffentlicher Dienst,0,22,0
+XXIII,GRÜNE,Bildung,1,6,2
+XXIII,GRÜNE,Wissenschaft & Forschung,1,6,1
+XXIII,GRÜNE,Kunst & Kultur,0,19,3
+XXIII,GRÜNE,Finanzen & Budget,1,2,0
+XXIII,GRÜNE,Wirtschaft,1,2,1
+XXIII,GRÜNE,Tourismus,1,2,0
+XXIII,ÖVP,Bildung,1,7,5
+XXIII,ÖVP,Wissenschaft & Forschung,1,7,5
+XXIII,ÖVP,Finanzen & Budget,1,18,5
+XXIII,ÖVP,Wirtschaft,1,18,4
+XXIII,ÖVP,Tourismus,1,18,4
+XXIII,ÖVP,Inneres,1,7,3
+XXIII,ÖVP,Landesverteidigung,1,7,4
+XXIII,ÖVP,Gesundheit,1,5,5
+XXIII,SPÖ,Arbeit,1,7,2
+XXIII,SPÖ,Soziales & Pflege,1,7,2
+XXIII,BZÖ,Inneres,0,7,1
+XXIII,BZÖ,Justiz,0,6,0
+XXIII,BZÖ,Finanzen & Budget,1,3,1
+XXIII,BZÖ,Gesundheit,0,7,1
+XXIII,BZÖ,Arbeit,0,6,1
+XXIII,BZÖ,Soziales & Pflege,0,6,1
+XXIII,BZÖ,Konsumentenschutz,0,7,1
+XXIII,BZÖ,Familie & Jugend,0,7,1
+XXIII,BZÖ,Frauen & Gleichbehandlung,0,7,1
+XXIII,BZÖ,Bildung,0,6,0
+XXIII,BZÖ,Wissenschaft & Forschung,0,6,2
+XXIII,BZÖ,Kunst & Kultur,0,7,1
+XXIII,BZÖ,Sport,0,7,1
+XXIII,BZÖ,Landesverteidigung,0,7,2
+XXIII,BZÖ,Außen & Europa,0,7,1
+XXIII,BZÖ,Landwirtschaft,0,7,1
+XXIII,BZÖ,Umwelt & Klima,0,7,1
+XXIII,BZÖ,Energie,0,7,0
+XXIII,BZÖ,Verkehr & Mobilität,0,7,1
+XXIII,BZÖ,Innovation & Technologie,0,7,1
+XXIII,BZÖ,Wirtschaft,1,3,1
+XXIII,BZÖ,Tourismus,1,3,1
+XXIII,BZÖ,Öffentlicher Dienst,0,7,0
+XXIII,GRÜNE,Landwirtschaft,1,4,1
+XXIII,SPÖ,Inneres,1,10,4
+XXIII,SPÖ,Landesverteidigung,1,10,2
+XXIII,BZÖ,Finanzen & Budget,0,4,0
+XXIII,BZÖ,Wirtschaft,0,4,0
+XXIII,BZÖ,Tourismus,0,4,0
+XXIII,FPÖ,Finanzen & Budget,1,8,3
+XXIII,FPÖ,Wirtschaft,1,8,1
+XXIII,FPÖ,Tourismus,1,8,2
+XXIII,BZÖ,Arbeit,1,1,0
+XXIII,BZÖ,Soziales & Pflege,1,1,0
+XXIII,SPÖ,Justiz,1,4,3
+XXIII,BZÖ,Bildung,1,1,1
+XXIII,BZÖ,Wissenschaft & Forschung,1,1,0
+XXIII,ÖVP,Kunst & Kultur,1,2,1
+XXIII,FPÖ,Justiz,1,4,3
+XXIII,FPÖ,Inneres,1,4,1
+XXIII,FPÖ,Landesverteidigung,1,4,1
+XXIII,FPÖ,Gesundheit,1,1,1
+XXIII,BZÖ,Justiz,1,1,1
+XXIII,SPÖ,Gesundheit,1,1,1
+XXIII,FPÖ,Bildung,1,1,1
+XXIII,FPÖ,Wissenschaft & Forschung,1,1,0
+XXIII,GRÜNE,Justiz,1,2,1
+XXIII,GRÜNE,Gesundheit,1,1,1
+XXIV,SPÖ,Inneres,0,54,8
+XXIV,SPÖ,Justiz,0,61,8
+XXIV,SPÖ,Finanzen & Budget,1,7,3
+XXIV,SPÖ,Gesundheit,0,64,8
+XXIV,SPÖ,Arbeit,0,58,7
+XXIV,SPÖ,Soziales & Pflege,0,58,7
+XXIV,SPÖ,Konsumentenschutz,0,65,9
+XXIV,SPÖ,Familie & Jugend,0,65,9
+XXIV,SPÖ,Frauen & Gleichbehandlung,0,65,9
+XXIV,SPÖ,Bildung,0,50,3
+XXIV,SPÖ,Wissenschaft & Forschung,0,50,15
+XXIV,SPÖ,Kunst & Kultur,0,64,7
+XXIV,SPÖ,Sport,0,65,11
+XXIV,SPÖ,Landesverteidigung,0,54,10
+XXIV,SPÖ,Außen & Europa,0,65,11
+XXIV,SPÖ,Landwirtschaft,0,65,10
+XXIV,SPÖ,Umwelt & Klima,0,65,11
+XXIV,SPÖ,Energie,0,65,0
+XXIV,SPÖ,Verkehr & Mobilität,0,65,9
+XXIV,SPÖ,Innovation & Technologie,0,65,11
+XXIV,SPÖ,Wirtschaft,1,7,4
+XXIV,SPÖ,Tourismus,1,7,1
+XXIV,SPÖ,Öffentlicher Dienst,0,65,0
+XXIV,SPÖ,Finanzen & Budget,0,58,21
+XXIV,SPÖ,Kunst & Kultur,1,1,1
+XXIV,SPÖ,Wirtschaft,0,58,5
+XXIV,SPÖ,Tourismus,0,58,9
+XXIV,SPÖ,Bildung,1,15,9
+XXIV,SPÖ,Wissenschaft & Forschung,1,15,5
+XXIV,ÖVP,Inneres,0,59,11
+XXIV,ÖVP,Justiz,1,6,2
+XXIV,ÖVP,Finanzen & Budget,0,44,14
+XXIV,ÖVP,Gesundheit,0,60,7
+XXIV,ÖVP,Arbeit,0,60,11
+XXIV,ÖVP,Soziales & Pflege,0,60,11
+XXIV,ÖVP,Konsumentenschutz,0,63,9
+XXIV,ÖVP,Familie & Jugend,0,63,9
+XXIV,ÖVP,Frauen & Gleichbehandlung,0,63,11
+XXIV,ÖVP,Bildung,0,59,10
+XXIV,ÖVP,Wissenschaft & Forschung,0,59,13
+XXIV,ÖVP,Kunst & Kultur,0,61,12
+XXIV,ÖVP,Sport,0,63,14
+XXIV,ÖVP,Landesverteidigung,0,59,13
+XXIV,ÖVP,Außen & Europa,0,63,12
+XXIV,ÖVP,Landwirtschaft,0,47,2
+XXIV,ÖVP,Umwelt & Klima,0,63,9
+XXIV,ÖVP,Energie,0,63,0
+XXIV,ÖVP,Verkehr & Mobilität,0,63,10
+XXIV,ÖVP,Innovation & Technologie,0,63,11
+XXIV,ÖVP,Wirtschaft,0,44,5
+XXIV,ÖVP,Tourismus,0,44,7
+XXIV,ÖVP,Öffentlicher Dienst,0,63,0
+XXIV,GRÜNE,Inneres,0,22,4
+XXIV,GRÜNE,Justiz,0,19,1
+XXIV,GRÜNE,Finanzen & Budget,0,21,6
+XXIV,GRÜNE,Gesundheit,0,21,2
+XXIV,GRÜNE,Arbeit,0,21,4
+XXIV,GRÜNE,Soziales & Pflege,0,21,4
+XXIV,GRÜNE,Konsumentenschutz,0,22,3
+XXIV,GRÜNE,Familie & Jugend,0,22,3
+XXIV,GRÜNE,Frauen & Gleichbehandlung,0,22,3
+XXIV,GRÜNE,Bildung,0,16,3
+XXIV,GRÜNE,Wissenschaft & Forschung,0,16,4
+XXIV,GRÜNE,Kunst & Kultur,1,4,2
+XXIV,GRÜNE,Sport,0,22,4
+XXIV,GRÜNE,Landesverteidigung,0,22,3
+XXIV,GRÜNE,Außen & Europa,0,22,5
+XXIV,GRÜNE,Landwirtschaft,0,18,2
+XXIV,GRÜNE,Umwelt & Klima,0,22,4
+XXIV,GRÜNE,Energie,0,22,0
+XXIV,GRÜNE,Verkehr & Mobilität,0,22,3
+XXIV,GRÜNE,Innovation & Technologie,0,22,4
+XXIV,GRÜNE,Wirtschaft,0,21,3
+XXIV,GRÜNE,Tourismus,0,21,3
+XXIV,GRÜNE,Öffentlicher Dienst,0,22,0
+XXIV,ÖVP,Justiz,0,57,9
+XXIV,ÖVP,Landwirtschaft,1,16,6
+XXIV,ÖVP,Arbeit,1,3,2
+XXIV,ÖVP,Soziales & Pflege,1,3,2
+XXIV,ÖVP,Bildung,1,4,3
+XXIV,ÖVP,Wissenschaft & Forschung,1,4,2
+XXIV,ÖVP,Finanzen & Budget,1,19,8
+XXIV,ÖVP,Wirtschaft,1,19,5
+XXIV,ÖVP,Tourismus,1,19,4
+XXIV,ÖVP,Inneres,1,4,4
+XXIV,ÖVP,Landesverteidigung,1,4,3
+XXIV,ÖVP,Gesundheit,1,3,3
+XXIV,SPÖ,Arbeit,1,7,2
+XXIV,SPÖ,Soziales & Pflege,1,7,2
+XXIV,BZÖ,Inneres,0,17,3
+XXIV,BZÖ,Justiz,0,17,3
+XXIV,BZÖ,Finanzen & Budget,1,9,5
+XXIV,BZÖ,Gesundheit,0,17,3
+XXIV,BZÖ,Arbeit,0,16,4
+XXIV,BZÖ,Soziales & Pflege,0,16,4
+XXIV,BZÖ,Konsumentenschutz,0,18,4
+XXIV,BZÖ,Familie & Jugend,0,18,5
+XXIV,BZÖ,Frauen & Gleichbehandlung,0,18,4
+XXIV,BZÖ,Bildung,0,17,3
+XXIV,BZÖ,Wissenschaft & Forschung,0,17,5
+XXIV,BZÖ,Kunst & Kultur,0,18,3
+XXIV,BZÖ,Sport,0,18,3
+XXIV,BZÖ,Landesverteidigung,0,17,3
+XXIV,BZÖ,Außen & Europa,0,18,5
+XXIV,BZÖ,Landwirtschaft,0,18,3
+XXIV,BZÖ,Umwelt & Klima,0,18,3
+XXIV,BZÖ,Energie,0,18,0
+XXIV,BZÖ,Verkehr & Mobilität,0,18,3
+XXIV,BZÖ,Innovation & Technologie,0,18,4
+XXIV,BZÖ,Wirtschaft,1,9,3
+XXIV,BZÖ,Tourismus,1,9,4
+XXIV,BZÖ,Öffentlicher Dienst,0,18,0
+XXIV,GRÜNE,Kunst & Kultur,0,18,2
+XXIV,GRÜNE,Landwirtschaft,1,4,1
+XXIV,FPÖ,Inneres,0,36,3
+XXIV,FPÖ,Justiz,0,35,1
+XXIV,FPÖ,Finanzen & Budget,1,15,6
+XXIV,FPÖ,Gesundheit,0,40,5
+XXIV,FPÖ,Arbeit,0,40,5
+XXIV,FPÖ,Soziales & Pflege,0,40,5
+XXIV,FPÖ,Konsumentenschutz,0,42,8
+XXIV,FPÖ,Familie & Jugend,0,42,5
+XXIV,FPÖ,Frauen & Gleichbehandlung,0,42,7
+XXIV,FPÖ,Bildung,0,42,7
+XXIV,FPÖ,Wissenschaft & Forschung,0,42,10
+XXIV,FPÖ,Kunst & Kultur,0,42,8
+XXIV,FPÖ,Sport,0,42,6
+XXIV,FPÖ,Landesverteidigung,0,36,7
+XXIV,FPÖ,Außen & Europa,0,42,9
+XXIV,FPÖ,Landwirtschaft,0,40,6
+XXIV,FPÖ,Umwelt & Klima,0,42,5
+XXIV,FPÖ,Energie,0,42,0
+XXIV,FPÖ,Verkehr & Mobilität,0,42,7
+XXIV,FPÖ,Innovation & Technologie,0,42,7
+XXIV,FPÖ,Wirtschaft,1,15,4
+XXIV,FPÖ,Tourismus,1,15,5
+XXIV,FPÖ,Öffentlicher Dienst,0,42,0
+XXIV,SPÖ,Inneres,1,11,4
+XXIV,SPÖ,Landesverteidigung,1,11,3
+XXIV,BZÖ,Finanzen & Budget,0,9,2
+XXIV,BZÖ,Wirtschaft,0,9,1
+XXIV,BZÖ,Tourismus,0,9,0
+XXIV,BZÖ,Arbeit,1,2,1
+XXIV,BZÖ,Soziales & Pflege,1,2,1
+XXIV,SPÖ,Justiz,1,4,3
+XXIV,BZÖ,Bildung,1,1,1
+XXIV,BZÖ,Wissenschaft & Forschung,1,1,0
+XXIV,BZÖ,Justiz,1,1,1
+XXIV,GRÜNE,Bildung,1,6,2
+XXIV,GRÜNE,Wissenschaft & Forschung,1,6,1
+XXIV,ÖVP,Kunst & Kultur,1,2,1
+XXIV,FPÖ,Finanzen & Budget,0,27,4
+XXIV,FPÖ,Gesundheit,1,2,2
+XXIV,FPÖ,Wirtschaft,0,27,3
+XXIV,FPÖ,Tourismus,0,27,5
+XXIV,FPÖ,Justiz,1,7,6
+XXIV,FPÖ,Inneres,1,6,5
+XXIV,FPÖ,Landesverteidigung,1,6,2
+XXIV,SPÖ,Gesundheit,1,1,1
+XXIV,GRÜNE,Justiz,1,3,2
+XXIV,FPÖ,Arbeit,1,2,0
+XXIV,FPÖ,Soziales & Pflege,1,2,0
+XXIV,FPÖ,Landwirtschaft,1,2,2
+XXIV,BZÖ,Gesundheit,1,1,1
+XXIV,ohne Klub,Inneres,0,1,0
+XXIV,ohne Klub,Justiz,0,1,0
+XXIV,ohne Klub,Finanzen & Budget,0,1,0
+XXIV,ohne Klub,Gesundheit,0,1,0
+XXIV,ohne Klub,Arbeit,0,1,0
+XXIV,ohne Klub,Soziales & Pflege,0,1,0
+XXIV,ohne Klub,Konsumentenschutz,0,1,0
+XXIV,ohne Klub,Familie & Jugend,0,1,0
+XXIV,ohne Klub,Frauen & Gleichbehandlung,0,1,0
+XXIV,ohne Klub,Bildung,0,1,0
+XXIV,ohne Klub,Wissenschaft & Forschung,0,1,0
+XXIV,ohne Klub,Kunst & Kultur,0,1,0
+XXIV,ohne Klub,Sport,0,1,0
+XXIV,ohne Klub,Landesverteidigung,0,1,0
+XXIV,ohne Klub,Außen & Europa,0,1,0
+XXIV,ohne Klub,Landwirtschaft,0,1,1
+XXIV,ohne Klub,Umwelt & Klima,0,1,1
+XXIV,ohne Klub,Energie,0,1,0
+XXIV,ohne Klub,Verkehr & Mobilität,0,1,1
+XXIV,ohne Klub,Innovation & Technologie,0,1,0
+XXIV,ohne Klub,Wirtschaft,0,1,0
+XXIV,ohne Klub,Tourismus,0,1,0
+XXIV,ohne Klub,Öffentlicher Dienst,0,1,0
+XXIV,GRÜNE,Arbeit,1,1,0
+XXIV,GRÜNE,Soziales & Pflege,1,1,0
+XXIV,GRÜNE,Finanzen & Budget,1,1,0
+XXIV,GRÜNE,Wirtschaft,1,1,0
+XXIV,GRÜNE,Tourismus,1,1,0
+XXIV,GRÜNE,Gesundheit,1,1,1
+XXIV,BZÖ,Inneres,1,1,1
+XXIV,BZÖ,Landesverteidigung,1,1,1
+XXV,SPÖ,Inneres,0,48,8
+XXV,SPÖ,Justiz,0,53,6
+XXV,SPÖ,Finanzen & Budget,1,7,5
+XXV,SPÖ,Gesundheit,0,57,10
+XXV,SPÖ,Arbeit,0,49,7
+XXV,SPÖ,Soziales & Pflege,0,49,7
+XXV,SPÖ,Konsumentenschutz,0,58,13
+XXV,SPÖ,Familie & Jugend,0,58,10
+XXV,SPÖ,Frauen & Gleichbehandlung,0,58,11
+XXV,SPÖ,Bildung,0,50,7
+XXV,SPÖ,Wissenschaft & Forschung,0,50,14
+XXV,SPÖ,Kunst & Kultur,0,58,9
+XXV,SPÖ,Sport,0,58,10
+XXV,SPÖ,Landesverteidigung,0,48,7
+XXV,SPÖ,Außen & Europa,0,58,9
+XXV,SPÖ,Landwirtschaft,0,58,14
+XXV,SPÖ,Umwelt & Klima,0,58,10
+XXV,SPÖ,Energie,0,58,0
+XXV,SPÖ,Verkehr & Mobilität,0,58,10
+XXV,SPÖ,Innovation & Technologie,0,58,10
+XXV,SPÖ,Wirtschaft,1,7,4
+XXV,SPÖ,Tourismus,1,7,1
+XXV,SPÖ,Öffentlicher Dienst,0,58,0
+XXV,NEOS,Inneres,0,12,2
+XXV,NEOS,Justiz,0,9,1
+XXV,NEOS,Finanzen & Budget,0,7,1
+XXV,NEOS,Gesundheit,0,12,1
+XXV,NEOS,Arbeit,0,12,1
+XXV,NEOS,Soziales & Pflege,0,12,1
+XXV,NEOS,Konsumentenschutz,0,12,3
+XXV,NEOS,Familie & Jugend,0,12,2
+XXV,NEOS,Frauen & Gleichbehandlung,0,12,3
+XXV,NEOS,Bildung,0,12,1
+XXV,NEOS,Wissenschaft & Forschung,0,12,2
+XXV,NEOS,Kunst & Kultur,1,1,0
+XXV,NEOS,Sport,0,12,2
+XXV,NEOS,Landesverteidigung,0,12,2
+XXV,NEOS,Außen & Europa,0,12,2
+XXV,NEOS,Landwirtschaft,0,12,3
+XXV,NEOS,Umwelt & Klima,0,12,1
+XXV,NEOS,Energie,0,12,0
+XXV,NEOS,Verkehr & Mobilität,0,12,1
+XXV,NEOS,Innovation & Technologie,0,12,2
+XXV,NEOS,Wirtschaft,0,7,1
+XXV,NEOS,Tourismus,0,7,0
+XXV,NEOS,Öffentlicher Dienst,0,12,0
+XXV,GRÜNE,Inneres,0,25,4
+XXV,GRÜNE,Justiz,0,22,2
+XXV,GRÜNE,Finanzen & Budget,0,23,5
+XXV,GRÜNE,Gesundheit,0,24,4
+XXV,GRÜNE,Arbeit,0,24,5
+XXV,GRÜNE,Soziales & Pflege,0,24,5
+XXV,GRÜNE,Konsumentenschutz,0,25,4
+XXV,GRÜNE,Familie & Jugend,0,25,5
+XXV,GRÜNE,Frauen & Gleichbehandlung,0,25,4
+XXV,GRÜNE,Bildung,0,19,1
+XXV,GRÜNE,Wissenschaft & Forschung,0,19,4
+XXV,GRÜNE,Kunst & Kultur,1,3,1
+XXV,GRÜNE,Sport,0,25,6
+XXV,GRÜNE,Landesverteidigung,0,25,4
+XXV,GRÜNE,Außen & Europa,0,25,4
+XXV,GRÜNE,Landwirtschaft,0,21,3
+XXV,GRÜNE,Umwelt & Klima,0,25,5
+XXV,GRÜNE,Energie,0,25,0
+XXV,GRÜNE,Verkehr & Mobilität,0,25,4
+XXV,GRÜNE,Innovation & Technologie,0,25,4
+XXV,GRÜNE,Wirtschaft,0,23,3
+XXV,GRÜNE,Tourismus,0,23,3
+XXV,GRÜNE,Öffentlicher Dienst,0,25,0
+XXV,ÖVP,Inneres,0,46,8
+XXV,ÖVP,Justiz,0,46,9
+XXV,ÖVP,Finanzen & Budget,0,35,10
+XXV,ÖVP,Gesundheit,0,47,7
+XXV,ÖVP,Arbeit,1,2,1
+XXV,ÖVP,Soziales & Pflege,1,2,1
+XXV,ÖVP,Konsumentenschutz,0,49,9
+XXV,ÖVP,Familie & Jugend,0,49,11
+XXV,ÖVP,Frauen & Gleichbehandlung,0,49,9
+XXV,ÖVP,Bildung,0,45,8
+XXV,ÖVP,Wissenschaft & Forschung,0,45,13
+XXV,ÖVP,Kunst & Kultur,0,47,9
+XXV,ÖVP,Sport,0,49,10
+XXV,ÖVP,Landesverteidigung,0,46,12
+XXV,ÖVP,Außen & Europa,0,49,10
+XXV,ÖVP,Landwirtschaft,0,38,4
+XXV,ÖVP,Umwelt & Klima,0,49,9
+XXV,ÖVP,Energie,0,49,0
+XXV,ÖVP,Verkehr & Mobilität,0,49,10
+XXV,ÖVP,Innovation & Technologie,0,49,10
+XXV,ÖVP,Wirtschaft,0,35,5
+XXV,ÖVP,Tourismus,0,35,6
+XXV,ÖVP,Öffentlicher Dienst,0,49,0
+XXV,ÖVP,Arbeit,0,47,8
+XXV,ÖVP,Soziales & Pflege,0,47,8
+XXV,ÖVP,Landwirtschaft,1,11,5
+XXV,FPÖ,Inneres,0,38,8
+XXV,FPÖ,Justiz,0,37,3
+XXV,FPÖ,Finanzen & Budget,0,26,6
+XXV,FPÖ,Gesundheit,0,42,6
+XXV,FPÖ,Arbeit,0,44,7
+XXV,FPÖ,Soziales & Pflege,0,44,7
+XXV,FPÖ,Konsumentenschutz,0,44,8
+XXV,FPÖ,Familie & Jugend,0,44,7
+XXV,FPÖ,Frauen & Gleichbehandlung,0,44,8
+XXV,FPÖ,Bildung,0,42,5
+XXV,FPÖ,Wissenschaft & Forschung,0,42,10
+XXV,FPÖ,Kunst & Kultur,0,43,6
+XXV,FPÖ,Sport,0,44,8
+XXV,FPÖ,Landesverteidigung,0,38,4
+XXV,FPÖ,Außen & Europa,0,44,8
+XXV,FPÖ,Landwirtschaft,0,43,5
+XXV,FPÖ,Umwelt & Klima,0,44,9
+XXV,FPÖ,Energie,0,44,0
+XXV,FPÖ,Verkehr & Mobilität,0,44,6
+XXV,FPÖ,Innovation & Technologie,0,44,7
+XXV,FPÖ,Wirtschaft,0,26,1
+XXV,FPÖ,Tourismus,0,26,3
+XXV,FPÖ,Öffentlicher Dienst,0,44,0
+XXV,ÖVP,Bildung,1,4,2
+XXV,ÖVP,Wissenschaft & Forschung,1,4,2
+XXV,SPÖ,Finanzen & Budget,0,51,20
+XXV,SPÖ,Wirtschaft,0,51,6
+XXV,SPÖ,Tourismus,0,51,12
+XXV,SPÖ,Bildung,1,8,5
+XXV,SPÖ,Wissenschaft & Forschung,1,8,2
+XXV,SPÖ,Arbeit,1,9,3
+XXV,SPÖ,Soziales & Pflege,1,9,3
+XXV,ÖVP,Finanzen & Budget,1,14,4
+XXV,ÖVP,Wirtschaft,1,14,5
+XXV,ÖVP,Tourismus,1,14,5
+XXV,GRÜNE,Kunst & Kultur,0,22,5
+XXV,GRÜNE,Landwirtschaft,1,4,1
+XXV,SPÖ,Inneres,1,10,5
+XXV,SPÖ,Landesverteidigung,1,10,3
+XXV,FPÖ,Finanzen & Budget,1,18,6
+XXV,FPÖ,Wirtschaft,1,18,6
+XXV,FPÖ,Tourismus,1,18,5
+XXV,SPÖ,Justiz,1,5,4
+XXV,ÖVP,Inneres,1,3,2
+XXV,ÖVP,Landesverteidigung,1,3,1
+XXV,GRÜNE,Bildung,1,6,3
+XXV,GRÜNE,Wissenschaft & Forschung,1,6,2
+XXV,ÖVP,Gesundheit,1,2,2
+XXV,FPÖ,Inneres,1,6,2
+XXV,FPÖ,Landesverteidigung,1,6,4
+XXV,ÖVP,Kunst & Kultur,1,2,0
+XXV,FPÖ,Gesundheit,1,2,2
+XXV,FPÖ,Justiz,1,7,4
+XXV,SPÖ,Gesundheit,1,1,1
+XXV,FPÖ,Bildung,1,2,1
+XXV,FPÖ,Wissenschaft & Forschung,1,2,1
+XXV,FPÖ,Kunst & Kultur,1,1,1
+XXV,GRÜNE,Justiz,1,3,3
+XXV,Team Stronach,Inneres,0,6,0
+XXV,Team Stronach,Justiz,0,7,2
+XXV,Team Stronach,Finanzen & Budget,0,5,0
+XXV,Team Stronach,Gesundheit,0,7,1
+XXV,Team Stronach,Arbeit,0,5,1
+XXV,Team Stronach,Soziales & Pflege,0,5,1
+XXV,Team Stronach,Konsumentenschutz,0,7,2
+XXV,Team Stronach,Familie & Jugend,0,7,2
+XXV,Team Stronach,Frauen & Gleichbehandlung,0,7,2
+XXV,Team Stronach,Bildung,0,7,1
+XXV,Team Stronach,Wissenschaft & Forschung,0,7,2
+XXV,Team Stronach,Kunst & Kultur,0,7,1
+XXV,Team Stronach,Sport,0,7,1
+XXV,Team Stronach,Landesverteidigung,0,6,0
+XXV,Team Stronach,Außen & Europa,0,7,1
+XXV,Team Stronach,Landwirtschaft,1,1,1
+XXV,Team Stronach,Umwelt & Klima,0,7,1
+XXV,Team Stronach,Energie,0,7,0
+XXV,Team Stronach,Verkehr & Mobilität,0,7,1
+XXV,Team Stronach,Innovation & Technologie,0,7,2
+XXV,Team Stronach,Wirtschaft,0,5,2
+XXV,Team Stronach,Tourismus,0,5,1
+XXV,Team Stronach,Öffentlicher Dienst,0,7,0
+XXV,ohne Klub,Inneres,0,3,0
+XXV,ohne Klub,Justiz,0,3,0
+XXV,ohne Klub,Finanzen & Budget,0,3,0
+XXV,ohne Klub,Gesundheit,0,2,1
+XXV,ohne Klub,Arbeit,1,1,0
+XXV,ohne Klub,Soziales & Pflege,1,1,0
+XXV,ohne Klub,Konsumentenschutz,0,3,2
+XXV,ohne Klub,Familie & Jugend,0,3,1
+XXV,ohne Klub,Frauen & Gleichbehandlung,0,3,0
+XXV,ohne Klub,Bildung,0,3,0
+XXV,ohne Klub,Wissenschaft & Forschung,0,3,1
+XXV,ohne Klub,Kunst & Kultur,0,3,1
+XXV,ohne Klub,Sport,0,3,0
+XXV,ohne Klub,Landesverteidigung,0,3,0
+XXV,ohne Klub,Außen & Europa,0,3,0
+XXV,ohne Klub,Landwirtschaft,0,3,1
+XXV,ohne Klub,Umwelt & Klima,0,3,1
+XXV,ohne Klub,Energie,0,3,0
+XXV,ohne Klub,Verkehr & Mobilität,0,3,0
+XXV,ohne Klub,Innovation & Technologie,0,3,1
+XXV,ohne Klub,Wirtschaft,0,3,0
+XXV,ohne Klub,Tourismus,0,3,0
+XXV,ohne Klub,Öffentlicher Dienst,0,3,0
+XXV,FPÖ,Landwirtschaft,1,1,1
+XXV,Team Stronach,Finanzen & Budget,1,2,1
+XXV,Team Stronach,Landwirtschaft,0,6,0
+XXV,Team Stronach,Wirtschaft,1,2,0
+XXV,Team Stronach,Tourismus,1,2,0
+XXV,Team Stronach,Arbeit,1,2,0
+XXV,Team Stronach,Soziales & Pflege,1,2,0
+XXV,GRÜNE,Arbeit,1,1,0
+XXV,GRÜNE,Soziales & Pflege,1,1,0
+XXV,ÖVP,Justiz,1,3,2
+XXV,GRÜNE,Finanzen & Budget,1,2,1
+XXV,GRÜNE,Wirtschaft,1,2,1
+XXV,GRÜNE,Tourismus,1,2,1
+XXV,Team Stronach,Inneres,1,1,1
+XXV,Team Stronach,Landesverteidigung,1,1,1
+XXV,GRÜNE,Gesundheit,1,1,1
+XXV,NEOS,Finanzen & Budget,1,5,0
+XXV,NEOS,Kunst & Kultur,0,11,3
+XXV,NEOS,Wirtschaft,1,5,1
+XXV,NEOS,Tourismus,1,5,3
+XXV,NEOS,Justiz,1,3,1
+XXV,ohne Klub,Arbeit,0,2,1
+XXV,ohne Klub,Soziales & Pflege,0,2,1
+XXV,ohne Klub,Gesundheit,1,1,1
+XXVI,NEOS,Inneres,0,10,1
+XXVI,NEOS,Justiz,0,8,0
+XXVI,NEOS,Finanzen & Budget,0,5,1
+XXVI,NEOS,Gesundheit,0,10,1
+XXVI,NEOS,Arbeit,0,10,1
+XXVI,NEOS,Soziales & Pflege,0,10,1
+XXVI,NEOS,Konsumentenschutz,0,10,1
+XXVI,NEOS,Familie & Jugend,0,10,1
+XXVI,NEOS,Frauen & Gleichbehandlung,0,10,2
+XXVI,NEOS,Bildung,0,10,2
+XXVI,NEOS,Wissenschaft & Forschung,0,10,2
+XXVI,NEOS,Kunst & Kultur,1,1,0
+XXVI,NEOS,Sport,0,10,1
+XXVI,NEOS,Landesverteidigung,0,10,1
+XXVI,NEOS,Außen & Europa,0,10,1
+XXVI,NEOS,Landwirtschaft,0,10,1
+XXVI,NEOS,Umwelt & Klima,0,10,1
+XXVI,NEOS,Energie,0,10,1
+XXVI,NEOS,Verkehr & Mobilität,0,10,1
+XXVI,NEOS,Innovation & Technologie,0,10,2
+XXVI,NEOS,Wirtschaft,0,5,0
+XXVI,NEOS,Tourismus,0,5,0
+XXVI,NEOS,Öffentlicher Dienst,0,10,0
+XXVI,JETZT,Inneres,0,8,2
+XXVI,JETZT,Justiz,0,6,0
+XXVI,JETZT,Finanzen & Budget,0,7,1
+XXVI,JETZT,Gesundheit,0,8,2
+XXVI,JETZT,Arbeit,0,7,0
+XXVI,JETZT,Soziales & Pflege,0,7,0
+XXVI,JETZT,Konsumentenschutz,0,8,3
+XXVI,JETZT,Familie & Jugend,0,8,1
+XXVI,JETZT,Frauen & Gleichbehandlung,0,8,1
+XXVI,JETZT,Bildung,0,8,1
+XXVI,JETZT,Wissenschaft & Forschung,0,8,2
+XXVI,JETZT,Kunst & Kultur,1,3,1
+XXVI,JETZT,Sport,0,8,1
+XXVI,JETZT,Landesverteidigung,0,8,2
+XXVI,JETZT,Außen & Europa,0,8,2
+XXVI,JETZT,Landwirtschaft,0,7,1
+XXVI,JETZT,Umwelt & Klima,0,8,1
+XXVI,JETZT,Energie,0,8,1
+XXVI,JETZT,Verkehr & Mobilität,0,8,1
+XXVI,JETZT,Innovation & Technologie,0,8,1
+XXVI,JETZT,Wirtschaft,0,7,1
+XXVI,JETZT,Tourismus,0,7,0
+XXVI,JETZT,Öffentlicher Dienst,0,8,0
+XXVI,ÖVP,Inneres,0,65,8
+XXVI,ÖVP,Justiz,0,65,7
+XXVI,ÖVP,Finanzen & Budget,0,48,15
+XXVI,ÖVP,Gesundheit,0,71,11
+XXVI,ÖVP,Arbeit,1,2,1
+XXVI,ÖVP,Soziales & Pflege,1,2,1
+XXVI,ÖVP,Konsumentenschutz,0,71,10
+XXVI,ÖVP,Familie & Jugend,0,71,10
+XXVI,ÖVP,Frauen & Gleichbehandlung,0,71,13
+XXVI,ÖVP,Bildung,0,65,10
+XXVI,ÖVP,Wissenschaft & Forschung,0,65,12
+XXVI,ÖVP,Kunst & Kultur,0,68,8
+XXVI,ÖVP,Sport,0,71,13
+XXVI,ÖVP,Landesverteidigung,0,65,6
+XXVI,ÖVP,Außen & Europa,0,71,11
+XXVI,ÖVP,Landwirtschaft,0,59,4
+XXVI,ÖVP,Umwelt & Klima,0,71,15
+XXVI,ÖVP,Energie,0,71,10
+XXVI,ÖVP,Verkehr & Mobilität,0,71,12
+XXVI,ÖVP,Innovation & Technologie,0,71,10
+XXVI,ÖVP,Wirtschaft,0,48,3
+XXVI,ÖVP,Tourismus,0,48,5
+XXVI,ÖVP,Öffentlicher Dienst,0,71,0
+XXVI,FPÖ,Inneres,0,45,8
+XXVI,FPÖ,Justiz,0,46,2
+XXVI,FPÖ,Finanzen & Budget,0,38,11
+XXVI,FPÖ,Gesundheit,0,51,5
+XXVI,FPÖ,Arbeit,0,53,9
+XXVI,FPÖ,Soziales & Pflege,0,53,9
+XXVI,FPÖ,Konsumentenschutz,0,54,9
+XXVI,FPÖ,Familie & Jugend,0,54,10
+XXVI,FPÖ,Frauen & Gleichbehandlung,0,54,9
+XXVI,FPÖ,Bildung,0,51,8
+XXVI,FPÖ,Wissenschaft & Forschung,0,51,9
+XXVI,FPÖ,Kunst & Kultur,0,53,8
+XXVI,FPÖ,Sport,0,54,11
+XXVI,FPÖ,Landesverteidigung,0,45,6
+XXVI,FPÖ,Außen & Europa,0,54,10
+XXVI,FPÖ,Landwirtschaft,0,52,7
+XXVI,FPÖ,Umwelt & Klima,0,54,8
+XXVI,FPÖ,Energie,0,54,9
+XXVI,FPÖ,Verkehr & Mobilität,0,54,7
+XXVI,FPÖ,Innovation & Technologie,0,54,8
+XXVI,FPÖ,Wirtschaft,0,38,4
+XXVI,FPÖ,Tourismus,0,38,6
+XXVI,FPÖ,Öffentlicher Dienst,0,54,0
+XXVI,SPÖ,Inneres,0,47,4
+XXVI,SPÖ,Justiz,0,53,4
+XXVI,SPÖ,Finanzen & Budget,0,49,13
+XXVI,SPÖ,Gesundheit,0,56,8
+XXVI,SPÖ,Arbeit,0,45,5
+XXVI,SPÖ,Soziales & Pflege,0,45,5
+XXVI,SPÖ,Konsumentenschutz,0,56,8
+XXVI,SPÖ,Familie & Jugend,0,56,8
+XXVI,SPÖ,Frauen & Gleichbehandlung,0,56,7
+XXVI,SPÖ,Bildung,0,50,7
+XXVI,SPÖ,Wissenschaft & Forschung,0,50,11
+XXVI,SPÖ,Kunst & Kultur,0,56,8
+XXVI,SPÖ,Sport,0,56,9
+XXVI,SPÖ,Landesverteidigung,0,47,4
+XXVI,SPÖ,Außen & Europa,0,56,10
+XXVI,SPÖ,Landwirtschaft,0,56,8
+XXVI,SPÖ,Umwelt & Klima,0,56,9
+XXVI,SPÖ,Energie,0,56,10
+XXVI,SPÖ,Verkehr & Mobilität,0,56,8
+XXVI,SPÖ,Innovation & Technologie,0,56,7
+XXVI,SPÖ,Wirtschaft,0,49,5
+XXVI,SPÖ,Tourismus,0,49,5
+XXVI,SPÖ,Öffentlicher Dienst,0,56,0
+XXVI,ÖVP,Arbeit,0,69,10
+XXVI,ÖVP,Soziales & Pflege,0,69,10
+XXVI,ÖVP,Landwirtschaft,1,12,5
+XXVI,ÖVP,Bildung,1,6,2
+XXVI,ÖVP,Wissenschaft & Forschung,1,6,3
+XXVI,SPÖ,Bildung,1,6,2
+XXVI,SPÖ,Wissenschaft & Forschung,1,6,1
+XXVI,SPÖ,Finanzen & Budget,1,7,3
+XXVI,SPÖ,Wirtschaft,1,7,5
+XXVI,SPÖ,Tourismus,1,7,2
+XXVI,SPÖ,Arbeit,1,11,5
+XXVI,SPÖ,Soziales & Pflege,1,11,5
+XXVI,ÖVP,Finanzen & Budget,1,23,7
+XXVI,ÖVP,Wirtschaft,1,23,7
+XXVI,ÖVP,Tourismus,1,23,6
+XXVI,FPÖ,Justiz,1,8,5
+XXVI,FPÖ,Finanzen & Budget,1,16,7
+XXVI,FPÖ,Wirtschaft,1,16,5
+XXVI,FPÖ,Tourismus,1,16,4
+XXVI,FPÖ,Landwirtschaft,1,2,2
+XXVI,FPÖ,Arbeit,1,1,0
+XXVI,FPÖ,Soziales & Pflege,1,1,0
+XXVI,FPÖ,Gesundheit,1,3,3
+XXVI,FPÖ,Bildung,1,3,2
+XXVI,FPÖ,Wissenschaft & Forschung,1,3,1
+XXVI,ÖVP,Inneres,1,6,3
+XXVI,ÖVP,Landesverteidigung,1,6,4
+XXVI,ÖVP,Justiz,1,6,3
+XXVI,SPÖ,Inneres,1,9,4
+XXVI,SPÖ,Landesverteidigung,1,9,3
+XXVI,ÖVP,Kunst & Kultur,1,3,1
+XXVI,JETZT,Justiz,1,2,1
+XXVI,JETZT,Kunst & Kultur,0,5,0
+XXVI,JETZT,Finanzen & Budget,1,1,0
+XXVI,JETZT,Wirtschaft,1,1,0
+XXVI,JETZT,Tourismus,1,1,1
+XXVI,NEOS,Justiz,1,2,1
+XXVI,NEOS,Kunst & Kultur,0,9,1
+XXVI,NEOS,Finanzen & Budget,1,5,1
+XXVI,NEOS,Wirtschaft,1,5,1
+XXVI,NEOS,Tourismus,1,5,1
+XXVI,ohne Klub,Inneres,0,2,1
+XXVI,ohne Klub,Justiz,0,2,0
+XXVI,ohne Klub,Finanzen & Budget,1,2,0
+XXVI,ohne Klub,Gesundheit,0,2,0
+XXVI,ohne Klub,Arbeit,0,2,0
+XXVI,ohne Klub,Soziales & Pflege,0,2,0
+XXVI,ohne Klub,Konsumentenschutz,0,2,0
+XXVI,ohne Klub,Familie & Jugend,0,2,0
+XXVI,ohne Klub,Frauen & Gleichbehandlung,0,2,0
+XXVI,ohne Klub,Bildung,0,2,1
+XXVI,ohne Klub,Wissenschaft & Forschung,0,2,0
+XXVI,ohne Klub,Kunst & Kultur,0,2,0
+XXVI,ohne Klub,Sport,0,2,1
+XXVI,ohne Klub,Landesverteidigung,0,2,0
+XXVI,ohne Klub,Außen & Europa,0,2,0
+XXVI,ohne Klub,Landwirtschaft,0,2,1
+XXVI,ohne Klub,Umwelt & Klima,0,2,1
+XXVI,ohne Klub,Energie,0,2,0
+XXVI,ohne Klub,Verkehr & Mobilität,0,2,1
+XXVI,ohne Klub,Innovation & Technologie,0,2,0
+XXVI,ohne Klub,Wirtschaft,1,2,0
+XXVI,ohne Klub,Tourismus,1,2,0
+XXVI,ohne Klub,Öffentlicher Dienst,0,2,0
+XXVI,FPÖ,Inneres,1,9,4
+XXVI,FPÖ,Landesverteidigung,1,9,3
+XXVI,SPÖ,Justiz,1,3,3
+XXVI,JETZT,Landwirtschaft,1,1,0
+XXVI,FPÖ,Kunst & Kultur,1,1,1
+XXVI,JETZT,Arbeit,1,1,1
+XXVI,JETZT,Soziales & Pflege,1,1,1
+XXVII,ÖVP,Inneres,0,73,10
+XXVII,ÖVP,Justiz,0,71,8
+XXVII,ÖVP,Finanzen & Budget,0,56,11
+XXVII,ÖVP,Gesundheit,0,76,11
+XXVII,ÖVP,Arbeit,1,5,1
+XXVII,ÖVP,Soziales & Pflege,1,5,1
+XXVII,ÖVP,Konsumentenschutz,0,78,12
+XXVII,ÖVP,Familie & Jugend,0,78,13
+XXVII,ÖVP,Frauen & Gleichbehandlung,0,78,11
+XXVII,ÖVP,Bildung,0,74,10
+XXVII,ÖVP,Wissenschaft & Forschung,0,74,19
+XXVII,ÖVP,Kunst & Kultur,0,74,13
+XXVII,ÖVP,Sport,0,78,12
+XXVII,ÖVP,Landesverteidigung,0,73,10
+XXVII,ÖVP,Außen & Europa,0,78,12
+XXVII,ÖVP,Landwirtschaft,0,64,1
+XXVII,ÖVP,Umwelt & Klima,0,78,9
+XXVII,ÖVP,Energie,0,78,10
+XXVII,ÖVP,Verkehr & Mobilität,0,78,9
+XXVII,ÖVP,Innovation & Technologie,0,78,14
+XXVII,ÖVP,Wirtschaft,0,56,4
+XXVII,ÖVP,Tourismus,0,56,5
+XXVII,ÖVP,Öffentlicher Dienst,0,78,0
+XXVII,ÖVP,Arbeit,0,73,8
+XXVII,ÖVP,Soziales & Pflege,0,73,8
+XXVII,ÖVP,Kunst & Kultur,1,4,2
+XXVII,SPÖ,Inneres,0,42,8
+XXVII,SPÖ,Justiz,0,44,4
+XXVII,SPÖ,Finanzen & Budget,0,41,9
+XXVII,SPÖ,Gesundheit,0,46,6
+XXVII,SPÖ,Arbeit,0,36,3
+XXVII,SPÖ,Soziales & Pflege,0,36,3
+XXVII,SPÖ,Konsumentenschutz,0,46,6
+XXVII,SPÖ,Familie & Jugend,0,46,6
+XXVII,SPÖ,Frauen & Gleichbehandlung,0,46,7
+XXVII,SPÖ,Bildung,0,41,8
+XXVII,SPÖ,Wissenschaft & Forschung,0,41,10
+XXVII,SPÖ,Kunst & Kultur,0,46,7
+XXVII,SPÖ,Sport,0,46,7
+XXVII,SPÖ,Landesverteidigung,0,42,6
+XXVII,SPÖ,Außen & Europa,0,46,6
+XXVII,SPÖ,Landwirtschaft,0,46,7
+XXVII,SPÖ,Umwelt & Klima,0,46,6
+XXVII,SPÖ,Energie,0,46,6
+XXVII,SPÖ,Verkehr & Mobilität,0,46,5
+XXVII,SPÖ,Innovation & Technologie,0,46,8
+XXVII,SPÖ,Wirtschaft,0,41,2
+XXVII,SPÖ,Tourismus,0,41,6
+XXVII,SPÖ,Öffentlicher Dienst,0,46,0
+XXVII,ÖVP,Landwirtschaft,1,14,8
+XXVII,SPÖ,Bildung,1,5,1
+XXVII,SPÖ,Wissenschaft & Forschung,1,5,1
+XXVII,SPÖ,Finanzen & Budget,1,5,3
+XXVII,SPÖ,Wirtschaft,1,5,4
+XXVII,SPÖ,Tourismus,1,5,1
+XXVII,ÖVP,Gesundheit,1,2,2
+XXVII,ÖVP,Finanzen & Budget,1,22,8
+XXVII,ÖVP,Wirtschaft,1,22,6
+XXVII,ÖVP,Tourismus,1,22,6
+XXVII,FPÖ,Inneres,0,24,2
+XXVII,FPÖ,Justiz,1,6,3
+XXVII,FPÖ,Finanzen & Budget,0,28,8
+XXVII,FPÖ,Gesundheit,0,31,4
+XXVII,FPÖ,Arbeit,0,33,5
+XXVII,FPÖ,Soziales & Pflege,0,33,5
+XXVII,FPÖ,Konsumentenschutz,0,33,4
+XXVII,FPÖ,Familie & Jugend,0,33,5
+XXVII,FPÖ,Frauen & Gleichbehandlung,0,33,6
+XXVII,FPÖ,Bildung,0,31,5
+XXVII,FPÖ,Wissenschaft & Forschung,0,31,5
+XXVII,FPÖ,Kunst & Kultur,0,33,5
+XXVII,FPÖ,Sport,0,33,7
+XXVII,FPÖ,Landesverteidigung,0,24,4
+XXVII,FPÖ,Außen & Europa,0,33,5
+XXVII,FPÖ,Landwirtschaft,0,30,4
+XXVII,FPÖ,Umwelt & Klima,0,33,5
+XXVII,FPÖ,Energie,0,33,5
+XXVII,FPÖ,Verkehr & Mobilität,0,33,5
+XXVII,FPÖ,Innovation & Technologie,0,33,5
+XXVII,FPÖ,Wirtschaft,0,28,4
+XXVII,FPÖ,Tourismus,0,28,6
+XXVII,FPÖ,Öffentlicher Dienst,0,33,0
+XXVII,SPÖ,Arbeit,1,10,2
+XXVII,SPÖ,Soziales & Pflege,1,10,2
+XXVII,FPÖ,Justiz,0,27,1
+XXVII,FPÖ,Landwirtschaft,1,3,1
+XXVII,FPÖ,Gesundheit,1,2,1
+XXVII,NEOS,Inneres,0,17,2
+XXVII,NEOS,Justiz,0,11,0
+XXVII,NEOS,Finanzen & Budget,1,6,3
+XXVII,NEOS,Gesundheit,0,17,4
+XXVII,NEOS,Arbeit,0,17,2
+XXVII,NEOS,Soziales & Pflege,0,17,2
+XXVII,NEOS,Konsumentenschutz,0,17,3
+XXVII,NEOS,Familie & Jugend,0,17,2
+XXVII,NEOS,Frauen & Gleichbehandlung,0,17,2
+XXVII,NEOS,Bildung,0,16,2
+XXVII,NEOS,Wissenschaft & Forschung,0,16,4
+XXVII,NEOS,Kunst & Kultur,0,15,2
+XXVII,NEOS,Sport,0,17,3
+XXVII,NEOS,Landesverteidigung,0,17,4
+XXVII,NEOS,Außen & Europa,0,17,3
+XXVII,NEOS,Landwirtschaft,0,17,2
+XXVII,NEOS,Umwelt & Klima,0,17,2
+XXVII,NEOS,Energie,0,17,4
+XXVII,NEOS,Verkehr & Mobilität,0,17,3
+XXVII,NEOS,Innovation & Technologie,0,17,3
+XXVII,NEOS,Wirtschaft,1,6,2
+XXVII,NEOS,Tourismus,1,6,2
+XXVII,NEOS,Öffentlicher Dienst,0,17,0
+XXVII,ÖVP,Bildung,1,4,1
+XXVII,ÖVP,Wissenschaft & Forschung,1,4,2
+XXVII,ÖVP,Inneres,1,5,2
+XXVII,ÖVP,Landesverteidigung,1,5,2
+XXVII,ÖVP,Justiz,1,7,5
+XXVII,NEOS,Finanzen & Budget,0,11,1
+XXVII,NEOS,Wirtschaft,0,11,2
+XXVII,NEOS,Tourismus,0,11,1
+XXVII,SPÖ,Inneres,1,4,0
+XXVII,SPÖ,Landesverteidigung,1,4,1
+XXVII,NEOS,Justiz,1,6,2
+XXVII,GRÜNE,Inneres,0,29,5
+XXVII,GRÜNE,Justiz,1,4,2
+XXVII,GRÜNE,Finanzen & Budget,0,26,5
+XXVII,GRÜNE,Gesundheit,0,30,4
+XXVII,GRÜNE,Arbeit,0,29,4
+XXVII,GRÜNE,Soziales & Pflege,0,29,4
+XXVII,GRÜNE,Konsumentenschutz,0,30,5
+XXVII,GRÜNE,Familie & Jugend,0,30,3
+XXVII,GRÜNE,Frauen & Gleichbehandlung,0,30,5
+XXVII,GRÜNE,Bildung,0,27,3
+XXVII,GRÜNE,Wissenschaft & Forschung,0,27,4
+XXVII,GRÜNE,Kunst & Kultur,0,28,2
+XXVII,GRÜNE,Sport,0,30,3
+XXVII,GRÜNE,Landesverteidigung,0,29,4
+XXVII,GRÜNE,Außen & Europa,0,30,3
+XXVII,GRÜNE,Landwirtschaft,0,26,2
+XXVII,GRÜNE,Umwelt & Klima,0,30,3
+XXVII,GRÜNE,Energie,0,30,4
+XXVII,GRÜNE,Verkehr & Mobilität,0,30,3
+XXVII,GRÜNE,Innovation & Technologie,0,30,4
+XXVII,GRÜNE,Wirtschaft,0,26,4
+XXVII,GRÜNE,Tourismus,0,26,3
+XXVII,GRÜNE,Öffentlicher Dienst,0,30,0
+XXVII,GRÜNE,Justiz,0,26,1
+XXVII,GRÜNE,Finanzen & Budget,1,4,0
+XXVII,GRÜNE,Wirtschaft,1,4,0
+XXVII,GRÜNE,Tourismus,1,4,0
+XXVII,FPÖ,Finanzen & Budget,1,5,2
+XXVII,FPÖ,Wirtschaft,1,5,1
+XXVII,FPÖ,Tourismus,1,5,0
+XXVII,FPÖ,Inneres,1,9,3
+XXVII,FPÖ,Landesverteidigung,1,9,1
+XXVII,FPÖ,Bildung,1,2,1
+XXVII,FPÖ,Wissenschaft & Forschung,1,2,1
+XXVII,SPÖ,Justiz,1,2,2
+XXVII,GRÜNE,Inneres,1,1,0
+XXVII,GRÜNE,Landesverteidigung,1,1,0
+XXVII,GRÜNE,Bildung,1,3,1
+XXVII,GRÜNE,Wissenschaft & Forschung,1,3,2
+XXVII,GRÜNE,Kunst & Kultur,1,2,1
+XXVII,GRÜNE,Landwirtschaft,1,4,2
+XXVII,NEOS,Kunst & Kultur,1,2,1
+XXVII,NEOS,Bildung,1,1,1
+XXVII,NEOS,Wissenschaft & Forschung,1,1,0
+XXVII,GRÜNE,Arbeit,1,1,0
+XXVII,GRÜNE,Soziales & Pflege,1,1,0
+XXVIII,ÖVP,Inneres,0,53,8
+XXVIII,ÖVP,Justiz,0,52,6
+XXVIII,ÖVP,Finanzen & Budget,0,45,11
+XXVIII,ÖVP,Gesundheit,0,56,6
+XXVIII,ÖVP,Arbeit,1,8,3
+XXVIII,ÖVP,Soziales & Pflege,1,8,3
+XXVIII,ÖVP,Konsumentenschutz,0,57,12
+XXVIII,ÖVP,Familie & Jugend,0,57,9
+XXVIII,ÖVP,Frauen & Gleichbehandlung,0,57,8
+XXVIII,ÖVP,Bildung,0,54,9
+XXVIII,ÖVP,Wissenschaft & Forschung,0,54,11
+XXVIII,ÖVP,Kunst & Kultur,0,55,8
+XXVIII,ÖVP,Sport,0,57,9
+XXVIII,ÖVP,Landesverteidigung,0,53,6
+XXVIII,ÖVP,Außen & Europa,0,57,8
+XXVIII,ÖVP,Landwirtschaft,0,46,2
+XXVIII,ÖVP,Umwelt & Klima,0,57,10
+XXVIII,ÖVP,Energie,0,57,8
+XXVIII,ÖVP,Verkehr & Mobilität,0,57,7
+XXVIII,ÖVP,Innovation & Technologie,0,57,12
+XXVIII,ÖVP,Wirtschaft,0,45,4
+XXVIII,ÖVP,Tourismus,0,45,6
+XXVIII,ÖVP,Öffentlicher Dienst,0,57,0
+XXVIII,SPÖ,Inneres,0,42,5
+XXVIII,SPÖ,Justiz,0,44,5
+XXVIII,SPÖ,Finanzen & Budget,0,42,13
+XXVIII,SPÖ,Gesundheit,0,46,6
+XXVIII,SPÖ,Arbeit,0,34,4
+XXVIII,SPÖ,Soziales & Pflege,0,34,4
+XXVIII,SPÖ,Konsumentenschutz,0,46,6
+XXVIII,SPÖ,Familie & Jugend,0,46,6
+XXVIII,SPÖ,Frauen & Gleichbehandlung,0,46,6
+XXVIII,SPÖ,Bildung,0,42,2
+XXVIII,SPÖ,Wissenschaft & Forschung,0,42,5
+XXVIII,SPÖ,Kunst & Kultur,0,46,6
+XXVIII,SPÖ,Sport,0,46,5
+XXVIII,SPÖ,Landesverteidigung,0,42,5
+XXVIII,SPÖ,Außen & Europa,0,46,7
+XXVIII,SPÖ,Landwirtschaft,0,46,6
+XXVIII,SPÖ,Umwelt & Klima,0,46,5
+XXVIII,SPÖ,Energie,0,46,7
+XXVIII,SPÖ,Verkehr & Mobilität,0,46,5
+XXVIII,SPÖ,Innovation & Technologie,0,46,6
+XXVIII,SPÖ,Wirtschaft,0,42,6
+XXVIII,SPÖ,Tourismus,0,42,5
+XXVIII,SPÖ,Öffentlicher Dienst,0,46,0
+XXVIII,ÖVP,Arbeit,0,49,6
+XXVIII,ÖVP,Soziales & Pflege,0,49,6
+XXVIII,ÖVP,Landwirtschaft,1,11,7
+XXVIII,SPÖ,Finanzen & Budget,1,4,1
+XXVIII,SPÖ,Wirtschaft,1,4,1
+XXVIII,SPÖ,Tourismus,1,4,1
+XXVIII,ÖVP,Gesundheit,1,1,1
+XXVIII,FPÖ,Inneres,0,40,3
+XXVIII,FPÖ,Justiz,1,9,4
+XXVIII,FPÖ,Finanzen & Budget,0,44,7
+XXVIII,FPÖ,Gesundheit,0,49,4
+XXVIII,FPÖ,Arbeit,0,52,7
+XXVIII,FPÖ,Soziales & Pflege,0,52,7
+XXVIII,FPÖ,Konsumentenschutz,0,53,7
+XXVIII,FPÖ,Familie & Jugend,0,53,8
+XXVIII,FPÖ,Frauen & Gleichbehandlung,0,53,8
+XXVIII,FPÖ,Bildung,0,51,6
+XXVIII,FPÖ,Wissenschaft & Forschung,0,51,7
+XXVIII,FPÖ,Kunst & Kultur,0,52,6
+XXVIII,FPÖ,Sport,0,53,7
+XXVIII,FPÖ,Landesverteidigung,0,40,7
+XXVIII,FPÖ,Außen & Europa,0,53,8
+XXVIII,FPÖ,Landwirtschaft,0,49,4
+XXVIII,FPÖ,Umwelt & Klima,0,53,7
+XXVIII,FPÖ,Energie,0,53,8
+XXVIII,FPÖ,Verkehr & Mobilität,0,53,7
+XXVIII,FPÖ,Innovation & Technologie,0,53,8
+XXVIII,FPÖ,Wirtschaft,0,44,6
+XXVIII,FPÖ,Tourismus,0,44,6
+XXVIII,FPÖ,Öffentlicher Dienst,0,53,0
+XXVIII,FPÖ,Justiz,0,44,3
+XXVIII,FPÖ,Landwirtschaft,1,4,3
+XXVIII,FPÖ,Gesundheit,1,4,3
+XXVIII,FPÖ,Bildung,1,2,1
+XXVIII,FPÖ,Wissenschaft & Forschung,1,2,1
+XXVIII,ÖVP,Bildung,1,3,0
+XXVIII,ÖVP,Wissenschaft & Forschung,1,3,1
+XXVIII,ÖVP,Finanzen & Budget,1,12,3
+XXVIII,ÖVP,Wirtschaft,1,12,4
+XXVIII,ÖVP,Tourismus,1,12,2
+XXVIII,ÖVP,Inneres,1,4,1
+XXVIII,ÖVP,Landesverteidigung,1,4,2
+XXVIII,ÖVP,Justiz,1,5,3
+XXVIII,SPÖ,Bildung,1,4,3
+XXVIII,SPÖ,Wissenschaft & Forschung,1,4,1
+XXVIII,SPÖ,Arbeit,1,12,3
+XXVIII,SPÖ,Soziales & Pflege,1,12,3
+XXVIII,ÖVP,Kunst & Kultur,1,2,1
+XXVIII,SPÖ,Inneres,1,4,1
+XXVIII,SPÖ,Landesverteidigung,1,4,0
+XXVIII,NEOS,Inneres,0,20,3
+XXVIII,NEOS,Justiz,0,16,1
+XXVIII,NEOS,Finanzen & Budget,1,8,2
+XXVIII,NEOS,Gesundheit,0,20,3
+XXVIII,NEOS,Arbeit,0,20,2
+XXVIII,NEOS,Soziales & Pflege,0,20,2
+XXVIII,NEOS,Konsumentenschutz,0,20,3
+XXVIII,NEOS,Familie & Jugend,0,20,2
+XXVIII,NEOS,Frauen & Gleichbehandlung,0,20,2
+XXVIII,NEOS,Bildung,0,17,2
+XXVIII,NEOS,Wissenschaft & Forschung,0,17,2
+XXVIII,NEOS,Kunst & Kultur,0,19,3
+XXVIII,NEOS,Sport,0,20,4
+XXVIII,NEOS,Landesverteidigung,0,20,3
+XXVIII,NEOS,Außen & Europa,0,20,3
+XXVIII,NEOS,Landwirtschaft,0,19,3
+XXVIII,NEOS,Umwelt & Klima,0,20,3
+XXVIII,NEOS,Energie,0,20,3
+XXVIII,NEOS,Verkehr & Mobilität,0,20,3
+XXVIII,NEOS,Innovation & Technologie,0,20,3
+XXVIII,NEOS,Wirtschaft,1,8,3
+XXVIII,NEOS,Tourismus,1,8,2
+XXVIII,NEOS,Öffentlicher Dienst,0,20,0
+XXVIII,NEOS,Justiz,1,4,2
+XXVIII,NEOS,Finanzen & Budget,0,12,2
+XXVIII,NEOS,Wirtschaft,0,12,0
+XXVIII,NEOS,Tourismus,0,12,1
+XXVIII,GRÜNE,Inneres,0,16,2
+XXVIII,GRÜNE,Justiz,1,2,2
+XXVIII,GRÜNE,Finanzen & Budget,0,14,2
+XXVIII,GRÜNE,Gesundheit,0,16,2
+XXVIII,GRÜNE,Arbeit,0,15,2
+XXVIII,GRÜNE,Soziales & Pflege,0,15,2
+XXVIII,GRÜNE,Konsumentenschutz,0,16,3
+XXVIII,GRÜNE,Familie & Jugend,0,16,2
+XXVIII,GRÜNE,Frauen & Gleichbehandlung,0,16,2
+XXVIII,GRÜNE,Bildung,0,14,1
+XXVIII,GRÜNE,Wissenschaft & Forschung,0,14,1
+XXVIII,GRÜNE,Kunst & Kultur,0,16,2
+XXVIII,GRÜNE,Sport,0,16,2
+XXVIII,GRÜNE,Landesverteidigung,0,16,2
+XXVIII,GRÜNE,Außen & Europa,0,16,2
+XXVIII,GRÜNE,Landwirtschaft,0,13,1
+XXVIII,GRÜNE,Umwelt & Klima,0,16,2
+XXVIII,GRÜNE,Energie,0,16,3
+XXVIII,GRÜNE,Verkehr & Mobilität,0,16,4
+XXVIII,GRÜNE,Innovation & Technologie,0,16,2
+XXVIII,GRÜNE,Wirtschaft,0,14,2
+XXVIII,GRÜNE,Tourismus,0,14,2
+XXVIII,GRÜNE,Öffentlicher Dienst,0,16,0
+XXVIII,FPÖ,Finanzen & Budget,1,9,1
+XXVIII,FPÖ,Wirtschaft,1,9,2
+XXVIII,FPÖ,Tourismus,1,9,1
+XXVIII,FPÖ,Inneres,1,13,4
+XXVIII,FPÖ,Landesverteidigung,1,13,1
+XXVIII,FPÖ,Arbeit,1,1,0
+XXVIII,FPÖ,Soziales & Pflege,1,1,0
+XXVIII,NEOS,Landwirtschaft,1,1,0
+XXVIII,SPÖ,Justiz,1,2,2
+XXVIII,NEOS,Bildung,1,3,1
+XXVIII,NEOS,Wissenschaft & Forschung,1,3,1
+XXVIII,FPÖ,Kunst & Kultur,1,1,1
+XXVIII,GRÜNE,Justiz,0,14,0
+XXVIII,GRÜNE,Finanzen & Budget,1,2,0
+XXVIII,GRÜNE,Wirtschaft,1,2,1
+XXVIII,GRÜNE,Tourismus,1,2,0
+XXVIII,GRÜNE,Bildung,1,2,1
+XXVIII,GRÜNE,Wissenschaft & Forschung,1,2,1
+XXVIII,GRÜNE,Landwirtschaft,1,3,1
+XXVIII,NEOS,Kunst & Kultur,1,1,0
+XXVIII,GRÜNE,Arbeit,1,1,0
+XXVIII,GRÜNE,Soziales & Pflege,1,1,0

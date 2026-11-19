@@ -1,0 +1,649 @@
+bundesland,gp,feld,sektor,anteil,anteil_at,lq
+Burgenland,XX,Landwirtschaft,Land- und Forstwirtschaft,0.0484,0.0187,2.581
+Kärnten,XX,Landwirtschaft,Land- und Forstwirtschaft,0.0266,0.0187,1.421
+Niederösterreich,XX,Landwirtschaft,Land- und Forstwirtschaft,0.0373,0.0187,1.987
+Oberösterreich,XX,Landwirtschaft,Land- und Forstwirtschaft,0.0248,0.0187,1.322
+Salzburg,XX,Landwirtschaft,Land- und Forstwirtschaft,0.0131,0.0187,0.699
+Steiermark,XX,Landwirtschaft,Land- und Forstwirtschaft,0.0278,0.0187,1.483
+Tirol,XX,Landwirtschaft,Land- und Forstwirtschaft,0.0129,0.0187,0.686
+Vorarlberg,XX,Landwirtschaft,Land- und Forstwirtschaft,0.007,0.0187,0.372
+Wien,XX,Landwirtschaft,Land- und Forstwirtschaft,0.0006,0.0187,0.032
+Burgenland,XX,Wirtschaft,Industrie (Herstellung von Waren),0.2032,0.2101,0.967
+Kärnten,XX,Wirtschaft,Industrie (Herstellung von Waren),0.1883,0.2101,0.896
+Niederösterreich,XX,Wirtschaft,Industrie (Herstellung von Waren),0.256,0.2101,1.219
+Oberösterreich,XX,Wirtschaft,Industrie (Herstellung von Waren),0.2997,0.2101,1.426
+Salzburg,XX,Wirtschaft,Industrie (Herstellung von Waren),0.1839,0.2101,0.875
+Steiermark,XX,Wirtschaft,Industrie (Herstellung von Waren),0.2605,0.2101,1.24
+Tirol,XX,Wirtschaft,Industrie (Herstellung von Waren),0.1865,0.2101,0.888
+Vorarlberg,XX,Wirtschaft,Industrie (Herstellung von Waren),0.3025,0.2101,1.44
+Wien,XX,Wirtschaft,Industrie (Herstellung von Waren),0.1068,0.2101,0.508
+Burgenland,XX,Energie,Energieversorgung,0.0186,0.0237,0.786
+Kärnten,XX,Energie,Energieversorgung,0.0413,0.0237,1.747
+Niederösterreich,XX,Energie,Energieversorgung,0.0229,0.0237,0.97
+Oberösterreich,XX,Energie,Energieversorgung,0.0232,0.0237,0.98
+Salzburg,XX,Energie,Energieversorgung,0.0372,0.0237,1.572
+Steiermark,XX,Energie,Energieversorgung,0.0189,0.0237,0.799
+Tirol,XX,Energie,Energieversorgung,0.0289,0.0237,1.222
+Vorarlberg,XX,Energie,Energieversorgung,0.0213,0.0237,0.899
+Wien,XX,Energie,Energieversorgung,0.0184,0.0237,0.776
+Burgenland,XX,Verkehr & Mobilität,Verkehr,0.0442,0.0574,0.77
+Kärnten,XX,Verkehr & Mobilität,Verkehr,0.0523,0.0574,0.911
+Niederösterreich,XX,Verkehr & Mobilität,Verkehr,0.0712,0.0574,1.239
+Oberösterreich,XX,Verkehr & Mobilität,Verkehr,0.0464,0.0574,0.808
+Salzburg,XX,Verkehr & Mobilität,Verkehr,0.0704,0.0574,1.225
+Steiermark,XX,Verkehr & Mobilität,Verkehr,0.0482,0.0574,0.839
+Tirol,XX,Verkehr & Mobilität,Verkehr,0.0867,0.0574,1.509
+Vorarlberg,XX,Verkehr & Mobilität,Verkehr,0.0515,0.0574,0.896
+Wien,XX,Verkehr & Mobilität,Verkehr,0.0513,0.0574,0.892
+Burgenland,XX,Tourismus,Beherbergung und Gastronomie,0.0381,0.0365,1.043
+Kärnten,XX,Tourismus,Beherbergung und Gastronomie,0.0492,0.0365,1.346
+Niederösterreich,XX,Tourismus,Beherbergung und Gastronomie,0.0233,0.0365,0.638
+Oberösterreich,XX,Tourismus,Beherbergung und Gastronomie,0.0217,0.0365,0.593
+Salzburg,XX,Tourismus,Beherbergung und Gastronomie,0.0653,0.0365,1.787
+Steiermark,XX,Tourismus,Beherbergung und Gastronomie,0.0311,0.0365,0.852
+Tirol,XX,Tourismus,Beherbergung und Gastronomie,0.0987,0.0365,2.702
+Vorarlberg,XX,Tourismus,Beherbergung und Gastronomie,0.0502,0.0365,1.375
+Wien,XX,Tourismus,Beherbergung und Gastronomie,0.0238,0.0365,0.651
+Burgenland,XX,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0468,0.0552,0.848
+Kärnten,XX,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0564,0.0552,1.021
+Niederösterreich,XX,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0346,0.0552,0.627
+Oberösterreich,XX,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0424,0.0552,0.768
+Salzburg,XX,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0616,0.0552,1.116
+Steiermark,XX,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0472,0.0552,0.854
+Tirol,XX,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.055,0.0552,0.996
+Vorarlberg,XX,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0559,0.0552,1.013
+Wien,XX,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.078,0.0552,1.414
+Burgenland,XX,Bildung,Erziehung und Unterricht,0.0682,0.055,1.24
+Kärnten,XX,Bildung,Erziehung und Unterricht,0.0602,0.055,1.095
+Niederösterreich,XX,Bildung,Erziehung und Unterricht,0.0502,0.055,0.913
+Oberösterreich,XX,Bildung,Erziehung und Unterricht,0.0501,0.055,0.911
+Salzburg,XX,Bildung,Erziehung und Unterricht,0.0509,0.055,0.925
+Steiermark,XX,Bildung,Erziehung und Unterricht,0.0657,0.055,1.195
+Tirol,XX,Bildung,Erziehung und Unterricht,0.0547,0.055,0.993
+Vorarlberg,XX,Bildung,Erziehung und Unterricht,0.0443,0.055,0.804
+Wien,XX,Bildung,Erziehung und Unterricht,0.0564,0.055,1.025
+Burgenland,XX,Gesundheit,Gesundheits- und Sozialwesen,0.0642,0.0596,1.077
+Kärnten,XX,Gesundheit,Gesundheits- und Sozialwesen,0.0699,0.0596,1.172
+Niederösterreich,XX,Gesundheit,Gesundheits- und Sozialwesen,0.0528,0.0596,0.885
+Oberösterreich,XX,Gesundheit,Gesundheits- und Sozialwesen,0.055,0.0596,0.923
+Salzburg,XX,Gesundheit,Gesundheits- und Sozialwesen,0.0547,0.0596,0.918
+Steiermark,XX,Gesundheit,Gesundheits- und Sozialwesen,0.0702,0.0596,1.178
+Tirol,XX,Gesundheit,Gesundheits- und Sozialwesen,0.062,0.0596,1.04
+Vorarlberg,XX,Gesundheit,Gesundheits- und Sozialwesen,0.0534,0.0596,0.896
+Wien,XX,Gesundheit,Gesundheits- und Sozialwesen,0.0603,0.0596,1.012
+Burgenland,XXI,Landwirtschaft,Land- und Forstwirtschaft,0.0507,0.0186,2.729
+Kärnten,XXI,Landwirtschaft,Land- und Forstwirtschaft,0.0261,0.0186,1.406
+Niederösterreich,XXI,Landwirtschaft,Land- und Forstwirtschaft,0.0381,0.0186,2.054
+Oberösterreich,XXI,Landwirtschaft,Land- und Forstwirtschaft,0.0238,0.0186,1.281
+Salzburg,XXI,Landwirtschaft,Land- und Forstwirtschaft,0.0124,0.0186,0.665
+Steiermark,XXI,Landwirtschaft,Land- und Forstwirtschaft,0.0276,0.0186,1.487
+Tirol,XXI,Landwirtschaft,Land- und Forstwirtschaft,0.0125,0.0186,0.673
+Vorarlberg,XXI,Landwirtschaft,Land- und Forstwirtschaft,0.0071,0.0186,0.384
+Wien,XXI,Landwirtschaft,Land- und Forstwirtschaft,0.0006,0.0186,0.035
+Burgenland,XXI,Wirtschaft,Industrie (Herstellung von Waren),0.2023,0.2088,0.969
+Kärnten,XXI,Wirtschaft,Industrie (Herstellung von Waren),0.1929,0.2088,0.924
+Niederösterreich,XXI,Wirtschaft,Industrie (Herstellung von Waren),0.2456,0.2088,1.176
+Oberösterreich,XXI,Wirtschaft,Industrie (Herstellung von Waren),0.3033,0.2088,1.452
+Salzburg,XXI,Wirtschaft,Industrie (Herstellung von Waren),0.1846,0.2088,0.884
+Steiermark,XXI,Wirtschaft,Industrie (Herstellung von Waren),0.2628,0.2088,1.258
+Tirol,XXI,Wirtschaft,Industrie (Herstellung von Waren),0.1913,0.2088,0.916
+Vorarlberg,XXI,Wirtschaft,Industrie (Herstellung von Waren),0.2927,0.2088,1.402
+Wien,XXI,Wirtschaft,Industrie (Herstellung von Waren),0.1043,0.2088,0.499
+Burgenland,XXI,Energie,Energieversorgung,0.0225,0.0238,0.948
+Kärnten,XXI,Energie,Energieversorgung,0.0389,0.0238,1.639
+Niederösterreich,XXI,Energie,Energieversorgung,0.0212,0.0238,0.894
+Oberösterreich,XXI,Energie,Energieversorgung,0.0224,0.0238,0.944
+Salzburg,XXI,Energie,Energieversorgung,0.0352,0.0238,1.48
+Steiermark,XXI,Energie,Energieversorgung,0.0204,0.0238,0.86
+Tirol,XXI,Energie,Energieversorgung,0.0282,0.0238,1.185
+Vorarlberg,XXI,Energie,Energieversorgung,0.0286,0.0238,1.203
+Wien,XXI,Energie,Energieversorgung,0.0192,0.0238,0.809
+Burgenland,XXI,Verkehr & Mobilität,Verkehr,0.044,0.0573,0.767
+Kärnten,XXI,Verkehr & Mobilität,Verkehr,0.0514,0.0573,0.898
+Niederösterreich,XXI,Verkehr & Mobilität,Verkehr,0.0726,0.0573,1.267
+Oberösterreich,XXI,Verkehr & Mobilität,Verkehr,0.046,0.0573,0.803
+Salzburg,XXI,Verkehr & Mobilität,Verkehr,0.07,0.0573,1.221
+Steiermark,XXI,Verkehr & Mobilität,Verkehr,0.0497,0.0573,0.867
+Tirol,XXI,Verkehr & Mobilität,Verkehr,0.0862,0.0573,1.504
+Vorarlberg,XXI,Verkehr & Mobilität,Verkehr,0.0523,0.0573,0.913
+Wien,XXI,Verkehr & Mobilität,Verkehr,0.0499,0.0573,0.871
+Burgenland,XXI,Tourismus,Beherbergung und Gastronomie,0.0389,0.0373,1.043
+Kärnten,XXI,Tourismus,Beherbergung und Gastronomie,0.0506,0.0373,1.358
+Niederösterreich,XXI,Tourismus,Beherbergung und Gastronomie,0.024,0.0373,0.644
+Oberösterreich,XXI,Tourismus,Beherbergung und Gastronomie,0.0217,0.0373,0.581
+Salzburg,XXI,Tourismus,Beherbergung und Gastronomie,0.0672,0.0373,1.803
+Steiermark,XXI,Tourismus,Beherbergung und Gastronomie,0.0317,0.0373,0.851
+Tirol,XXI,Tourismus,Beherbergung und Gastronomie,0.1009,0.0373,2.707
+Vorarlberg,XXI,Tourismus,Beherbergung und Gastronomie,0.0515,0.0373,1.381
+Wien,XXI,Tourismus,Beherbergung und Gastronomie,0.0239,0.0373,0.64
+Burgenland,XXI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0443,0.0525,0.843
+Kärnten,XXI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0538,0.0525,1.024
+Niederösterreich,XXI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0331,0.0525,0.63
+Oberösterreich,XXI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0395,0.0525,0.752
+Salzburg,XXI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0571,0.0525,1.087
+Steiermark,XXI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0444,0.0525,0.844
+Tirol,XXI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0512,0.0525,0.975
+Vorarlberg,XXI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.053,0.0525,1.008
+Wien,XXI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0755,0.0525,1.437
+Burgenland,XXI,Bildung,Erziehung und Unterricht,0.0673,0.0548,1.228
+Kärnten,XXI,Bildung,Erziehung und Unterricht,0.0593,0.0548,1.083
+Niederösterreich,XXI,Bildung,Erziehung und Unterricht,0.0506,0.0548,0.924
+Oberösterreich,XXI,Bildung,Erziehung und Unterricht,0.0497,0.0548,0.908
+Salzburg,XXI,Bildung,Erziehung und Unterricht,0.0515,0.0548,0.94
+Steiermark,XXI,Bildung,Erziehung und Unterricht,0.0653,0.0548,1.192
+Tirol,XXI,Bildung,Erziehung und Unterricht,0.0546,0.0548,0.996
+Vorarlberg,XXI,Bildung,Erziehung und Unterricht,0.0444,0.0548,0.81
+Wien,XXI,Bildung,Erziehung und Unterricht,0.0559,0.0548,1.02
+Burgenland,XXI,Gesundheit,Gesundheits- und Sozialwesen,0.0643,0.061,1.055
+Kärnten,XXI,Gesundheit,Gesundheits- und Sozialwesen,0.0705,0.061,1.156
+Niederösterreich,XXI,Gesundheit,Gesundheits- und Sozialwesen,0.0549,0.061,0.901
+Oberösterreich,XXI,Gesundheit,Gesundheits- und Sozialwesen,0.0553,0.061,0.907
+Salzburg,XXI,Gesundheit,Gesundheits- und Sozialwesen,0.0564,0.061,0.925
+Steiermark,XXI,Gesundheit,Gesundheits- und Sozialwesen,0.071,0.061,1.164
+Tirol,XXI,Gesundheit,Gesundheits- und Sozialwesen,0.062,0.061,1.017
+Vorarlberg,XXI,Gesundheit,Gesundheits- und Sozialwesen,0.058,0.061,0.951
+Wien,XXI,Gesundheit,Gesundheits- und Sozialwesen,0.0622,0.061,1.019
+Burgenland,XXII,Landwirtschaft,Land- und Forstwirtschaft,0.0484,0.0156,3.095
+Kärnten,XXII,Landwirtschaft,Land- und Forstwirtschaft,0.0202,0.0156,1.288
+Niederösterreich,XXII,Landwirtschaft,Land- und Forstwirtschaft,0.0301,0.0156,1.926
+Oberösterreich,XXII,Landwirtschaft,Land- und Forstwirtschaft,0.0198,0.0156,1.266
+Salzburg,XXII,Landwirtschaft,Land- und Forstwirtschaft,0.0113,0.0156,0.723
+Steiermark,XXII,Landwirtschaft,Land- und Forstwirtschaft,0.0243,0.0156,1.55
+Tirol,XXII,Landwirtschaft,Land- und Forstwirtschaft,0.0107,0.0156,0.687
+Vorarlberg,XXII,Landwirtschaft,Land- und Forstwirtschaft,0.0069,0.0156,0.44
+Wien,XXII,Landwirtschaft,Land- und Forstwirtschaft,0.0006,0.0156,0.041
+Burgenland,XXII,Wirtschaft,Industrie (Herstellung von Waren),0.1697,0.2019,0.84
+Kärnten,XXII,Wirtschaft,Industrie (Herstellung von Waren),0.2021,0.2019,1.001
+Niederösterreich,XXII,Wirtschaft,Industrie (Herstellung von Waren),0.2231,0.2019,1.105
+Oberösterreich,XXII,Wirtschaft,Industrie (Herstellung von Waren),0.303,0.2019,1.501
+Salzburg,XXII,Wirtschaft,Industrie (Herstellung von Waren),0.1787,0.2019,0.885
+Steiermark,XXII,Wirtschaft,Industrie (Herstellung von Waren),0.2595,0.2019,1.285
+Tirol,XXII,Wirtschaft,Industrie (Herstellung von Waren),0.1922,0.2019,0.952
+Vorarlberg,XXII,Wirtschaft,Industrie (Herstellung von Waren),0.2839,0.2019,1.406
+Wien,XXII,Wirtschaft,Industrie (Herstellung von Waren),0.0941,0.2019,0.466
+Burgenland,XXII,Energie,Energieversorgung,0.0236,0.0241,0.981
+Kärnten,XXII,Energie,Energieversorgung,0.035,0.0241,1.453
+Niederösterreich,XXII,Energie,Energieversorgung,0.0189,0.0241,0.784
+Oberösterreich,XXII,Energie,Energieversorgung,0.0184,0.0241,0.765
+Salzburg,XXII,Energie,Energieversorgung,0.0285,0.0241,1.182
+Steiermark,XXII,Energie,Energieversorgung,0.0233,0.0241,0.969
+Tirol,XXII,Energie,Energieversorgung,0.0285,0.0241,1.183
+Vorarlberg,XXII,Energie,Energieversorgung,0.0278,0.0241,1.153
+Wien,XXII,Energie,Energieversorgung,0.0255,0.0241,1.059
+Burgenland,XXII,Verkehr & Mobilität,Verkehr,0.0446,0.0575,0.776
+Kärnten,XXII,Verkehr & Mobilität,Verkehr,0.0507,0.0575,0.883
+Niederösterreich,XXII,Verkehr & Mobilität,Verkehr,0.0769,0.0575,1.339
+Oberösterreich,XXII,Verkehr & Mobilität,Verkehr,0.0466,0.0575,0.811
+Salzburg,XXII,Verkehr & Mobilität,Verkehr,0.0688,0.0575,1.198
+Steiermark,XXII,Verkehr & Mobilität,Verkehr,0.0498,0.0575,0.866
+Tirol,XXII,Verkehr & Mobilität,Verkehr,0.0822,0.0575,1.431
+Vorarlberg,XXII,Verkehr & Mobilität,Verkehr,0.0562,0.0575,0.978
+Wien,XXII,Verkehr & Mobilität,Verkehr,0.0483,0.0575,0.84
+Burgenland,XXII,Tourismus,Beherbergung und Gastronomie,0.0371,0.0378,0.983
+Kärnten,XXII,Tourismus,Beherbergung und Gastronomie,0.0526,0.0378,1.391
+Niederösterreich,XXII,Tourismus,Beherbergung und Gastronomie,0.024,0.0378,0.636
+Oberösterreich,XXII,Tourismus,Beherbergung und Gastronomie,0.0217,0.0378,0.573
+Salzburg,XXII,Tourismus,Beherbergung und Gastronomie,0.0683,0.0378,1.807
+Steiermark,XXII,Tourismus,Beherbergung und Gastronomie,0.0316,0.0378,0.837
+Tirol,XXII,Tourismus,Beherbergung und Gastronomie,0.1015,0.0378,2.687
+Vorarlberg,XXII,Tourismus,Beherbergung und Gastronomie,0.0519,0.0378,1.373
+Wien,XXII,Tourismus,Beherbergung und Gastronomie,0.0245,0.0378,0.648
+Burgenland,XXII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0465,0.0497,0.937
+Kärnten,XXII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0497,0.0497,1.002
+Niederösterreich,XXII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0318,0.0497,0.641
+Oberösterreich,XXII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.037,0.0497,0.746
+Salzburg,XXII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0515,0.0497,1.036
+Steiermark,XXII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0416,0.0497,0.838
+Tirol,XXII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0476,0.0497,0.959
+Vorarlberg,XXII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0493,0.0497,0.994
+Wien,XXII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0728,0.0497,1.465
+Burgenland,XXII,Bildung,Erziehung und Unterricht,0.0689,0.0541,1.272
+Kärnten,XXII,Bildung,Erziehung und Unterricht,0.0579,0.0541,1.071
+Niederösterreich,XXII,Bildung,Erziehung und Unterricht,0.0486,0.0541,0.899
+Oberösterreich,XXII,Bildung,Erziehung und Unterricht,0.0475,0.0541,0.878
+Salzburg,XXII,Bildung,Erziehung und Unterricht,0.0505,0.0541,0.933
+Steiermark,XXII,Bildung,Erziehung und Unterricht,0.0634,0.0541,1.172
+Tirol,XXII,Bildung,Erziehung und Unterricht,0.0542,0.0541,1.001
+Vorarlberg,XXII,Bildung,Erziehung und Unterricht,0.0451,0.0541,0.834
+Wien,XXII,Bildung,Erziehung und Unterricht,0.0574,0.0541,1.061
+Burgenland,XXII,Gesundheit,Gesundheits- und Sozialwesen,0.0706,0.0632,1.116
+Kärnten,XXII,Gesundheit,Gesundheits- und Sozialwesen,0.0725,0.0632,1.146
+Niederösterreich,XXII,Gesundheit,Gesundheits- und Sozialwesen,0.0563,0.0632,0.891
+Oberösterreich,XXII,Gesundheit,Gesundheits- und Sozialwesen,0.0568,0.0632,0.898
+Salzburg,XXII,Gesundheit,Gesundheits- und Sozialwesen,0.0553,0.0632,0.874
+Steiermark,XXII,Gesundheit,Gesundheits- und Sozialwesen,0.0735,0.0632,1.163
+Tirol,XXII,Gesundheit,Gesundheits- und Sozialwesen,0.0648,0.0632,1.025
+Vorarlberg,XXII,Gesundheit,Gesundheits- und Sozialwesen,0.0564,0.0632,0.891
+Wien,XXII,Gesundheit,Gesundheits- und Sozialwesen,0.0665,0.0632,1.052
+Burgenland,XXIII,Landwirtschaft,Land- und Forstwirtschaft,0.0435,0.016,2.723
+Kärnten,XXIII,Landwirtschaft,Land- und Forstwirtschaft,0.0209,0.016,1.311
+Niederösterreich,XXIII,Landwirtschaft,Land- und Forstwirtschaft,0.0306,0.016,1.92
+Oberösterreich,XXIII,Landwirtschaft,Land- und Forstwirtschaft,0.0203,0.016,1.269
+Salzburg,XXIII,Landwirtschaft,Land- und Forstwirtschaft,0.011,0.016,0.691
+Steiermark,XXIII,Landwirtschaft,Land- und Forstwirtschaft,0.0259,0.016,1.624
+Tirol,XXIII,Landwirtschaft,Land- und Forstwirtschaft,0.0103,0.016,0.644
+Vorarlberg,XXIII,Landwirtschaft,Land- und Forstwirtschaft,0.0066,0.016,0.415
+Wien,XXIII,Landwirtschaft,Land- und Forstwirtschaft,0.0006,0.016,0.039
+Burgenland,XXIII,Wirtschaft,Industrie (Herstellung von Waren),0.1582,0.2043,0.774
+Kärnten,XXIII,Wirtschaft,Industrie (Herstellung von Waren),0.1946,0.2043,0.953
+Niederösterreich,XXIII,Wirtschaft,Industrie (Herstellung von Waren),0.2166,0.2043,1.06
+Oberösterreich,XXIII,Wirtschaft,Industrie (Herstellung von Waren),0.3135,0.2043,1.535
+Salzburg,XXIII,Wirtschaft,Industrie (Herstellung von Waren),0.1728,0.2043,0.846
+Steiermark,XXIII,Wirtschaft,Industrie (Herstellung von Waren),0.2656,0.2043,1.3
+Tirol,XXIII,Wirtschaft,Industrie (Herstellung von Waren),0.1988,0.2043,0.973
+Vorarlberg,XXIII,Wirtschaft,Industrie (Herstellung von Waren),0.291,0.2043,1.424
+Wien,XXIII,Wirtschaft,Industrie (Herstellung von Waren),0.0951,0.2043,0.466
+Burgenland,XXIII,Energie,Energieversorgung,0.0218,0.0222,0.979
+Kärnten,XXIII,Energie,Energieversorgung,0.0388,0.0222,1.746
+Niederösterreich,XXIII,Energie,Energieversorgung,0.018,0.0222,0.809
+Oberösterreich,XXIII,Energie,Energieversorgung,0.0125,0.0222,0.561
+Salzburg,XXIII,Energie,Energieversorgung,0.0266,0.0222,1.197
+Steiermark,XXIII,Energie,Energieversorgung,0.0218,0.0222,0.978
+Tirol,XXIII,Energie,Energieversorgung,0.0285,0.0222,1.283
+Vorarlberg,XXIII,Energie,Energieversorgung,0.0296,0.0222,1.332
+Wien,XXIII,Energie,Energieversorgung,0.0232,0.0222,1.043
+Burgenland,XXIII,Verkehr & Mobilität,Verkehr,0.0438,0.057,0.769
+Kärnten,XXIII,Verkehr & Mobilität,Verkehr,0.0514,0.057,0.902
+Niederösterreich,XXIII,Verkehr & Mobilität,Verkehr,0.0803,0.057,1.409
+Oberösterreich,XXIII,Verkehr & Mobilität,Verkehr,0.0455,0.057,0.799
+Salzburg,XXIII,Verkehr & Mobilität,Verkehr,0.0678,0.057,1.189
+Steiermark,XXIII,Verkehr & Mobilität,Verkehr,0.0473,0.057,0.83
+Tirol,XXIII,Verkehr & Mobilität,Verkehr,0.0785,0.057,1.378
+Vorarlberg,XXIII,Verkehr & Mobilität,Verkehr,0.0574,0.057,1.006
+Wien,XXIII,Verkehr & Mobilität,Verkehr,0.0475,0.057,0.833
+Burgenland,XXIII,Tourismus,Beherbergung und Gastronomie,0.0409,0.037,1.107
+Kärnten,XXIII,Tourismus,Beherbergung und Gastronomie,0.049,0.037,1.325
+Niederösterreich,XXIII,Tourismus,Beherbergung und Gastronomie,0.0232,0.037,0.628
+Oberösterreich,XXIII,Tourismus,Beherbergung und Gastronomie,0.0206,0.037,0.556
+Salzburg,XXIII,Tourismus,Beherbergung und Gastronomie,0.0682,0.037,1.845
+Steiermark,XXIII,Tourismus,Beherbergung und Gastronomie,0.0291,0.037,0.786
+Tirol,XXIII,Tourismus,Beherbergung und Gastronomie,0.0968,0.037,2.616
+Vorarlberg,XXIII,Tourismus,Beherbergung und Gastronomie,0.0493,0.037,1.333
+Wien,XXIII,Tourismus,Beherbergung und Gastronomie,0.0266,0.037,0.719
+Burgenland,XXIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0549,0.0518,1.061
+Kärnten,XXIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0507,0.0518,0.98
+Niederösterreich,XXIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0336,0.0518,0.648
+Oberösterreich,XXIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0383,0.0518,0.741
+Salzburg,XXIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0525,0.0518,1.015
+Steiermark,XXIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0441,0.0518,0.852
+Tirol,XXIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0498,0.0518,0.962
+Vorarlberg,XXIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0515,0.0518,0.995
+Wien,XXIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.076,0.0518,1.469
+Burgenland,XXIII,Bildung,Erziehung und Unterricht,0.0676,0.0525,1.289
+Kärnten,XXIII,Bildung,Erziehung und Unterricht,0.0557,0.0525,1.061
+Niederösterreich,XXIII,Bildung,Erziehung und Unterricht,0.0456,0.0525,0.87
+Oberösterreich,XXIII,Bildung,Erziehung und Unterricht,0.0446,0.0525,0.85
+Salzburg,XXIII,Bildung,Erziehung und Unterricht,0.049,0.0525,0.933
+Steiermark,XXIII,Bildung,Erziehung und Unterricht,0.0613,0.0525,1.169
+Tirol,XXIII,Bildung,Erziehung und Unterricht,0.0526,0.0525,1.002
+Vorarlberg,XXIII,Bildung,Erziehung und Unterricht,0.043,0.0525,0.82
+Wien,XXIII,Bildung,Erziehung und Unterricht,0.058,0.0525,1.105
+Burgenland,XXIII,Gesundheit,Gesundheits- und Sozialwesen,0.0728,0.0635,1.146
+Kärnten,XXIII,Gesundheit,Gesundheits- und Sozialwesen,0.0715,0.0635,1.126
+Niederösterreich,XXIII,Gesundheit,Gesundheits- und Sozialwesen,0.0566,0.0635,0.891
+Oberösterreich,XXIII,Gesundheit,Gesundheits- und Sozialwesen,0.056,0.0635,0.882
+Salzburg,XXIII,Gesundheit,Gesundheits- und Sozialwesen,0.0561,0.0635,0.884
+Steiermark,XXIII,Gesundheit,Gesundheits- und Sozialwesen,0.0736,0.0635,1.16
+Tirol,XXIII,Gesundheit,Gesundheits- und Sozialwesen,0.0659,0.0635,1.037
+Vorarlberg,XXIII,Gesundheit,Gesundheits- und Sozialwesen,0.057,0.0635,0.897
+Wien,XXIII,Gesundheit,Gesundheits- und Sozialwesen,0.0674,0.0635,1.061
+Burgenland,XXIV,Landwirtschaft,Land- und Forstwirtschaft,0.038,0.0149,2.545
+Kärnten,XXIV,Landwirtschaft,Land- und Forstwirtschaft,0.0208,0.0149,1.39
+Niederösterreich,XXIV,Landwirtschaft,Land- und Forstwirtschaft,0.0292,0.0149,1.951
+Oberösterreich,XXIV,Landwirtschaft,Land- und Forstwirtschaft,0.0184,0.0149,1.23
+Salzburg,XXIV,Landwirtschaft,Land- und Forstwirtschaft,0.0102,0.0149,0.68
+Steiermark,XXIV,Landwirtschaft,Land- und Forstwirtschaft,0.0248,0.0149,1.661
+Tirol,XXIV,Landwirtschaft,Land- und Forstwirtschaft,0.0097,0.0149,0.649
+Vorarlberg,XXIV,Landwirtschaft,Land- und Forstwirtschaft,0.0064,0.0149,0.432
+Wien,XXIV,Landwirtschaft,Land- und Forstwirtschaft,0.0004,0.0149,0.026
+Burgenland,XXIV,Wirtschaft,Industrie (Herstellung von Waren),0.1612,0.1921,0.839
+Kärnten,XXIV,Wirtschaft,Industrie (Herstellung von Waren),0.1868,0.1921,0.972
+Niederösterreich,XXIV,Wirtschaft,Industrie (Herstellung von Waren),0.1926,0.1921,1.002
+Oberösterreich,XXIV,Wirtschaft,Industrie (Herstellung von Waren),0.3043,0.1921,1.584
+Salzburg,XXIV,Wirtschaft,Industrie (Herstellung von Waren),0.1612,0.1921,0.839
+Steiermark,XXIV,Wirtschaft,Industrie (Herstellung von Waren),0.2445,0.1921,1.273
+Tirol,XXIV,Wirtschaft,Industrie (Herstellung von Waren),0.185,0.1921,0.963
+Vorarlberg,XXIV,Wirtschaft,Industrie (Herstellung von Waren),0.2957,0.1921,1.539
+Wien,XXIV,Wirtschaft,Industrie (Herstellung von Waren),0.088,0.1921,0.458
+Burgenland,XXIV,Energie,Energieversorgung,0.023,0.0216,1.066
+Kärnten,XXIV,Energie,Energieversorgung,0.0389,0.0216,1.804
+Niederösterreich,XXIV,Energie,Energieversorgung,0.0189,0.0216,0.875
+Oberösterreich,XXIV,Energie,Energieversorgung,0.013,0.0216,0.601
+Salzburg,XXIV,Energie,Energieversorgung,0.025,0.0216,1.158
+Steiermark,XXIV,Energie,Energieversorgung,0.0196,0.0216,0.91
+Tirol,XXIV,Energie,Energieversorgung,0.0274,0.0216,1.269
+Vorarlberg,XXIV,Energie,Energieversorgung,0.0287,0.0216,1.331
+Wien,XXIV,Energie,Energieversorgung,0.0218,0.0216,1.009
+Burgenland,XXIV,Verkehr & Mobilität,Verkehr,0.0408,0.0564,0.723
+Kärnten,XXIV,Verkehr & Mobilität,Verkehr,0.0512,0.0564,0.908
+Niederösterreich,XXIV,Verkehr & Mobilität,Verkehr,0.0759,0.0564,1.346
+Oberösterreich,XXIV,Verkehr & Mobilität,Verkehr,0.0445,0.0564,0.788
+Salzburg,XXIV,Verkehr & Mobilität,Verkehr,0.0653,0.0564,1.158
+Steiermark,XXIV,Verkehr & Mobilität,Verkehr,0.0472,0.0564,0.838
+Tirol,XXIV,Verkehr & Mobilität,Verkehr,0.0787,0.0564,1.396
+Vorarlberg,XXIV,Verkehr & Mobilität,Verkehr,0.0545,0.0564,0.965
+Wien,XXIV,Verkehr & Mobilität,Verkehr,0.0499,0.0564,0.884
+Burgenland,XXIV,Tourismus,Beherbergung und Gastronomie,0.0463,0.0386,1.199
+Kärnten,XXIV,Tourismus,Beherbergung und Gastronomie,0.0498,0.0386,1.291
+Niederösterreich,XXIV,Tourismus,Beherbergung und Gastronomie,0.024,0.0386,0.622
+Oberösterreich,XXIV,Tourismus,Beherbergung und Gastronomie,0.0213,0.0386,0.552
+Salzburg,XXIV,Tourismus,Beherbergung und Gastronomie,0.0708,0.0386,1.832
+Steiermark,XXIV,Tourismus,Beherbergung und Gastronomie,0.0317,0.0386,0.82
+Tirol,XXIV,Tourismus,Beherbergung und Gastronomie,0.1016,0.0386,2.63
+Vorarlberg,XXIV,Tourismus,Beherbergung und Gastronomie,0.0527,0.0386,1.365
+Wien,XXIV,Tourismus,Beherbergung und Gastronomie,0.0267,0.0386,0.691
+Burgenland,XXIV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0426,0.0458,0.93
+Kärnten,XXIV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0419,0.0458,0.916
+Niederösterreich,XXIV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0303,0.0458,0.661
+Oberösterreich,XXIV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.035,0.0458,0.765
+Salzburg,XXIV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0437,0.0458,0.955
+Steiermark,XXIV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0357,0.0458,0.78
+Tirol,XXIV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.041,0.0458,0.896
+Vorarlberg,XXIV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0437,0.0458,0.955
+Wien,XXIV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.071,0.0458,1.551
+Burgenland,XXIV,Bildung,Erziehung und Unterricht,0.0681,0.0555,1.227
+Kärnten,XXIV,Bildung,Erziehung und Unterricht,0.0591,0.0555,1.065
+Niederösterreich,XXIV,Bildung,Erziehung und Unterricht,0.0493,0.0555,0.889
+Oberösterreich,XXIV,Bildung,Erziehung und Unterricht,0.0482,0.0555,0.868
+Salzburg,XXIV,Bildung,Erziehung und Unterricht,0.0501,0.0555,0.903
+Steiermark,XXIV,Bildung,Erziehung und Unterricht,0.0631,0.0555,1.137
+Tirol,XXIV,Bildung,Erziehung und Unterricht,0.0554,0.0555,0.999
+Vorarlberg,XXIV,Bildung,Erziehung und Unterricht,0.0453,0.0555,0.817
+Wien,XXIV,Bildung,Erziehung und Unterricht,0.0617,0.0555,1.112
+Burgenland,XXIV,Gesundheit,Gesundheits- und Sozialwesen,0.0773,0.0705,1.097
+Kärnten,XXIV,Gesundheit,Gesundheits- und Sozialwesen,0.0805,0.0705,1.143
+Niederösterreich,XXIV,Gesundheit,Gesundheits- und Sozialwesen,0.0633,0.0705,0.898
+Oberösterreich,XXIV,Gesundheit,Gesundheits- und Sozialwesen,0.0615,0.0705,0.872
+Salzburg,XXIV,Gesundheit,Gesundheits- und Sozialwesen,0.0609,0.0705,0.864
+Steiermark,XXIV,Gesundheit,Gesundheits- und Sozialwesen,0.0822,0.0705,1.166
+Tirol,XXIV,Gesundheit,Gesundheits- und Sozialwesen,0.0748,0.0705,1.061
+Vorarlberg,XXIV,Gesundheit,Gesundheits- und Sozialwesen,0.0656,0.0705,0.932
+Wien,XXIV,Gesundheit,Gesundheits- und Sozialwesen,0.0743,0.0705,1.054
+Burgenland,XXV,Landwirtschaft,Land- und Forstwirtschaft,0.0352,0.0134,2.622
+Kärnten,XXV,Landwirtschaft,Land- und Forstwirtschaft,0.0189,0.0134,1.407
+Niederösterreich,XXV,Landwirtschaft,Land- und Forstwirtschaft,0.0254,0.0134,1.894
+Oberösterreich,XXV,Landwirtschaft,Land- und Forstwirtschaft,0.0162,0.0134,1.209
+Salzburg,XXV,Landwirtschaft,Land- und Forstwirtschaft,0.01,0.0134,0.748
+Steiermark,XXV,Landwirtschaft,Land- und Forstwirtschaft,0.0219,0.0134,1.635
+Tirol,XXV,Landwirtschaft,Land- und Forstwirtschaft,0.0086,0.0134,0.643
+Vorarlberg,XXV,Landwirtschaft,Land- und Forstwirtschaft,0.0064,0.0134,0.479
+Wien,XXV,Landwirtschaft,Land- und Forstwirtschaft,0.0004,0.0134,0.03
+Burgenland,XXV,Wirtschaft,Industrie (Herstellung von Waren),0.1517,0.1958,0.775
+Kärnten,XXV,Wirtschaft,Industrie (Herstellung von Waren),0.2066,0.1958,1.055
+Niederösterreich,XXV,Wirtschaft,Industrie (Herstellung von Waren),0.1986,0.1958,1.014
+Oberösterreich,XXV,Wirtschaft,Industrie (Herstellung von Waren),0.3053,0.1958,1.559
+Salzburg,XXV,Wirtschaft,Industrie (Herstellung von Waren),0.166,0.1958,0.848
+Steiermark,XXV,Wirtschaft,Industrie (Herstellung von Waren),0.2468,0.1958,1.261
+Tirol,XXV,Wirtschaft,Industrie (Herstellung von Waren),0.1885,0.1958,0.963
+Vorarlberg,XXV,Wirtschaft,Industrie (Herstellung von Waren),0.2987,0.1958,1.525
+Wien,XXV,Wirtschaft,Industrie (Herstellung von Waren),0.0862,0.1958,0.44
+Burgenland,XXV,Energie,Energieversorgung,0.0237,0.017,1.392
+Kärnten,XXV,Energie,Energieversorgung,0.0329,0.017,1.935
+Niederösterreich,XXV,Energie,Energieversorgung,0.0144,0.017,0.844
+Oberösterreich,XXV,Energie,Energieversorgung,0.0111,0.017,0.655
+Salzburg,XXV,Energie,Energieversorgung,0.0168,0.017,0.987
+Steiermark,XXV,Energie,Energieversorgung,0.016,0.017,0.941
+Tirol,XXV,Energie,Energieversorgung,0.0223,0.017,1.313
+Vorarlberg,XXV,Energie,Energieversorgung,0.0202,0.017,1.186
+Wien,XXV,Energie,Energieversorgung,0.0167,0.017,0.981
+Burgenland,XXV,Verkehr & Mobilität,Verkehr,0.0409,0.0573,0.714
+Kärnten,XXV,Verkehr & Mobilität,Verkehr,0.0512,0.0573,0.893
+Niederösterreich,XXV,Verkehr & Mobilität,Verkehr,0.0803,0.0573,1.4
+Oberösterreich,XXV,Verkehr & Mobilität,Verkehr,0.0449,0.0573,0.784
+Salzburg,XXV,Verkehr & Mobilität,Verkehr,0.0662,0.0573,1.154
+Steiermark,XXV,Verkehr & Mobilität,Verkehr,0.049,0.0573,0.854
+Tirol,XXV,Verkehr & Mobilität,Verkehr,0.0786,0.0573,1.37
+Vorarlberg,XXV,Verkehr & Mobilität,Verkehr,0.0515,0.0573,0.898
+Wien,XXV,Verkehr & Mobilität,Verkehr,0.0498,0.0573,0.868
+Burgenland,XXV,Tourismus,Beherbergung und Gastronomie,0.0462,0.0406,1.139
+Kärnten,XXV,Tourismus,Beherbergung und Gastronomie,0.0508,0.0406,1.25
+Niederösterreich,XXV,Tourismus,Beherbergung und Gastronomie,0.0248,0.0406,0.61
+Oberösterreich,XXV,Tourismus,Beherbergung und Gastronomie,0.0217,0.0406,0.534
+Salzburg,XXV,Tourismus,Beherbergung und Gastronomie,0.0766,0.0406,1.886
+Steiermark,XXV,Tourismus,Beherbergung und Gastronomie,0.0328,0.0406,0.808
+Tirol,XXV,Tourismus,Beherbergung und Gastronomie,0.1058,0.0406,2.607
+Vorarlberg,XXV,Tourismus,Beherbergung und Gastronomie,0.053,0.0406,1.306
+Wien,XXV,Tourismus,Beherbergung und Gastronomie,0.029,0.0406,0.715
+Burgenland,XXV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0432,0.0432,1.001
+Kärnten,XXV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0377,0.0432,0.873
+Niederösterreich,XXV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0311,0.0432,0.722
+Oberösterreich,XXV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0348,0.0432,0.807
+Salzburg,XXV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.045,0.0432,1.042
+Steiermark,XXV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0337,0.0432,0.78
+Tirol,XXV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0364,0.0432,0.843
+Vorarlberg,XXV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0371,0.0432,0.859
+Wien,XXV,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0654,0.0432,1.516
+Burgenland,XXV,Bildung,Erziehung und Unterricht,0.0637,0.0539,1.181
+Kärnten,XXV,Bildung,Erziehung und Unterricht,0.0551,0.0539,1.022
+Niederösterreich,XXV,Bildung,Erziehung und Unterricht,0.0472,0.0539,0.876
+Oberösterreich,XXV,Bildung,Erziehung und Unterricht,0.0458,0.0539,0.85
+Salzburg,XXV,Bildung,Erziehung und Unterricht,0.0482,0.0539,0.895
+Steiermark,XXV,Bildung,Erziehung und Unterricht,0.0598,0.0539,1.11
+Tirol,XXV,Bildung,Erziehung und Unterricht,0.0536,0.0539,0.994
+Vorarlberg,XXV,Bildung,Erziehung und Unterricht,0.0427,0.0539,0.793
+Wien,XXV,Bildung,Erziehung und Unterricht,0.0633,0.0539,1.174
+Burgenland,XXV,Gesundheit,Gesundheits- und Sozialwesen,0.0809,0.0743,1.089
+Kärnten,XXV,Gesundheit,Gesundheits- und Sozialwesen,0.0845,0.0743,1.138
+Niederösterreich,XXV,Gesundheit,Gesundheits- und Sozialwesen,0.0665,0.0743,0.895
+Oberösterreich,XXV,Gesundheit,Gesundheits- und Sozialwesen,0.0647,0.0743,0.872
+Salzburg,XXV,Gesundheit,Gesundheits- und Sozialwesen,0.0647,0.0743,0.871
+Steiermark,XXV,Gesundheit,Gesundheits- und Sozialwesen,0.0855,0.0743,1.151
+Tirol,XXV,Gesundheit,Gesundheits- und Sozialwesen,0.0796,0.0743,1.071
+Vorarlberg,XXV,Gesundheit,Gesundheits- und Sozialwesen,0.0685,0.0743,0.923
+Wien,XXV,Gesundheit,Gesundheits- und Sozialwesen,0.0791,0.0743,1.065
+Burgenland,XXVI,Landwirtschaft,Land- und Forstwirtschaft,0.0344,0.0121,2.85
+Kärnten,XXVI,Landwirtschaft,Land- und Forstwirtschaft,0.0155,0.0121,1.279
+Niederösterreich,XXVI,Landwirtschaft,Land- und Forstwirtschaft,0.0232,0.0121,1.916
+Oberösterreich,XXVI,Landwirtschaft,Land- und Forstwirtschaft,0.0151,0.0121,1.247
+Salzburg,XXVI,Landwirtschaft,Land- und Forstwirtschaft,0.008,0.0121,0.663
+Steiermark,XXVI,Landwirtschaft,Land- und Forstwirtschaft,0.0198,0.0121,1.637
+Tirol,XXVI,Landwirtschaft,Land- und Forstwirtschaft,0.007,0.0121,0.58
+Vorarlberg,XXVI,Landwirtschaft,Land- und Forstwirtschaft,0.0052,0.0121,0.432
+Wien,XXVI,Landwirtschaft,Land- und Forstwirtschaft,0.0005,0.0121,0.045
+Burgenland,XXVI,Wirtschaft,Industrie (Herstellung von Waren),0.1446,0.1932,0.748
+Kärnten,XXVI,Wirtschaft,Industrie (Herstellung von Waren),0.223,0.1932,1.154
+Niederösterreich,XXVI,Wirtschaft,Industrie (Herstellung von Waren),0.1964,0.1932,1.016
+Oberösterreich,XXVI,Wirtschaft,Industrie (Herstellung von Waren),0.3039,0.1932,1.573
+Salzburg,XXVI,Wirtschaft,Industrie (Herstellung von Waren),0.1695,0.1932,0.877
+Steiermark,XXVI,Wirtschaft,Industrie (Herstellung von Waren),0.2512,0.1932,1.3
+Tirol,XXVI,Wirtschaft,Industrie (Herstellung von Waren),0.1818,0.1932,0.941
+Vorarlberg,XXVI,Wirtschaft,Industrie (Herstellung von Waren),0.2837,0.1932,1.468
+Wien,XXVI,Wirtschaft,Industrie (Herstellung von Waren),0.0756,0.1932,0.391
+Burgenland,XXVI,Energie,Energieversorgung,0.0223,0.0161,1.386
+Kärnten,XXVI,Energie,Energieversorgung,0.0313,0.0161,1.941
+Niederösterreich,XXVI,Energie,Energieversorgung,0.0147,0.0161,0.915
+Oberösterreich,XXVI,Energie,Energieversorgung,0.0107,0.0161,0.664
+Salzburg,XXVI,Energie,Energieversorgung,0.0169,0.0161,1.051
+Steiermark,XXVI,Energie,Energieversorgung,0.0175,0.0161,1.089
+Tirol,XXVI,Energie,Energieversorgung,0.0224,0.0161,1.391
+Vorarlberg,XXVI,Energie,Energieversorgung,0.0177,0.0161,1.101
+Wien,XXVI,Energie,Energieversorgung,0.0133,0.0161,0.826
+Burgenland,XXVI,Verkehr & Mobilität,Verkehr,0.0406,0.0558,0.729
+Kärnten,XXVI,Verkehr & Mobilität,Verkehr,0.0475,0.0558,0.852
+Niederösterreich,XXVI,Verkehr & Mobilität,Verkehr,0.0806,0.0558,1.446
+Oberösterreich,XXVI,Verkehr & Mobilität,Verkehr,0.0431,0.0558,0.773
+Salzburg,XXVI,Verkehr & Mobilität,Verkehr,0.0648,0.0558,1.161
+Steiermark,XXVI,Verkehr & Mobilität,Verkehr,0.0473,0.0558,0.847
+Tirol,XXVI,Verkehr & Mobilität,Verkehr,0.0771,0.0558,1.381
+Vorarlberg,XXVI,Verkehr & Mobilität,Verkehr,0.0488,0.0558,0.874
+Wien,XXVI,Verkehr & Mobilität,Verkehr,0.0475,0.0558,0.852
+Burgenland,XXVI,Tourismus,Beherbergung und Gastronomie,0.0454,0.0413,1.1
+Kärnten,XXVI,Tourismus,Beherbergung und Gastronomie,0.0498,0.0413,1.207
+Niederösterreich,XXVI,Tourismus,Beherbergung und Gastronomie,0.0249,0.0413,0.604
+Oberösterreich,XXVI,Tourismus,Beherbergung und Gastronomie,0.0217,0.0413,0.526
+Salzburg,XXVI,Tourismus,Beherbergung und Gastronomie,0.0779,0.0413,1.887
+Steiermark,XXVI,Tourismus,Beherbergung und Gastronomie,0.0323,0.0413,0.781
+Tirol,XXVI,Tourismus,Beherbergung und Gastronomie,0.1079,0.0413,2.612
+Vorarlberg,XXVI,Tourismus,Beherbergung und Gastronomie,0.052,0.0413,1.258
+Wien,XXVI,Tourismus,Beherbergung und Gastronomie,0.0311,0.0413,0.754
+Burgenland,XXVI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0439,0.0419,1.048
+Kärnten,XXVI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0363,0.0419,0.866
+Niederösterreich,XXVI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0307,0.0419,0.733
+Oberösterreich,XXVI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.035,0.0419,0.836
+Salzburg,XXVI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0444,0.0419,1.059
+Steiermark,XXVI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0343,0.0419,0.819
+Tirol,XXVI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0348,0.0419,0.832
+Vorarlberg,XXVI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0355,0.0419,0.848
+Wien,XXVI,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0618,0.0419,1.475
+Burgenland,XXVI,Bildung,Erziehung und Unterricht,0.0617,0.053,1.164
+Kärnten,XXVI,Bildung,Erziehung und Unterricht,0.0531,0.053,1.002
+Niederösterreich,XXVI,Bildung,Erziehung und Unterricht,0.0462,0.053,0.871
+Oberösterreich,XXVI,Bildung,Erziehung und Unterricht,0.0445,0.053,0.84
+Salzburg,XXVI,Bildung,Erziehung und Unterricht,0.0473,0.053,0.891
+Steiermark,XXVI,Bildung,Erziehung und Unterricht,0.058,0.053,1.093
+Tirol,XXVI,Bildung,Erziehung und Unterricht,0.0526,0.053,0.992
+Vorarlberg,XXVI,Bildung,Erziehung und Unterricht,0.0425,0.053,0.801
+Wien,XXVI,Bildung,Erziehung und Unterricht,0.0638,0.053,1.204
+Burgenland,XXVI,Gesundheit,Gesundheits- und Sozialwesen,0.0861,0.0758,1.135
+Kärnten,XXVI,Gesundheit,Gesundheits- und Sozialwesen,0.0872,0.0758,1.15
+Niederösterreich,XXVI,Gesundheit,Gesundheits- und Sozialwesen,0.068,0.0758,0.897
+Oberösterreich,XXVI,Gesundheit,Gesundheits- und Sozialwesen,0.066,0.0758,0.871
+Salzburg,XXVI,Gesundheit,Gesundheits- und Sozialwesen,0.0657,0.0758,0.867
+Steiermark,XXVI,Gesundheit,Gesundheits- und Sozialwesen,0.0864,0.0758,1.139
+Tirol,XXVI,Gesundheit,Gesundheits- und Sozialwesen,0.0814,0.0758,1.074
+Vorarlberg,XXVI,Gesundheit,Gesundheits- und Sozialwesen,0.0683,0.0758,0.901
+Wien,XXVI,Gesundheit,Gesundheits- und Sozialwesen,0.0812,0.0758,1.07
+Burgenland,XXVII,Landwirtschaft,Land- und Forstwirtschaft,0.0356,0.0137,2.605
+Kärnten,XXVII,Landwirtschaft,Land- und Forstwirtschaft,0.0153,0.0137,1.119
+Niederösterreich,XXVII,Landwirtschaft,Land- und Forstwirtschaft,0.0275,0.0137,2.013
+Oberösterreich,XXVII,Landwirtschaft,Land- und Forstwirtschaft,0.0171,0.0137,1.256
+Salzburg,XXVII,Landwirtschaft,Land- und Forstwirtschaft,0.0089,0.0137,0.649
+Steiermark,XXVII,Landwirtschaft,Land- und Forstwirtschaft,0.0221,0.0137,1.616
+Tirol,XXVII,Landwirtschaft,Land- und Forstwirtschaft,0.0089,0.0137,0.653
+Vorarlberg,XXVII,Landwirtschaft,Land- und Forstwirtschaft,0.0054,0.0137,0.394
+Wien,XXVII,Landwirtschaft,Land- und Forstwirtschaft,0.0007,0.0137,0.051
+Burgenland,XXVII,Wirtschaft,Industrie (Herstellung von Waren),0.1211,0.1809,0.669
+Kärnten,XXVII,Wirtschaft,Industrie (Herstellung von Waren),0.2195,0.1809,1.213
+Niederösterreich,XXVII,Wirtschaft,Industrie (Herstellung von Waren),0.1774,0.1809,0.981
+Oberösterreich,XXVII,Wirtschaft,Industrie (Herstellung von Waren),0.28,0.1809,1.548
+Salzburg,XXVII,Wirtschaft,Industrie (Herstellung von Waren),0.1869,0.1809,1.033
+Steiermark,XXVII,Wirtschaft,Industrie (Herstellung von Waren),0.2303,0.1809,1.273
+Tirol,XXVII,Wirtschaft,Industrie (Herstellung von Waren),0.1747,0.1809,0.966
+Vorarlberg,XXVII,Wirtschaft,Industrie (Herstellung von Waren),0.2646,0.1809,1.463
+Wien,XXVII,Wirtschaft,Industrie (Herstellung von Waren),0.071,0.1809,0.393
+Burgenland,XXVII,Energie,Energieversorgung,0.0399,0.0256,1.555
+Kärnten,XXVII,Energie,Energieversorgung,0.0646,0.0256,2.521
+Niederösterreich,XXVII,Energie,Energieversorgung,0.0257,0.0256,1.001
+Oberösterreich,XXVII,Energie,Energieversorgung,0.0133,0.0256,0.519
+Salzburg,XXVII,Energie,Energieversorgung,0.0273,0.0256,1.066
+Steiermark,XXVII,Energie,Energieversorgung,0.0225,0.0256,0.877
+Tirol,XXVII,Energie,Energieversorgung,0.0294,0.0256,1.147
+Vorarlberg,XXVII,Energie,Energieversorgung,0.0314,0.0256,1.226
+Wien,XXVII,Energie,Energieversorgung,0.0225,0.0256,0.879
+Burgenland,XXVII,Verkehr & Mobilität,Verkehr,0.0359,0.0526,0.682
+Kärnten,XXVII,Verkehr & Mobilität,Verkehr,0.043,0.0526,0.818
+Niederösterreich,XXVII,Verkehr & Mobilität,Verkehr,0.0708,0.0526,1.345
+Oberösterreich,XXVII,Verkehr & Mobilität,Verkehr,0.0432,0.0526,0.822
+Salzburg,XXVII,Verkehr & Mobilität,Verkehr,0.0591,0.0526,1.123
+Steiermark,XXVII,Verkehr & Mobilität,Verkehr,0.0456,0.0526,0.867
+Tirol,XXVII,Verkehr & Mobilität,Verkehr,0.0713,0.0526,1.355
+Vorarlberg,XXVII,Verkehr & Mobilität,Verkehr,0.0476,0.0526,0.906
+Wien,XXVII,Verkehr & Mobilität,Verkehr,0.0475,0.0526,0.904
+Burgenland,XXVII,Tourismus,Beherbergung und Gastronomie,0.0406,0.035,1.158
+Kärnten,XXVII,Tourismus,Beherbergung und Gastronomie,0.0431,0.035,1.231
+Niederösterreich,XXVII,Tourismus,Beherbergung und Gastronomie,0.0207,0.035,0.592
+Oberösterreich,XXVII,Tourismus,Beherbergung und Gastronomie,0.0192,0.035,0.549
+Salzburg,XXVII,Tourismus,Beherbergung und Gastronomie,0.0673,0.035,1.92
+Steiermark,XXVII,Tourismus,Beherbergung und Gastronomie,0.0282,0.035,0.806
+Tirol,XXVII,Tourismus,Beherbergung und Gastronomie,0.094,0.035,2.684
+Vorarlberg,XXVII,Tourismus,Beherbergung und Gastronomie,0.0439,0.035,1.253
+Wien,XXVII,Tourismus,Beherbergung und Gastronomie,0.0238,0.035,0.679
+Burgenland,XXVII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0479,0.0473,1.013
+Kärnten,XXVII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0387,0.0473,0.819
+Niederösterreich,XXVII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0359,0.0473,0.759
+Oberösterreich,XXVII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0404,0.0473,0.854
+Salzburg,XXVII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0485,0.0473,1.025
+Steiermark,XXVII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0388,0.0473,0.82
+Tirol,XXVII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0389,0.0473,0.823
+Vorarlberg,XXVII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0413,0.0473,0.874
+Wien,XXVII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0691,0.0473,1.461
+Burgenland,XXVII,Bildung,Erziehung und Unterricht,0.0626,0.0542,1.156
+Kärnten,XXVII,Bildung,Erziehung und Unterricht,0.0486,0.0542,0.897
+Niederösterreich,XXVII,Bildung,Erziehung und Unterricht,0.0484,0.0542,0.893
+Oberösterreich,XXVII,Bildung,Erziehung und Unterricht,0.0451,0.0542,0.833
+Salzburg,XXVII,Bildung,Erziehung und Unterricht,0.046,0.0542,0.849
+Steiermark,XXVII,Bildung,Erziehung und Unterricht,0.059,0.0542,1.089
+Tirol,XXVII,Bildung,Erziehung und Unterricht,0.0557,0.0542,1.028
+Vorarlberg,XXVII,Bildung,Erziehung und Unterricht,0.0427,0.0542,0.789
+Wien,XXVII,Bildung,Erziehung und Unterricht,0.0661,0.0542,1.22
+Burgenland,XXVII,Gesundheit,Gesundheits- und Sozialwesen,0.0886,0.0809,1.095
+Kärnten,XXVII,Gesundheit,Gesundheits- und Sozialwesen,0.0886,0.0809,1.095
+Niederösterreich,XXVII,Gesundheit,Gesundheits- und Sozialwesen,0.0714,0.0809,0.883
+Oberösterreich,XXVII,Gesundheit,Gesundheits- und Sozialwesen,0.0722,0.0809,0.893
+Salzburg,XXVII,Gesundheit,Gesundheits- und Sozialwesen,0.0691,0.0809,0.854
+Steiermark,XXVII,Gesundheit,Gesundheits- und Sozialwesen,0.0913,0.0809,1.129
+Tirol,XXVII,Gesundheit,Gesundheits- und Sozialwesen,0.0858,0.0809,1.061
+Vorarlberg,XXVII,Gesundheit,Gesundheits- und Sozialwesen,0.069,0.0809,0.853
+Wien,XXVII,Gesundheit,Gesundheits- und Sozialwesen,0.089,0.0809,1.1
+Burgenland,XXVIII,Landwirtschaft,Land- und Forstwirtschaft,0.0292,0.0136,2.152
+Kärnten,XXVIII,Landwirtschaft,Land- und Forstwirtschaft,0.0159,0.0136,1.173
+Niederösterreich,XXVIII,Landwirtschaft,Land- und Forstwirtschaft,0.0264,0.0136,1.944
+Oberösterreich,XXVIII,Landwirtschaft,Land- und Forstwirtschaft,0.018,0.0136,1.326
+Salzburg,XXVIII,Landwirtschaft,Land- und Forstwirtschaft,0.009,0.0136,0.663
+Steiermark,XXVIII,Landwirtschaft,Land- und Forstwirtschaft,0.0217,0.0136,1.603
+Tirol,XXVIII,Landwirtschaft,Land- und Forstwirtschaft,0.0096,0.0136,0.711
+Vorarlberg,XXVIII,Landwirtschaft,Land- und Forstwirtschaft,0.0064,0.0136,0.469
+Wien,XXVIII,Landwirtschaft,Land- und Forstwirtschaft,0.0007,0.0136,0.05
+Burgenland,XXVIII,Wirtschaft,Industrie (Herstellung von Waren),0.1105,0.1686,0.655
+Kärnten,XXVIII,Wirtschaft,Industrie (Herstellung von Waren),0.1999,0.1686,1.185
+Niederösterreich,XXVIII,Wirtschaft,Industrie (Herstellung von Waren),0.166,0.1686,0.984
+Oberösterreich,XXVIII,Wirtschaft,Industrie (Herstellung von Waren),0.2607,0.1686,1.546
+Salzburg,XXVIII,Wirtschaft,Industrie (Herstellung von Waren),0.1774,0.1686,1.052
+Steiermark,XXVIII,Wirtschaft,Industrie (Herstellung von Waren),0.2184,0.1686,1.295
+Tirol,XXVIII,Wirtschaft,Industrie (Herstellung von Waren),0.1634,0.1686,0.969
+Vorarlberg,XXVIII,Wirtschaft,Industrie (Herstellung von Waren),0.2578,0.1686,1.529
+Wien,XXVIII,Wirtschaft,Industrie (Herstellung von Waren),0.065,0.1686,0.386
+Burgenland,XXVIII,Energie,Energieversorgung,0.045,0.0298,1.51
+Kärnten,XXVIII,Energie,Energieversorgung,0.0819,0.0298,2.744
+Niederösterreich,XXVIII,Energie,Energieversorgung,0.0267,0.0298,0.896
+Oberösterreich,XXVIII,Energie,Energieversorgung,0.0151,0.0298,0.507
+Salzburg,XXVIII,Energie,Energieversorgung,0.0298,0.0298,1.0
+Steiermark,XXVIII,Energie,Energieversorgung,0.0239,0.0298,0.802
+Tirol,XXVIII,Energie,Energieversorgung,0.0322,0.0298,1.079
+Vorarlberg,XXVIII,Energie,Energieversorgung,0.0373,0.0298,1.25
+Wien,XXVIII,Energie,Energieversorgung,0.029,0.0298,0.973
+Burgenland,XXVIII,Verkehr & Mobilität,Verkehr,0.034,0.0541,0.63
+Kärnten,XXVIII,Verkehr & Mobilität,Verkehr,0.042,0.0541,0.778
+Niederösterreich,XXVIII,Verkehr & Mobilität,Verkehr,0.0755,0.0541,1.396
+Oberösterreich,XXVIII,Verkehr & Mobilität,Verkehr,0.0431,0.0541,0.798
+Salzburg,XXVIII,Verkehr & Mobilität,Verkehr,0.0629,0.0541,1.163
+Steiermark,XXVIII,Verkehr & Mobilität,Verkehr,0.0452,0.0541,0.836
+Tirol,XXVIII,Verkehr & Mobilität,Verkehr,0.0732,0.0541,1.354
+Vorarlberg,XXVIII,Verkehr & Mobilität,Verkehr,0.0498,0.0541,0.922
+Wien,XXVIII,Verkehr & Mobilität,Verkehr,0.0485,0.0541,0.897
+Burgenland,XXVIII,Tourismus,Beherbergung und Gastronomie,0.046,0.0431,1.068
+Kärnten,XXVIII,Tourismus,Beherbergung und Gastronomie,0.0479,0.0431,1.111
+Niederösterreich,XXVIII,Tourismus,Beherbergung und Gastronomie,0.0248,0.0431,0.576
+Oberösterreich,XXVIII,Tourismus,Beherbergung und Gastronomie,0.0234,0.0431,0.543
+Salzburg,XXVIII,Tourismus,Beherbergung und Gastronomie,0.0829,0.0431,1.924
+Steiermark,XXVIII,Tourismus,Beherbergung und Gastronomie,0.0326,0.0431,0.756
+Tirol,XXVIII,Tourismus,Beherbergung und Gastronomie,0.1114,0.0431,2.585
+Vorarlberg,XXVIII,Tourismus,Beherbergung und Gastronomie,0.0572,0.0431,1.326
+Wien,XXVIII,Tourismus,Beherbergung und Gastronomie,0.0323,0.0431,0.748
+Burgenland,XXVIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.053,0.0501,1.056
+Kärnten,XXVIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0418,0.0501,0.833
+Niederösterreich,XXVIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0393,0.0501,0.784
+Oberösterreich,XXVIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0439,0.0501,0.876
+Salzburg,XXVIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0473,0.0501,0.944
+Steiermark,XXVIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0429,0.0501,0.855
+Tirol,XXVIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0412,0.0501,0.822
+Vorarlberg,XXVIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0469,0.0501,0.936
+Wien,XXVIII,Finanzen & Budget,Finanz- und Versicherungsleistungen,0.0709,0.0501,1.414
+Burgenland,XXVIII,Bildung,Erziehung und Unterricht,0.0646,0.0562,1.148
+Kärnten,XXVIII,Bildung,Erziehung und Unterricht,0.0489,0.0562,0.87
+Niederösterreich,XXVIII,Bildung,Erziehung und Unterricht,0.0502,0.0562,0.893
+Oberösterreich,XXVIII,Bildung,Erziehung und Unterricht,0.0476,0.0562,0.846
+Salzburg,XXVIII,Bildung,Erziehung und Unterricht,0.0466,0.0562,0.828
+Steiermark,XXVIII,Bildung,Erziehung und Unterricht,0.0603,0.0562,1.072
+Tirol,XXVIII,Bildung,Erziehung und Unterricht,0.0574,0.0562,1.02
+Vorarlberg,XXVIII,Bildung,Erziehung und Unterricht,0.0467,0.0562,0.83
+Wien,XXVIII,Bildung,Erziehung und Unterricht,0.0687,0.0562,1.222
+Burgenland,XXVIII,Gesundheit,Gesundheits- und Sozialwesen,0.0941,0.0851,1.106
+Kärnten,XXVIII,Gesundheit,Gesundheits- und Sozialwesen,0.0937,0.0851,1.101
+Niederösterreich,XXVIII,Gesundheit,Gesundheits- und Sozialwesen,0.0756,0.0851,0.888
+Oberösterreich,XXVIII,Gesundheit,Gesundheits- und Sozialwesen,0.0777,0.0851,0.914
+Salzburg,XXVIII,Gesundheit,Gesundheits- und Sozialwesen,0.0706,0.0851,0.83
+Steiermark,XXVIII,Gesundheit,Gesundheits- und Sozialwesen,0.098,0.0851,1.152
+Tirol,XXVIII,Gesundheit,Gesundheits- und Sozialwesen,0.0867,0.0851,1.019
+Vorarlberg,XXVIII,Gesundheit,Gesundheits- und Sozialwesen,0.0755,0.0851,0.887
+Wien,XXVIII,Gesundheit,Gesundheits- und Sozialwesen,0.0919,0.0851,1.081

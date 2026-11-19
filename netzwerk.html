@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ausschuss-Netzwerk · Nationalrat in Zahlen</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
+<link rel="stylesheet" href="dash.css">
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<header class="kopfzeile"><div class="huelle"><a class="marke" href="index.html">Nationalrat <span>in Zahlen</span></a><nav class="nav" aria-label="Seiten"><a href="index.html">Übersicht</a><a href="anfragen.html">Anfragen</a><a href="antraege.html">Gesetzesanträge</a><a href="abgeordnete.html">Abgeordnete</a><a href="netzwerk.html" aria-current="page">Ausschuss-Netzwerk</a><a href="analyse.html">Spezialisierung</a><a href="regionen.html">Regionen</a></nav></div></header>
+<div class="huelle">
+<section class="held"><span class="augenbraue">Ausschuss-Netzwerk · XX. bis XXVIII. GP</span><h1>Wer sitzt mit wem im Ausschuss?</h1>
+<p class="vorspann">Die eigentliche Gesetzesarbeit passiert in den Ausschüssen. Hier treffen sich Abgeordnete aller Klubs regelmäßig, oft über Jahre. Das Netzwerk zeigt für jede Gesetzgebungsperiode seit 1996, wer in welchen Ausschüssen sitzt und wer mit wem besonders oft zusammenarbeitet.</p>
+<p class="vorspann">Wählen Sie eine Periode und klicken Sie sich durch: Ein Ausschuss zeigt seine Mitglieder, eine Person ihre Ausschüsse und die Kolleg:innen, mit denen sie am häufigsten zusammensitzt.</p></section>
+</div>
+<main class="huelle brett">
+<div class="ja-grid">
+<div class="ja-prosa"><div><h2>So lesen Sie das Netz</h2><p>Jeder Punkt ist ein:e Abgeordnete:r. Eine Linie verbindet zwei Personen, wenn sie gemeinsam in mindestens so vielen Ausschüssen sitzen wie eingestellt. Die Schwelle wird je Periode so gewählt, dass das Netz lesbar bleibt; mit dem Regler können Sie sie ändern.</p><p>So entstehen Gruppen von Fachpolitiker:innen, die immer wieder zusammensitzen. Farbige Linien verbinden Personen desselben Klubs, dunkle Linien laufen über Klubgrenzen. Mit „nur klubübergreifende Verbindungen“ sehen Sie, wer die Brücken zwischen den Klubs bildet.</p></div><div class="merk"><span class="zahl">30</span><span class="was">Fachausschüsse in der XXVIII. GP</span></div></div>
+
+</div>
+<section id="netz-karte" aria-label="Ausschuss-Netzwerk">
+  <div class="netz-steuer">
+    <label for="netz-gp">Gesetzgebungsperiode<select id="netz-gp"></select></label>
+        <div class="feld">Ausschüsse<span class="ja-seg" id="netz-umfang"><button type="button" data-v="fach">Fachausschüsse</button><button type="button" data-v="unter">mit Unterausschüssen</button><button type="button" data-v="alle">alle inkl. U-Ausschüsse</button></span></div>
+    <label class="netz-check" for="netz-ersatz"><input type="checkbox" id="netz-ersatz"> Ersatzmitglieder einbeziehen</label>
+    <label class="netz-check" for="netz-bruecken"><input type="checkbox" id="netz-bruecken"> nur klubübergreifende Verbindungen</label>
+    <label class="feld" id="netz-min-feld" for="netz-min">Mindestens <span><strong id="netz-min-wert">3</strong> gemeinsame Ausschüsse</span><input type="range" id="netz-min" min="2" max="6" value="3"></label>
+    <label for="netz-suche">Person finden<input type="search" id="netz-suche" list="netz-namen" placeholder="Name eingeben…" autocomplete="off"><datalist id="netz-namen"></datalist></label>
+    <div class="feld" style="flex-basis:100%">Klubs<span class="ja-chips" id="netz-klubs"></span></div>
+    <button type="button" class="ja-btn" id="netz-reset">Auswahl zurücksetzen</button>
+  </div>
+  <div class="netz-buehne">
+    <div class="netz-karte">
+      <p id="netz-status">Daten werden geladen …</p>
+      <div id="netz-graph"></div>
+      <div class="netz-legende"><span><b></b>Abgeordnete:r in Klubfarbe, Größe nach Zahl der Verbindungen</span><span>farbige Linie: gleicher Klub</span><span>dunkle Linie: klubübergreifend</span><span>dicker: mehr gemeinsame Ausschüsse</span></div>
+      <div id="netz-tip"></div>
+    </div>
+    <aside id="netz-panel" aria-live="polite"></aside>
+  </div>
+</section>
+<div class="ja-grid">
+<div class="ja-prosa"><div><h2>Die Vielbeschäftigten</h2><p>Im Schnitt sitzt ein:e Abgeordnete:r der laufenden Periode als Mitglied in 4,0 Fachausschüssen, Ersatzmitgliedschaften nicht gezählt. An der Spitze liegt Michael Hammer (ÖVP) mit 9 Ausschüssen, vor Julia Elisabeth Herr (SPÖ) und Agnes Sirkka Prammer (GRÜNE) mit je 8.</p><p>Kleine Klubs müssen mit wenigen Abgeordneten alle Ausschüsse besetzen. Ihre Mitglieder sind deshalb oft in besonders vielen Ausschüssen vertreten. Die Tabellen unten folgen der gewählten Periode und den Filtern.</p></div><div class="merk"><span class="zahl">9</span><span class="was">Fachausschüsse: Michael Hammer, Rekord der XXVIII. GP</span></div></div>
+
+<div class="ja-prosa"><div><h2>Brücken zwischen den Klubs</h2><p>Wer jahrelang gemeinsam in denselben Ausschüssen sitzt, kennt sich, auch über Klubgrenzen hinweg. Das engste klubübergreifende Tandem der laufenden Periode bilden Michael Hammer (ÖVP) und Julia Elisabeth Herr (SPÖ) mit 6 gemeinsamen Fachausschüssen.</p><p>Insgesamt teilen sich in der XXVIII. GP 340 Paare von Abgeordneten mindestens drei Fachausschüsse. Im Netz oben sind das die dunklen Linien.</p></div><div class="merk"><span class="zahl">6</span><span class="was">gemeinsame Ausschüsse des engsten klubübergreifenden Tandems</span></div></div>
+
+</div>
+<div class="netz-tabellen">
+  <section class="netz-tab"><h3>Die meisten Ausschüsse</h3><p>Mitgliedschaften und Funktionen in der gewählten Periode, ohne Ersatzmitgliedschaften. Klick zeigt die Person im Netz.</p><table id="netz-viel"><thead><tr><th>Abgeordnete:r</th><th>Klub</th><th>Ausschüsse</th></tr></thead><tbody></tbody></table></section>
+  <section class="netz-tab"><h3>Klubübergreifende Tandems</h3><p>Paare aus verschiedenen Klubs mit den meisten gemeinsamen Ausschüssen in der gewählten Periode.</p><table id="netz-tandem"><thead><tr><th>Person</th><th>Person</th><th>gemeinsam</th></tr></thead><tbody></tbody></table></section>
+</div>
+<div class="ja-grid">
+<div class="ja-prosa"><div><h2>Wer den Vorsitz führt</h2><p>Die Vorsitze der Ausschüsse werden nach Stärke auf die Klubs verteilt. Bei den Frauen ist die Entwicklung nicht linear: In der XXIII. GP führten Frauen 45 % der Vorsitze in Fachausschüssen, in der laufenden XXVIII. GP sind es 26 %, weniger als ihr Anteil an den Abgeordneten.</p><p>Die meisten Ausschussvorsitze seit 1996 hatte Jakob Auer (ÖVP) mit 8, vor Martin Graf (FPÖ) mit 7. Gezählt werden Vorsitze je Ausschuss und Periode.</p></div><div class="merk"><span class="zahl">26 %</span><span class="was">der Fachausschuss-Vorsitze der XXVIII. GP führen Frauen</span></div></div>
+
+</div>
+<div class="netz-tabellen">
+  <section class="netz-tab"><h3>Vorsitze je Klub</h3><p id="netz-vorsitz-note"></p><table id="netz-vorsitz"><thead><tr><th>Klub</th><th>Vorsitze</th><th>Anteil</th><th>Anteil Abgeordnete</th></tr></thead><tbody></tbody></table></section>
+  <section class="netz-tab"><h3>Frauenanteil an den Vorsitzen</h3><p>Fachausschüsse je Gesetzgebungsperiode, inklusive Wechsel während der Periode.</p><div class="ja-bars" id="netz-frauen"></div></section>
+</div>
+<p class="ja-note" style="margin-top:24px">Quelle: Parlament Österreich, Open Data (Ausschussmitgliedschaften, Filter-API Liste 250, je Person), Lizenz CC BY 4.0. Daten ab der XX. GP. Eine Person zählt je Ausschuss und Periode einmal, mit ihrer höchsten Funktion. Klub laut überwiegender Zugehörigkeit in der Periode.</p>
+</main>
+<footer class="fuss"><div class="huelle">
+<p>Daten: Parlament Österreich, Open Data (Filter-API und Detailseiten im JSON-Format), Lizenz CC BY 4.0. Stand der Daten: 2. November 2026.</p>
+<p>Ein unabhängiges Auswertungsprojekt auf Basis der offenen Daten. Kein offizielles Angebot der Parlamentsdirektion; maßgeblich sind die Angaben auf parlament.gv.at.</p>
+</div></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="netz.js"></script>
+</body>
+</html>

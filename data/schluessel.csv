@@ -1,0 +1,263 @@
+typ,code,name
+thema,1,Soziales
+thema,2,Verkehr und Infrastruktur
+thema,3,Budget und Finanzen
+thema,4,Inneres und Recht
+thema,5,Parlament und Demokratie
+thema,6,Arbeit
+thema,7,Kultur
+thema,8,Wirtschaft
+thema,9,Außenpolitik
+thema,10,"Klima, Umwelt und Energie"
+thema,11,Land- und Forstwirtschaft
+thema,12,Landesverteidigung
+thema,13,Bildung
+thema,14,Sport
+thema,15,Europäische Union
+thema,16,Information und Medien
+thema,17,Gesundheit und Ernährung
+thema,18,"Innovation, Technologie und Forschung"
+thema,19,Frauen und Gleichbehandlung
+thema,20,Familie und Generationen
+ressort,1,Bundesministerium für Finanzen
+ressort,2,"Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz"
+ressort,3,Bundesministerium für Inneres
+ressort,4,Bundeskanzleramt
+ressort,5,"Bundesministerium für Europa, Integration und Äußeres"
+ressort,6,Bundesministerium für Nachhaltigkeit und Tourismus
+ressort,7,Bundesministerium für Justiz
+ressort,8,Büro der Bundesministerin/des Bundesministers im Bundeskanzleramt
+ressort,9,"Bundesministerium für Verkehr, Innovation und Technologie"
+ressort,10,"Bundesministerium für Verfassung, Reformen, Deregulierung und Justiz"
+ressort,11,"Bundesministerium für Arbeit, Soziales, Gesundheit und Konsumentenschutz"
+ressort,12,Bundesministerium für Landesverteidigung
+ressort,13,"Bundesministerium für Bildung, Wissenschaft und Forschung"
+ressort,14,Bundesministerium für Digitalisierung und Wirtschaftsstandort
+ressort,15,Bundesministerium für öffentlichen Dienst und Sport
+ressort,16,"Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie"
+ressort,17,"Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport"
+ressort,18,Bundesministerium für europäische und internationale Angelegenheiten
+ressort,19,"Bundesministerium für Frauen, Wissenschaft und Forschung"
+ressort,20,"Bundesministerium für Landwirtschaft, Regionen und Tourismus"
+ressort,21,"Bundesministerium für Arbeit, Familie und Jugend"
+ressort,22,Büro der Bundesministerin für EU und Verfassung
+ressort,23,"Büro der Bundesministerin für Europa, Integration und Familie"
+ressort,24,Bundesministerium für Arbeit und Wirtschaft
+ressort,25,"Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft"
+ressort,26,Büro der Bundesministerin für Frauen und Integration
+ressort,27,"Büro der Bundesministerin für Frauen, Familie, Jugend und Integration"
+ressort,28,Bundesministerium für Arbeit
+ressort,29,"Büro der Bundesministerin für Frauen, Familie, Integration und Medien"
+ressort,30,"Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz"
+ressort,31,Bundesministerium für Wirtschaft und Arbeit
+ressort,32,"Bundesministerium für Unterricht, Kunst und Kultur"
+ressort,33,"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft"
+ressort,34,"Bundesministerium für Gesundheit, Familie und Jugend"
+ressort,35,Bundesministerium für Soziales und Konsumentenschutz
+ressort,36,Bundesministerium für Wissenschaft und Forschung
+ressort,37,"Büro der Bundesministerin für Frauen, Medien und öffentlichen Dienst"
+ressort,38,Bundesministerium für soziale Sicherheit und Generationen
+ressort,39,"Bundesministerium für Bildung, Wissenschaft und Kultur"
+ressort,40,Bundesministerium für auswärtige Angelegenheiten
+ressort,41,Bundesministerium für öffentliche Leistung und Sport
+ressort,42,Bundesministerium für Gesundheit und Frauen
+ressort,43,"Bundesministerium für Arbeit, Gesundheit und Soziales"
+ressort,44,Bundesministerium für Wissenschaft und Verkehr
+ressort,45,Bundesministerium für Land- und Forstwirtschaft
+ressort,46,Bundesministerium für wirtschaftliche Angelegenheiten
+ressort,47,"Bundesministerium für soziale Sicherheit, Generationen und Konsumentenschutz"
+ressort,48,Bundesministerium für Unterricht und kulturelle Angelegenheiten
+ressort,49,"Bundesministerium für Umwelt, Jugend und Familie"
+ressort,50,Büro der Frau Vizekanzler
+ressort,51,Bundesministerium für Bildung
+ressort,52,Büro des Herrn Vizekanzler
+ressort,53,Bundesministerium für Frauenangelegenheiten und Verbraucherschutz
+ressort,54,"Bundesministerium für Innovation, Mobilität und Infrastruktur"
+ressort,55,"Büro der Bundesministerin für Frauen, Medien und Regionalpolitik"
+ressort,56,"Bundesministerium für Wirtschaft, Familie und Jugend"
+ressort,57,"Bundesministerium für Arbeit, Soziales und Konsumentenschutz"
+ressort,58,Bundesministerium für Landesverteidigung und Sport
+ressort,59,Bundesministerium für Gesundheit
+ressort,60,Büro der Bundesministerin für Frauen und öffentlichen Dienst
+ressort,61,Bundesministerium für Arbeit und Soziales
+ressort,62,Bundesministerium für öffentliche Wirtschaft und Verkehr
+ressort,63,"Bundesministerium für Wissenschaft, Forschung und Kunst"
+ressort,64,Bundesministerium für Gesundheit und Konsumentenschutz
+ressort,65,Bundesministerium für Frauenangelegenheiten
+ressort,66,Bundesministerium für Jugend und Familie
+ressort,67,Bundesministerium für Umwelt
+ressort,68,"Bundesministerium für Wissenschaft, Verkehr und Kunst"
+ressort,69,"Büro des Bundesministers für Kunst und Kultur, Verfassung und öffentlichen Dienst"
+ressort,70,"Bundesministerium für Wissenschaft, Forschung und Wirtschaft"
+ressort,71,Bundesministerium für Familien und Jugend
+ressort,72,Bundesministerium für Bildung und Frauen
+ressort,73,"Büro des Bundesministers für Kunst und Kultur, Verfassung und Medien"
+ressort,74,Büro des Bundesministers im Bundeskanzleramt
+ressort,75,"Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft"
+ressort,76,"Bundesministerium für Wirtschaft, Energie und Tourismus"
+ressort,77,"Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport"
+ressort,78,Bundesministerium für Unterricht und Kunst
+ressort,79,Bundesministerium für Föderalismus und Verwaltungsreform
+ressort,80,"Büro des Bundesministers für EU, Kunst, Kultur und Medien"
+ressort,81,"Büro der Bundesministerin für Frauen, Familien und Jugend"
+ressort,82,Bundesministerium ohne Portefeuille
+minister,1,"Dr. Magnus Brunner, LL.M."
+minister,2,Rudolf Anschober
+minister,3,"Dipl.-Kfm. Eduard Müller, MBA"
+minister,4,"Karl Nehammer, MSc"
+minister,5,Sebastian Kurz
+minister,6,"Karl Nehammer, MSC"
+minister,7,Dr. Wolfgang Peschorn
+minister,8,"Mag. Alexander Schallenberg, LL.M."
+minister,9,Elisabeth Köstinger
+minister,10,"Dr. Alma Zadić, LL.M."
+minister,11,"Leonore Gewessler, BA"
+minister,12,DDr. Clemens Jabloner
+minister,13,"Dipl.-Ing. Maria Patek, MBA"
+minister,14,Mag. Dr. Brigitte Zarfl
+minister,15,Mag. Klaudia Tanner
+minister,16,Dr. Heinz Faßmann
+minister,17,Mag. Dr. Iris Rauskala
+minister,18,Mag. Thomas Starlinger
+minister,19,"Mag. Gernot Blümel, MBA"
+minister,20,Dr. Margarete Schramböck
+minister,21,Mag. Werner Kogler
+minister,22,Dr. Martin Polaschek
+minister,23,Mag. Elisabeth Udolf-Strobl
+minister,24,"Eva-Maria Holzleitner, BSc"
+minister,25,Johannes Rauch
+minister,26,Mag. Ines Stilling
+minister,27,Dr. Brigitte Bierlein
+minister,28,Mag. Andreas Reichhardt
+minister,29,Mag. (FH) Christine Aschbacher
+minister,30,Mag. Karoline Edtstadler
+minister,31,Claudia Plakolm
+minister,32,Mag. Dr. Martin Kocher
+minister,33,Dr. Christian Stocker
+minister,34,Mag. Gerhard Karner
+minister,35,Dr. Anna Sporrer
+minister,36,"Mag. Norbert Totschnig, MSc"
+minister,37,MMag. Dr. Susanne Raab
+minister,38,Dr. Markus Marterbauer
+minister,39,Dr. Wolfgang Mückstein
+minister,40,Dr. Michael Linhart
+minister,41,Korinna Schumann
+minister,42,Dr. Martin Bartenstein
+minister,43,Dr. Claudia Schmied
+minister,44,Dr. Alfred Gusenbauer
+minister,45,Dipl.-Ing. Josef Pröll
+minister,46,Dr. Andrea Kdolsky
+minister,47,Dr. Erwin Buchinger
+minister,48,Mag. Norbert Darabos
+minister,49,Werner Faymann
+minister,50,Günther Platter
+minister,51,Dr. Johannes Hahn
+minister,52,Dr. Maria Berger
+minister,53,Mag. Wilhelm Molterer
+minister,54,Doris Bures
+minister,55,Dr. Ursula Plassnik
+minister,56,"Mag. Beate Meinl-Reisinger, MES"
+minister,57,Dipl.-Ing. Dr. Monika Forstinger
+minister,58,Dr. Dieter Böhmdorfer
+minister,59,Mag. Herbert Haupt
+minister,60,Elisabeth Gehrer
+minister,61,Mag. Karl-Heinz Grasser
+minister,62,Dr. Benita-Maria Ferrero-Waldner
+minister,63,Dr. Ernst Strasser
+minister,64,Herbert Scheibner
+minister,65,Dr. Wolfgang Schüssel
+minister,66,Dr. Susanne Riess-Passer
+minister,67,Dr. Nikolaus Michalek
+minister,68,Dr. Elisabeth Sickl
+minister,69,Dipl.-Ing. Michael Schmid
+minister,70,Mag. Karin Gastinger
+minister,71,Maria Rauch-Kallat
+minister,72,Hubert Gorbach
+minister,73,Ursula Haubner
+minister,74,Dr. Michael Krüger
+minister,75,Liese Prokop
+minister,76,Rudolf Edlinger
+minister,77,"Christoph Wiederkehr, MA"
+minister,78,Eleonora Hostasch
+minister,79,Mag. Viktor Klima
+minister,80,Dr. Caspar Einem
+minister,81,Mag. Barbara Prammer
+minister,82,Mag. Karl Schlögl
+minister,83,Dr. Hannes Farnleitner
+minister,84,Dr. Benita Ferrero-Waldner
+minister,85,Dipl.-Ing. Dr. Erwin Pröll
+minister,86,Peter Hanke
+minister,87,Mag. Dr. Maria Theresia Fekter
+minister,88,Ing. Mathias Reichhold
+minister,89,Heidrun Silhavy
+minister,90,Dr. Werner Fasslabend
+minister,91,Dr. Reinhold Mitterlehner
+minister,92,Rudolf Hundstorfer
+minister,93,Mag. Dr. Beatrix Karl
+minister,94,Mag. Johanna Mikl-Leitner
+minister,95,Dipl.-Ing. Nikolaus Berlakovich
+minister,96,Dr. Karlheinz Töchterle
+minister,97,"Alois Stöger, diplômé"
+minister,98,Dr. Michael Spindelegger
+minister,99,Gabriele Heinisch-Hosek
+minister,100,Mag. Claudia Bandion-Ortner
+minister,101,Dr. Johannes Ditz
+minister,102,Dkfm. Dr. Franz Vranitzky
+minister,103,Franz Hums
+minister,104,Dr. Rudolf Scholten
+minister,105,Dr. Christa Krammer
+minister,106,Dr. Helga Konrad
+minister,107,Dr. Sonja Moser
+minister,108,Dr. Josef Ostermayer
+minister,109,Dr. Johann Georg Schelling
+minister,110,Dipl.-Ing. Andrä Rupprechter
+minister,111,Dr. Wolfgang Brandstetter
+minister,112,MMag. Dr. Sophie Karmasin
+minister,113,"Dr. Sabine Oberhauser, MAS"
+minister,114,Mag. Gerald Klug
+minister,115,Univ.-Prof. Dr. Karlheinz Töchterle
+minister,116,Mag. Christian Kern
+minister,117,Mag. Hans Peter Doskozil
+minister,118,Mag. Wolfgang Sobotka
+minister,119,Mag. Thomas Drozda
+minister,120,Mag. Jörg Leichtfried
+minister,121,Dr. Sonja Hammerschmid
+minister,122,"Dr. Pamela Rendi-Wagner, MSc"
+minister,123,Dr. Harald Mahrer
+minister,124,Claudia Bauer
+minister,125,Mag. Dr. Wolfgang Hattmannsdorfer
+minister,126,"Andreas Babler, MSc"
+minister,127,DDr. Gunter Mayr
+minister,128,Dr. Franz Löschnak
+minister,129,Dkfm. Ferdinand Lacina
+minister,130,Dr. Alois Mock
+minister,131,Josef Hesoun
+minister,132,Dr. Erhard Busek
+minister,133,Dr. Andreas Staribacher
+minister,134,Mag. Gabriela Moser
+minister,135,Johanna Dohnal
+minister,136,DI Dr. Franz Fischler
+minister,137,Jürgen Weiss
+minister,138,Mag. Dr. Juliane Bogner-Strauß
+minister,139,Mag. Beate Hartinger-Klein
+minister,140,Hartwig Löger
+minister,141,Dr. Josef Moser
+minister,142,Herbert Kickl
+minister,143,Ing. Norbert Hofer
+minister,144,Dr. Karin Kneissl
+minister,145,Mario Kunasek
+minister,146,Heinz-Christian Strache
+minister,147,Mag. Beate Hartinger
+minister,148,Gernot Blümel
+minister,149,Mag. Dr. Sonja Hammerschmid
+minister,150,Univ.-Prof. Dr. Heinz Faßmann
+minister,151,Mag. Dr. Iris Eliisa Rauskala
+minister,152,Dr. Eckart Ratz
+minister,153,Dr. Valerie Hackl
+minister,154,Mag. Johann Luif
+minister,155,Dr. Walter Pöltner
+minister,156,Mag. Karin Miklautsch
+minister,157,Mag. Eduard Mainoni
+minister,158,"Alois Stöger, dipl."
+minister,159,Alois Stöger
+minister,160,"Eva Maria Holzleitner, BSc"

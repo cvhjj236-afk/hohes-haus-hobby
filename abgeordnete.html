@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="de" data-typ="P">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Abgeordnete · Nationalrat in Zahlen</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
+<link rel="stylesheet" href="dash.css">
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<header class="kopfzeile"><div class="huelle"><a class="marke" href="index.html">Nationalrat <span>in Zahlen</span></a><nav class="nav" aria-label="Seiten"><a href="index.html">Übersicht</a><a href="anfragen.html">Anfragen</a><a href="antraege.html">Gesetzesanträge</a><a href="abgeordnete.html" aria-current="page">Abgeordnete</a><a href="netzwerk.html">Ausschuss-Netzwerk</a><a href="analyse.html">Spezialisierung</a><a href="regionen.html">Regionen</a></nav></div></header>
+<div class="huelle">
+<section class="held"><span class="augenbraue">Abgeordnete zum Nationalrat · I. bis XXVIII. GP</span><h1>Wer sitzt im Nationalrat, und wie lange?</h1><p class="vorspann">Alle 2.007 Abgeordneten zum Nationalrat seit 1920: Zusammensetzung, Frauenanteil, Erneuerung, Karrieren, Klubwechsel und Aktivität bei Anfragen und Gesetzesanträgen.</p><p class="vorspann">Gefiltert wird über Gesetzgebungsperiode, Klub, Bundesland des Wahlkreises und Geschlecht.</p></section>
+</div>
+<main class="brett huelle" id="inhalt">
+<div class="ja">
+  <header class="ja-head" id="kopf">
+    <span class="ja-seg ja-typ" id="seg-typ" role="group" aria-label="Gegenstand"><button data-v="J">Schriftliche Anfragen</button><button data-v="A">Selbständige Gesetzesanträge</button><button data-v="P">Abgeordnete</button></span>
+    <h1 id="titel">Schriftliche Anfragen im Nationalrat</h1>
+    <p class="ja-take dash-skeleton" id="takeaway" data-source="anfragen antraege person_gp">—</p>
+    <div class="ja-prog" id="fortschritt" data-source="fortschritt" hidden>
+      <div class="ja-prog-t"><span id="prog-text"></span><span id="prog-pct"></span></div>
+      <div class="ja-prog-tr"><div class="ja-prog-fl" id="prog-fl"></div></div>
+      <p class="ja-note">Bis alle Detaildaten da sind, fehlen bei einem Teil der Anfragen Adressat, Antwortdatum und (vor der XIX. GP) der Klub. Die Zahlen werden laufend vervollständigt.</p>
+    </div>
+  </header>
+
+  <section class="ja-filters" id="filter" aria-label="Filter">
+    <label class="ja-f">Gesetzgebungsperiode
+      <span class="ja-pair">
+        <select class="ja-gpvon" aria-label="GP von" data-source="anfragen antraege person_gp"></select>–
+        <select class="ja-gpbis" aria-label="GP bis" data-source="anfragen antraege person_gp"></select>
+      </span>
+    </label>
+    <label class="ja-f" id="f-datum"><span id="lbl-datum">Datum (Einlangen)</span>
+      <span class="ja-pair">
+        <input class="ja-von" type="date" min="1945-01-01" max="2099-12-31" aria-label="Datum von">–
+        <input class="ja-bis" type="date" min="1945-01-01" max="2099-12-31" aria-label="Datum bis">
+      </span>
+    </label>
+    <label class="ja-f" id="f-thema">Thema
+      <select class="ja-thema ja-wide" aria-label="Thema" data-source="schluessel"></select>
+    </label>
+    <label class="ja-f"><span id="lbl-d3">Ressort (Adressat)</span>
+      <select class="ja-ressort ja-wide" aria-label="Ressort" data-source="schluessel antraege"></select>
+    </label>
+    <label class="ja-f"><span id="lbl-d4">Minister:in (Adressat)</span>
+      <select class="ja-minister ja-wide" aria-label="Minister:in" data-source="schluessel antraege"></select>
+    </label>
+    <div class="ja-f" style="flex-basis:100%">Klubs <span class="ja-chips" id="klubchips" data-source="anfragen antraege person_gp"></span></div>
+    <div class="ja-f" id="f-person" hidden>Person <span class="ja-chips" id="personchips" data-source="personen"></span></div>
+    <button class="ja-btn ja-reset" type="button">Alle Filter zurücksetzen</button>
+  </section>
+
+  <section class="ja-kpis" id="kennzahlen" data-source="anfragen antraege">
+    <div class="ja-kpi"><div class="lbl" id="k-n-lbl">Anfragen</div><div class="val" id="k-n">—</div><div class="sub" id="k-n-sub">—</div></div>
+    <div class="ja-kpi"><div class="lbl" id="k-b-lbl">Beantwortet</div><div class="val" id="k-b">—</div><div class="sub" id="k-b-sub">—</div></div>
+    <div class="ja-kpi"><div class="lbl" id="k-d-lbl">Beantwortungsdauer (Median)</div><div class="val" id="k-d">—</div><div class="sub" id="k-d-sub">Einlangen bis Beantwortung</div></div>
+    <div class="ja-kpi"><div class="lbl" id="k-o-lbl">Noch offen</div><div class="val" id="k-o">—</div><div class="sub" id="k-o-sub">ohne schriftliche Beantwortung</div></div>
+  </section>
+
+  <div class="ja-grid">
+    <section class="ja-card full" id="zeitverlauf">
+      <div class="ja-ct">
+        <div><h2>Zeitverlauf</h2><p class="ja-note" id="zv-note">Anfragen nach Datum des Einlangens</p></div>
+        <div class="ja-pair">
+          <span class="ja-seg" id="seg-aufl"><button data-v="jahr">Jahr</button><button data-v="monat">Monat</button><button data-v="gp">GP</button></span>
+          <span class="ja-seg" id="seg-stapel"><button data-v="einzeln">einzeln</button><button data-v="gestapelt">aufsummiert</button></span>
+          <span class="ja-seg" id="seg-modus"><button data-v="gesamt">Gesamt</button><button data-v="klub">Klubs</button><button data-v="thema">Themen</button><button data-v="ressort" class="t-d3p">Ressorts</button><button data-v="minister" class="t-d4p">Minister:innen</button></span>
+        </div>
+      </div>
+      <div class="ja-legend" id="zv-legend"></div>
+      <div class="ja-chart" id="zv-chart" data-source="anfragen antraege"></div>
+    </section>
+
+    <section class="ja-card" id="klubs">
+      <div class="ja-ct"><div><h2>Nach Klub</h2><p class="ja-note" id="klub-note">Gemeinsame Anfragen zählen bei jedem beteiligten Klub. Klick filtert.</p></div></div>
+      <div class="ja-bars" id="klub-bars" data-source="anfragen antraege"></div>
+    </section>
+
+    <section class="ja-card" id="themen">
+      <div class="ja-ct"><div><h2>Nach Thema</h2><p class="ja-note" id="thema-note">Eine Anfrage kann mehreren Themen zugeordnet sein. Klick filtert.</p></div></div>
+      <div class="ja-bars" id="thema-bars" data-source="anfragen schluessel antraege"></div>
+    </section>
+
+    <section class="ja-card full" id="adressaten">
+      <div class="ja-ct">
+        <div><h2 id="adr-titel">Adressaten</h2><p class="ja-note" id="adr-note">An wen die Anfragen gerichtet waren, Ressort laut damaliger Bezeichnung. Klick filtert.</p></div>
+        <span class="ja-seg" id="seg-adr"><button data-v="ressort" class="t-d3">Ressort</button><button data-v="minister" class="t-d4">Minister:in</button></span>
+      </div>
+      <div class="ja-pair"><input class="ja-search" id="adr-q" type="search" placeholder="Suchen…" aria-label="Adressaten durchsuchen"></div>
+      <div class="ja-tw">
+        <table class="ja-table" id="adr-table" data-source="anfragen schluessel antraege">
+          <thead><tr>
+            <th><button data-s="name" id="adr-th-name">Adressat</button></th>
+            <th><button data-s="n" class="t-einheit">Anfragen</button></th>
+            <th><button data-s="anteil">Anteil</button></th>
+            <th><button data-s="quote" id="adr-th-quote">beantwortet</button></th>
+            <th><button data-s="median">Median Tage</button></th>
+            <th class="ja-hide-n"><button data-s="erste">Zeitraum</button></th>
+          </tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="ja-card full" id="gp-klub">
+      <div class="ja-ct">
+        <div><h2 id="hm-titel">Gesetzgebungsperiode × Klub</h2><p class="ja-note" id="hm-note">Anfragen je GP; Farbintensität relativ zum größten Wert. Klick auf eine Zeile wählt die GP.</p></div>
+        <span class="ja-seg" id="seg-hm"><button data-v="klub">Klubs</button><button data-v="thema">Themen</button><button data-v="ressort" class="t-d3p">Ressorts</button><button data-v="minister" class="t-d4p">Minister:innen</button></span>
+      </div>
+      <div class="ja-tw" style="max-height:none">
+        <table class="ja-table ja-hm" id="hm-table" data-source="anfragen antraege"><thead></thead><tbody></tbody></table>
+      </div>
+    </section>
+  </div>
+  <section class="ja-card full" id="einzelne">
+    <div class="ja-ct">
+      <div><h2 id="el-titel">Einzelne Anfragen</h2><p class="ja-note" id="el-note">Alle Anfragen der aktuellen Auswahl, neueste zuerst. Nummer und Beantwortung verlinken auf parlament.gv.at.</p></div>
+      <input class="ja-search" id="el-q" type="search" placeholder="Betreff durchsuchen…" aria-label="Betreff durchsuchen">
+    </div>
+    <div class="ja-tw" style="max-height:none" data-source="anfragen betreffe schluessel antraege antraege_info">
+      <table class="ja-table ja-el" id="el-table">
+        <thead><tr><th>Datum</th><th>Nummer</th><th>Betreff</th><th>Klub</th><th class="ja-hide-n" id="el-th-adr">Adressat</th><th>Status</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div class="ja-pager" id="el-pager"></div>
+  </section>
+
+<section id="personen-ansicht" class="ja-pv" hidden>
+    <div class="ja-kpis" id="p-kpis" data-source="person_gp personen">
+      <div class="ja-kpi"><div class="lbl">Abgeordnete</div><div class="val" id="pk-n">—</div><div class="sub" id="pk-n-sub">mit Mandat in der Auswahl</div></div>
+      <div class="ja-kpi"><div class="lbl">Frauenanteil</div><div class="val" id="pk-w">—</div><div class="sub" id="pk-w-sub">—</div></div>
+      <div class="ja-kpi"><div class="lbl">Mandatsdauer (Median)</div><div class="val" id="pk-d">—</div><div class="sub">gesamte Zeit im Nationalrat</div></div>
+      <div class="ja-kpi"><div class="lbl">Neu im Nationalrat</div><div class="val" id="pk-neu">—</div><div class="sub" id="pk-neu-sub">erste GP liegt in der Auswahl</div></div>
+    </div>
+    <div class="ja-grid">
+<div class="ja-prosa"><div><h2>Hundert Jahre Nationalrat in einer Tabelle</h2><p>Seit 1920 hatten 2.007 Personen ein Mandat im Nationalrat. Bis 1971 gab es 165 Sitze, seither sind es 183. Die Grafik zeigt die Sitzverteilung zu Beginn jeder Gesetzgebungsperiode, auf Wunsch auch alle Personen, die im Lauf der Periode nachgerückt sind.</p><p>Vorgängerparteien wie die Christlichsozialen oder die Sozialdemokratische Arbeiterpartei der Ersten Republik erscheinen in der Farbe ihrer Nachfolgepartei.</p></div><div class="merk"><span class="zahl">2.007</span><span class="was">Abgeordnete seit 1920</span></div></div>
+<section class="ja-card full" id="p-zusammensetzung">
+        <div class="ja-ct">
+          <div><h2>Zusammensetzung je Gesetzgebungsperiode</h2><p class="ja-note" id="pz-note">—</p></div>
+          <div class="ja-pair">
+            <span class="ja-seg" id="seg-pzahl"><button data-v="beginn">zu Beginn der GP</button><button data-v="alle">alle Mandatar:innen</button></span>
+            <span class="ja-seg" id="seg-pstapel"><button data-v="einzeln">einzeln</button><button data-v="gestapelt">aufsummiert</button></span>
+          </div>
+        </div>
+        <div class="ja-legend" id="pz-legend"></div>
+        <div class="ja-chart" id="pz-chart" data-source="person_gp"></div>
+      </section><div class="ja-prosa"><div><h2>Der lange Weg zu mehr Frauen</h2><p>In der I. GP waren 5 % der Abgeordneten Frauen, 1945 waren es 6 %. Über Jahrzehnte änderte sich wenig. Erst ab den späten 1980er-Jahren stieg der Anteil deutlich: 20 % in der XVIII. GP (1990), 34 % in der XXII. GP (2002).</p><p>Den bisherigen Höchststand erreichte die XXVII. GP mit 39,3 %. Seit 2024 sind es 36,1 %. Der Anteil an Neulingen schwankt stark: 43 % nach der Wahl 2017, 33 % nach der Wahl 2024.</p></div><div class="merk"><span class="zahl">39,3 %</span><span class="was">Frauenanteil zu Beginn der XXVII. GP, der bisherige Höchstwert</span></div></div>
+<section class="ja-card" id="p-frauen">
+        <div class="ja-ct"><div><h2>Frauenanteil</h2><p class="ja-note" id="pf-note">Anteil der Frauen je GP, gesamt und je Klub.</p></div></div>
+        <div class="ja-legend" id="pf-legend"></div>
+        <div class="ja-chart" id="pf-chart" data-source="person_gp"></div>
+      </section><section class="ja-card" id="p-erneuerung">
+        <div class="ja-ct"><div><h2>Erneuerung</h2><p class="ja-note">Anteil der Abgeordneten, die zu Beginn der GP zum ersten Mal im Nationalrat sitzen. Im Tooltip: Nachrücker:innen und vorzeitig Ausgeschiedene.</p></div></div>
+        <div class="ja-chart" id="pe-chart" data-source="person_gp"></div>
+      </section><div class="ja-prosa"><div><h2>Karrieren im Hohen Haus</h2><p>Die Hälfte aller Abgeordneten war höchstens 7 Jahre im Nationalrat. Am längsten blieben Jakob Auer (ÖVP) und Josef Cap (SPÖ) mit je 34,5 Jahren, beide von der XVI. bis zur XXV. GP.</p><p>Der Anteil mit akademischem Grad hat sich verdoppelt: von 23 % in der V. GP auf 46 % zu Beginn der XXVIII. GP. Gezählt wird der Grad, wie ihn das Parlament im Namen führt.</p></div><div class="merk"><span class="zahl">34,5 Jahre</span><span class="was">längste Zeit im Nationalrat</span></div></div>
+<section class="ja-card" id="p-dauer">
+        <div class="ja-ct"><div><h2>Mandatsdauer</h2><p class="ja-note">Verteilung der gesamten Zeit im Nationalrat (Jahre) der Abgeordneten in der Auswahl.</p></div></div>
+        <div class="ja-chart" id="pd-chart" data-source="personen person_gp"></div>
+      </section><section class="ja-card" id="p-akad">
+        <div class="ja-ct"><div><h2>Akademischer Grad</h2><p class="ja-note">Anteil der Abgeordneten mit akademischem Grad laut Parlament, je Klub (Parteien seit den 1980er-Jahren).</p></div></div>
+        <div class="ja-bars" id="pa-bars" data-source="personen person_gp"></div>
+      </section><section class="ja-card full" id="p-herkunft">
+        <div class="ja-ct"><div><h2>Herkunft</h2><p class="ja-note">Abgeordnete nach Bundesland des Wahlkreises (überwiegend in der Auswahl). Klick filtert.</p></div></div>
+        <div class="ja-bars" id="ph-bars" data-source="person_gp"></div>
+      </section><div class="ja-prosa"><div><h2>Vom Bauernhof in den Hörsaal</h2><p>1945 hatten 37 % der Abgeordneten einen Hochschulabschluss, ebenso viele hatten eine Lehre oder Fachschule abgeschlossen (35 %). Heute haben 65 % studiert, nur noch 13 % haben eine Lehre als höchsten Abschluss und 1,6 % die Pflichtschule.</p><p>Auch die Berufe haben sich verschoben. Der Anteil aus der Landwirtschaft fiel von 20 % auf 9 %, der aus Arbeit und Handwerk von 15 % auf 2,7 %. Jurist:innen stellen heute 11 % der Abgeordneten, 1945 waren es 5 %.</p></div><div class="merk"><span class="zahl">65 %</span><span class="was">der Abgeordneten der XXVIII. GP haben einen Hochschulabschluss</span></div></div>
+<section class="ja-card full" id="p-bildung">
+        <div class="ja-ct"><div><h2>Höchster Bildungsabschluss</h2><p class="ja-note" id="pb-note">Anteil je GP nach höchstem Abschluss laut Bildungsweg. Klick auf die Legende filtert.</p></div></div>
+        <div class="ja-legend" id="pb-legend"></div>
+        <div class="ja-chart" id="pb-chart" data-source="personen person_gp"></div>
+      </section><div class="ja-prosa"><div><h2>Jeder Klub hat sein Berufsprofil</h2><p>Bei der ÖVP kommt heute fast jede:r Sechste aus der Landwirtschaft (18 %), 1945 war es mehr als jede:r Dritte (36 %). In der SPÖ hat die Interessenvertretung (Gewerkschaft, Arbeiterkammer) die Arbeiterschaft abgelöst: 20 % kommen heute daher, 1945 waren 20 % Arbeiter.</p><p>Den höchsten Akademikeranteil haben derzeit die Grünen (88 %) und NEOS (83 %). Unter allen Abgeordneten mit Studium seit 1920 liegt Rechtswissenschaften klar vorne (32 %), vor Geistes- und Sozialwissenschaften und Wirtschaft.</p><p>Die Kategorien sind halbautomatisch aus den Freitextangaben der Personenseiten gebildet. Einzelne Zuordnungen können daneben liegen, die Muster sind robust.</p></div><div class="merk"><span class="zahl">32 %</span><span class="was">der Abgeordneten mit Studium haben Rechtswissenschaften studiert</span></div></div>
+<section class="ja-card" id="p-beruf">
+        <div class="ja-ct"><div><h2>Berufsgruppen</h2><p class="ja-note">Abgeordnete der Auswahl nach Berufsgruppe (Tätigkeit bzw. Werdegang vor dem Mandat). Klick filtert.</p></div></div>
+        <div class="ja-bars" id="pbe-bars" data-source="personen person_gp"></div>
+      </section><section class="ja-card" id="p-studium">
+        <div class="ja-ct"><div><h2>Studienrichtungen</h2><p class="ja-note" id="pst-note">Abgeordnete mit Hochschulabschluss nach Studienrichtung; Mehrfachstudien zählen je Richtung.</p></div></div>
+        <div class="ja-bars" id="pst-bars" data-source="personen person_gp"></div>
+      </section><section class="ja-card full" id="p-beruf-klub">
+        <div class="ja-ct"><div><h2>Berufsgruppen je Klub</h2><p class="ja-note">Anteil der Berufsgruppen an den Abgeordneten jedes Klubs in der Auswahl. Spalten für die Parteien seit den 1980er-Jahren; Klubs der Ersten Republik und frühe Kleinparteien zählen in „Alle“. Farbintensität relativ zum größten Wert der Spalte.</p></div></div>
+        <div class="ja-tw" style="max-height:none"><table class="ja-table ja-hm" id="pbk-table" data-source="personen person_gp"><thead></thead><tbody></tbody></table></div>
+      </section><div class="ja-prosa"><div><h2>Wer aktiv ist, und wie das verteilt ist</h2><p>Über die Personen lassen sich Anfragen und Gesetzesanträge den Abgeordneten zuordnen. Den Rekord bei Anfragen hält Johann Maier (SPÖ) mit 2.805. Die meisten Gesetzesanträge hat Ralph Schallmeiner (Grüne) mitunterzeichnet: 108.</p><p>Die Tabelle vergleicht je Klub den Frauenanteil an der Mandatszeit mit dem Frauenanteil an den eingebrachten Anfragen und Anträgen. Gezählt werden nur Personen, die beim Einbringen ein aktives Mandat hatten. Befragte Regierungsmitglieder sind so ausgeschlossen.</p></div><div></div></div>
+<section class="ja-card full" id="p-aktiv-geschlecht">
+        <div class="ja-ct"><div><h2>Aktivität nach Geschlecht</h2><p class="ja-note">Frauenanteil an der Mandatszeit im Vergleich zum Frauenanteil an den eingebrachten Anfragen und Gesetzesanträgen, je Klub. Anfragen ab der XIX. GP, Anträge ab der XX. GP.</p></div></div>
+        <div class="ja-tw" style="max-height:none"><table class="ja-table" id="pg-table" data-source="person_gp"><thead><tr><th>Klub</th><th>Frauenanteil Mandatszeit</th><th>Frauenanteil Anfragen</th><th>Frauenanteil Anträge</th><th>Anfragen pro Mandatsjahr (Frauen / Männer)</th></tr></thead><tbody></tbody></table></div>
+      </section><div class="ja-prosa"><div><h2>Klubwechsel</h2><p>111 Mal haben Abgeordnete während ihres Mandats den Klub gewechselt oder ihn verlassen. Der größte Einzelfall ist die Abspaltung des BZÖ von der FPÖ 2005: 18 Abgeordnete wechselten damals.</p><p>Weitere Wellen gab es beim Liberalen Forum 1993 und beim Team Stronach in der XXV. GP. Austritte ohne neuen Klub erscheinen als Wechsel zu „ohne Klub“.</p></div><div class="merk"><span class="zahl">111</span><span class="was">Klubwechsel seit 1920</span></div></div>
+<section class="ja-card full" id="p-wechsel">
+        <div class="ja-ct"><div><h2>Klubwechsel</h2><p class="ja-note" id="pw-note">Wechsel der Klubzugehörigkeit während des Mandats, inklusive Austritten („ohne Klub“).</p></div></div>
+        <div class="ja-tw"><table class="ja-table ja-el" id="pw-table" data-source="wechsel personen"><thead><tr><th>Datum</th><th>Abgeordnete:r</th><th>von</th><th>nach</th><th>GP</th></tr></thead><tbody></tbody></table></div>
+      </section>
+    </div>
+    <div class="ja-prosa"><div><h2>Alle Abgeordneten</h2><p>Die Liste enthält alle Personen der Auswahl mit Klub, Perioden, Jahren im Nationalrat und Aktivität im gewählten Zeitraum. „Pro Jahr“ setzt die Anfragen ins Verhältnis zur Mandatszeit ab der XIX. GP. Damit liegen Langzeit-Abgeordnete nicht automatisch vorne.</p><p>Der Name führt zur Personenseite des Parlaments. „Anfragen →“ öffnet die Anfragen-Seite, gefiltert auf diese Person.</p></div><div></div></div>
+<section class="ja-card full" id="p-liste">
+      <div class="ja-ct">
+        <div><h2>Abgeordnete</h2><p class="ja-note">Alle Abgeordneten der Auswahl. Aktivität im gewählten Zeitraum; „pro Jahr“ = Anfragen je Mandatsjahr im Zeitraum. Spaltenköpfe sortieren, „Anfragen →“ filtert die anderen Ansichten auf die Person.</p></div>
+        <input class="ja-search" id="pl-q" type="search" placeholder="Name suchen…" aria-label="Name suchen">
+      </div>
+      <div class="ja-tw" style="max-height:none">
+        <table class="ja-table ja-el ja-pl" id="pl-table" data-source="personen person_gp">
+          <thead><tr>
+            <th><button data-s="name">Name</button></th><th><button data-s="klubs">Klub</button></th><th class="ja-hide-n"><button data-s="bl">Bundesland</button></th><th class="ja-hide-n"><button data-s="beruf">Beruf</button></th>
+            <th><button data-s="gps">GP</button></th><th><button data-s="jahre">Jahre im NR</button></th>
+            <th><button data-s="anf">Anfragen</button></th><th><button data-s="rate">pro Jahr</button></th><th><button data-s="ant">Anträge</button></th><th><button data-s="quote">beschlossen</button></th><th></th>
+          </tr></thead><tbody></tbody>
+        </table>
+      </div>
+      <div class="ja-pager" id="pl-pager"></div>
+    </section>
+  </section>
+
+  <p class="ja-note" id="fusszeile">Quelle: Parlament Österreich, Open Data (Filter-API Liste 101 und Detailseiten ?json=true). Für die V. bis XVIII. GP sind in den Quelldaten weder Klub noch Adressat erfasst (nur gescanntes Original); diese Anfragen erscheinen in Klub- und Adressaten-Auswertungen als „ohne Angabe“ bzw. gar nicht. Mehrfachzuordnungen (Klubs, Themen) werden je Kategorie gezählt.</p>
+</div>
+</main>
+<footer class="fuss"><div class="huelle">
+<p>Daten: Parlament Österreich, Open Data (Filter-API und Detailseiten im JSON-Format), Lizenz CC BY 4.0. Stand der Daten: 2. November 2026.</p>
+<p>Ein unabhängiges Auswertungsprojekt auf Basis der offenen Daten. Kein offizielles Angebot der Parlamentsdirektion; maßgeblich sind die Angaben auf parlament.gv.at.</p>
+</div></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="shim.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

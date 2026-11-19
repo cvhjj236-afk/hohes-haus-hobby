@@ -1,0 +1,479 @@
+aid,gp,name,art,url
+1,XX,Außenpolitischer Ausschuss,Fachausschuss,/ausschuss/XX/A-AU/1/00011
+2,XX,Budgetausschuss,Fachausschuss,/ausschuss/XX/A-BU/1/00027
+3,XX,Finanzausschuss,Fachausschuss,/ausschuss/XX/A-FI/1/00050
+4,XX,Kulturausschuss,Fachausschuss,/ausschuss/XX/A-KU/1/00116
+5,XX,Ständiger gemeinsamer Ausschuss im Sinne des § 9 des Finanz-Verfassungsgesetzes 1948,Fachausschuss,/ausschuss/XX/SA-P9/1/00150
+6,XX,Ständiger Unterausschuss des Budgetausschusses,Unterausschuss,/ausschuss/XX/SA-BU/1/00032
+7,XX,Unterausschuss des Justizausschusses: Strafrechtsänderungsgesetz und Strafprozeßordnung,Unterausschuss,/ausschuss/XX/A-JU/2/00111
+8,XX,Justizausschuss,Fachausschuss,/ausschuss/XX/A-JU/1/00111
+9,XX,Unterausschuss des Budgetausschusses: Bundesfinanzgesetze 1996 und 1997,Unterausschuss,/ausschuss/XX/A-BU/2/00027
+10,XX,Unterausschuss des Außenpolitischen Ausschusses: Sicherung der Neutralität Österreichs,Unterausschuss,/ausschuss/XX/A-AU/2/00011
+11,XX,Ausschuss für Arbeit und Soziales,Fachausschuss,/ausschuss/XX/A-AS/1/00005
+12,XX,Unvereinbarkeitsausschuss,Fachausschuss,/ausschuss/XX/A-UV/1/00192
+13,XX,Rechnungshofausschuss,Fachausschuss,/ausschuss/XX/A-RH/1/00158
+14,XX,Geschäftsordnungsausschuss,Fachausschuss,/ausschuss/XX/A-GO/1/00072
+15,XX,Gesundheitsausschuss,Fachausschuss,/ausschuss/XX/A-GE/1/00060
+16,XX,Ständiger Unterausschuss des Rechnungshofausschusses,Unterausschuss,/ausschuss/XX/SA-RH/1/00163
+17,XX,Landesverteidigungsausschuss,Fachausschuss,/ausschuss/XX/A-LV/1/00130
+18,XX,Ständiger Unterausschuss des Landesverteidigungsausschusses,Unterausschuss,/ausschuss/XX/SA-LV/1/00136
+19,XX,Ausschuss für innere Angelegenheiten,Fachausschuss,/ausschuss/XX/A-IA/1/00091
+20,XX,Hauptausschuss,Fachausschuss,/ausschuss/XX/A-HA/1/00079
+21,XX,Immunitätsausschuss,Fachausschuss,/ausschuss/XX/A-IM/1/00101
+22,XX,Verkehrsausschuss,Fachausschuss,/ausschuss/XX/A-VE/1/00201
+23,XX,Bautenausschuss,Fachausschuss,/ausschuss/XX/A-BA/1/00018
+24,XX,Ständiger Unterausschuss des Ausschusses für innere Angelegenheiten,Unterausschuss,/ausschuss/XX/SA-IA/1/00096
+25,XX,Unterausschuss des Verfassungsausschusses: 12. Sportbericht,Unterausschuss,/ausschuss/XX/A-VF/6/00206
+26,XX,Ausschuss für Land- und Forstwirtschaft,Fachausschuss,/ausschuss/XX/A-LF/1/00122
+27,XX,Gleichbehandlungsausschuss,Fachausschuss,/ausschuss/XX/A-GL/1/00067
+28,XX,Unterausschuss des Gleichbehandlungsausschusses: Förderung der Beteiligung von Frauen am politischen Leben,Unterausschuss,/ausschuss/XX/A-GL/2/00067
+29,XXI,Ausschuss für Arbeit und Soziales,Fachausschuss,/ausschuss/XXI/A-AS/1/00006
+30,XX,Umweltausschuss,Fachausschuss,/ausschuss/XX/A-UM/1/00179
+31,XX,Industrieausschuss,Fachausschuss,/ausschuss/XX/A-IN/1/00105
+32,XXI,Industrieausschuss,Fachausschuss,/ausschuss/XXI/A-IN/1/00106
+33,XX,Familienausschuss,Fachausschuss,/ausschuss/XX/A-FA/1/00044
+34,XXI,Ausschuss für Land- und Forstwirtschaft,Fachausschuss,/ausschuss/XXI/A-LF/1/00123
+35,XXI,Hauptausschuss,Fachausschuss,/ausschuss/XXI/A-HA/1/00080
+36,XXI,Unterausschuss des Ausschusses für Arbeit und Soziales: Abfertigung neu,Unterausschuss,/ausschuss/XXI/A-AS/2/00006
+37,XXI,Ständiger Unterausschuss des Hauptausschusses,Unterausschuss,/ausschuss/XXI/SA-HA/1/00085
+38,XXI,Gleichbehandlungsausschuss,Fachausschuss,/ausschuss/XXI/A-GL/1/00068
+39,XXI,Ausschuss für innere Angelegenheiten,Fachausschuss,/ausschuss/XXI/A-IA/1/00092
+40,XXI,"Unterausschuss des Ausschusses für Arbeit und Soziales: Volksbegehren ""Sozialstaat Österreich""",Unterausschuss,/ausschuss/XXI/A-AS/6/00006
+41,XXI,Gesundheitsausschuss,Fachausschuss,/ausschuss/XXI/A-GE/1/00061
+42,XX,Unterausschuss des Umweltausschusses: Nationalen Umweltplan für Österreich,Unterausschuss,/ausschuss/XX/A-UM/2/00179
+43,XX,Unterausschuss des Ausschusses für Land- und Forstwirtschaft: Vorschläge Agrarförderungen und Ökologisierung der Landwirtschaft,Unterausschuss,/ausschuss/XX/A-LF/2/00122
+44,XX,Unterausschuss des Gleichbehandlungsausschusses: Frauen-Volksbegehren,Unterausschuss,/ausschuss/XX/A-GL/3/00067
+45,XX,Besonderer Ausschuss zur Vorberatung des Gentechnik-Volksbegehrens,Fachausschuss,/ausschuss/XX/A-BAGV/1/00021
+46,XX,Ständiger Unterausschuss des Hauptausschusses,Unterausschuss,/ausschuss/XX/SA-HA/1/00084
+47,XX,Ausschuss für Petitionen und Bürgerinitiativen,Fachausschuss,/ausschuss/XX/A-PB/1/00144
+48,XXI,Unterausschuss des Justizausschusses: Lage der Verbraucherinnen und Verbraucher 2000,Unterausschuss,/ausschuss/XXI/A-JU/4/00112
+49,XXI,Justizausschuss,Fachausschuss,/ausschuss/XXI/A-JU/1/00112
+50,XXI,Umweltausschuss,Fachausschuss,/ausschuss/XXI/A-UM/1/00180
+51,XXI,Ausschuss für Petitionen und Bürgerinitiativen,Fachausschuss,/ausschuss/XXI/A-PB/1/00145
+52,XXI,Familienausschuss,Fachausschuss,/ausschuss/XXI/A-FA/1/00045
+53,XXI,Rechnungshofausschuss,Fachausschuss,/ausschuss/XXI/A-RH/1/00159
+54,XXI,"Besonderer Ausschuss zur Vorberatung des Volksbegehrens ""Veto gegen Temelin""",Fachausschuss,/ausschuss/XXI/A-BAVT/1/00023
+55,XXI,Ständiger Unterausschuss in Angelegenheiten der Europäischen Union,Unterausschuss,/ausschuss/XXI/SA-EU/1/00038
+56,XXI,Unterausschuss des Ausschusses für Arbeit und Soziales: Schwarzunternehmerbekämpfungsgesetz,Unterausschuss,/ausschuss/XXI/A-AS/3/00006
+57,XXI,Wirtschaftsausschuss,Fachausschuss,/ausschuss/XXI/A-WH/1/00214
+58,XXI,Finanzausschuss,Fachausschuss,/ausschuss/XXI/A-FI/1/00051
+59,XXI,Außenpolitischer Ausschuss,Fachausschuss,/ausschuss/XXI/A-AU/1/00012
+60,XXI,Verkehrsausschuss,Fachausschuss,/ausschuss/XXI/A-VE/1/00202
+61,XXII,Wirtschaftsausschuss,Fachausschuss,/ausschuss/XXII/A-WH/1/00215
+62,XXII,Ständiger gemeinsamer Ausschuss im Sinne des § 9 des Finanz-Verfassungsgesetzes 1948,Fachausschuss,/ausschuss/XXII/SA-P9/1/00152
+63,XXII,Außenpolitischer Ausschuss,Fachausschuss,/ausschuss/XXII/A-AU/1/00013
+64,XXII,Umweltausschuss,Fachausschuss,/ausschuss/XXII/A-UM/1/00181
+65,XXII,"Unterausschuss des Umweltausschusses: Volksbegehren ""Atomfreies Europa""",Unterausschuss,/ausschuss/XXII/A-UM/2/00181
+66,XXII,Finanzausschuss,Fachausschuss,/ausschuss/XXII/A-FI/1/00052
+67,XXII,Ausschuss für Arbeit und Soziales,Fachausschuss,/ausschuss/XXII/A-AS/1/00007
+68,XXII,Gesundheitsausschuss,Fachausschuss,/ausschuss/XXII/A-GE/1/00062
+69,XXII,Ausschuss für Land- und Forstwirtschaft,Fachausschuss,/ausschuss/XXII/A-LF/1/00124
+70,XXII,Ständiger Unterausschuss des Budgetausschusses,Unterausschuss,/ausschuss/XXII/SA-BU/1/00034
+71,XXIII,Budgetausschuss,Fachausschuss,/ausschuss/XXIII/A-BU/1/00230
+72,XXIII,Unterausschuss des Budgetausschusses: Bundesfinanzgesetze 2007 und 2008,Unterausschuss,/ausschuss/XXIII/A-BU/2/00230
+73,XXIII,Ausschuss für Wirtschaft und Industrie,Fachausschuss,/ausschuss/XXIII/A-WH/1/00264
+74,XXIII,Finanzausschuss,Fachausschuss,/ausschuss/XXIII/A-FI/1/00240
+75,XXIII,Rechnungshofausschuss,Fachausschuss,/ausschuss/XXIII/A-RH/1/00255
+76,XXIII,Tourismusausschuss,Fachausschuss,/ausschuss/XXIII/A-TO/1/00258
+77,XXIII,"Ausschuss für Forschung, Innovation und Technologie",Fachausschuss,/ausschuss/XXIII/A-FO/1/00241
+78,XXIII,Umweltausschuss,Fachausschuss,/ausschuss/XXIII/A-UM/1/00259
+79,XXIII,Außenpolitischer Ausschuss,Fachausschuss,/ausschuss/XXIII/A-AU/1/00237
+80,XXIII,Bautenausschuss,Fachausschuss,/ausschuss/XXIII/A-BA/1/00238
+81,XX,Verfassungsausschuss,Fachausschuss,/ausschuss/XX/A-VF/1/00206
+82,XX,Unterausschuss des Gesundheitsausschusses: Gentechnikgesetz,Unterausschuss,/ausschuss/XX/A-GE/2/00060
+83,XX,Unterausschuss des Familienausschusses: Lage der Jugend in Österreich,Unterausschuss,/ausschuss/XX/A-FA/2/00044
+84,XXI,Unterrichtsausschuss,Fachausschuss,/ausschuss/XXI/A-UN/1/00186
+85,XX,Unterrichtsausschuss,Fachausschuss,/ausschuss/XX/A-UN/1/00185
+86,XX,Ausschuss für Wissenschaft und Forschung,Fachausschuss,/ausschuss/XX/A-WI/1/00218
+87,XXI,Unterausschuss des Familienausschusses: Familien-Volksbegehren,Unterausschuss,/ausschuss/XXI/A-FA/2/00045
+88,XXI,Unterausschuss des Justizausschusses: Strafgesetzbuch und Mietrechtsgesetz,Unterausschuss,/ausschuss/XXI/A-JU/3/00112
+89,XXI,Unterausschuss des Justizausschusses: Strafgesetzbuch,Unterausschuss,/ausschuss/XXI/A-JU/2/00112
+90,XXI,Ausschuss für Wissenschaft und Forschung,Fachausschuss,/ausschuss/XXI/A-WI/1/00219
+91,XXI,Geschäftsordnungsausschuss,Fachausschuss,/ausschuss/XXI/A-GO/1/00073
+92,XXI,Kulturausschuss,Fachausschuss,/ausschuss/XXI/A-KU/1/00117
+93,XXI,Landesverteidigungsausschuss,Fachausschuss,/ausschuss/XXI/A-LV/1/00131
+94,XXI,Immunitätsausschuss,Fachausschuss,/ausschuss/XXI/A-IM/1/00102
+95,XX,Unterausschuss des Unterrichtsausschusses: Rechtspersönlichkeit von religiösen Bekenntnisgemeinschaften,Unterausschuss,/ausschuss/XX/A-UN/3/00185
+96,XX,Unterausschuss des Unterrichtsausschusses: Reform der Lehrlingsausbildung,Unterausschuss,/ausschuss/XX/A-UN/4/00185
+97,XX,Unterausschuss des Unterrichtsausschusses: Schulzeitgesetz,Unterausschuss,/ausschuss/XX/A-UN/2/00185
+98,XXI,Unterausschuss des Unterrichtsausschusses: Bildungsoffensive- und Studiengebühren-Volksbegehren,Unterausschuss,/ausschuss/XXI/A-UN/2/00186
+99,XXI,Ständiger Unterausschuss des Landesverteidigungsausschusses,Unterausschuss,/ausschuss/XXI/SA-LV/1/00137
+100,XXI,Unterausschuss des Ausschusses für Wissenschaft und Forschung: Forschungsbericht 1999,Unterausschuss,/ausschuss/XXI/A-WI/2/00219
+101,XXI,Unterausschuss des Ausschusses für Wissenschaft und Forschung: Universitätsgesetz 2002,Unterausschuss,/ausschuss/XXI/A-WI/3/00219
+102,XX,Unterausschuss des Verkehrsausschusses: Straßenverkehrsordnung und Führerscheingesetz,Unterausschuss,/ausschuss/XX/A-VE/2/00201
+103,XXIV,Verkehrsausschuss,Fachausschuss,/ausschuss/XXIV/A-VE/1/00304
+104,XXIV,Untersuchungsausschuss: Abhör- und Beeinflussungsmaßnahmen im Bereich des Parlaments,Untersuchungsausschuss,/ausschuss/XXIV/A-USA/2/00314
+105,XXIV,Ausschuss für Arbeit und Soziales,Fachausschuss,/ausschuss/XXIV/A-AS/1/00281
+106,XXIV,Finanzausschuss,Fachausschuss,/ausschuss/XXIV/A-FI/1/00273
+107,XXIV,"Ausschuss für Forschung, Innovation und Technologie",Fachausschuss,/ausschuss/XXIV/A-FO/1/00286
+108,XXIV,Hauptausschuss,Fachausschuss,/ausschuss/XXIV/A-HA/1/00277
+109,XXIV,Budgetausschuss,Fachausschuss,/ausschuss/XXIV/A-BU/1/00284
+110,XXIV,Unterausschuss des Budgetausschusses: Bundesfinanzgesetze 2009 und 2010,Unterausschuss,/ausschuss/XXIV/A-BU/2/00284
+111,XXIV,Verfassungsausschuss,Fachausschuss,/ausschuss/XXIV/A-VF/1/00303
+112,XXIV,Außenpolitischer Ausschuss,Fachausschuss,/ausschuss/XXIV/A-AU/1/00282
+113,XXIV,Ständiger Unterausschuss in Angelegenheiten der Europäischen Union,Unterausschuss,/ausschuss/XXIV/SA-EU/1/00279
+114,XXIV,Familienausschuss,Fachausschuss,/ausschuss/XXIV/A-FA/1/00285
+115,XXIV,Ständiger Unterausschuss des Budgetausschusses,Unterausschuss,/ausschuss/XXIV/SA-BU/1/00308
+116,XXIV,Ständiger Unterausschuss des Hauptausschusses,Unterausschuss,/ausschuss/XXIV/SA-HA/1/00278
+117,XXIV,Ausschuss für Sportangelegenheiten,Fachausschuss,/ausschuss/XXIV/A-SP/1/00299
+118,XX,Unterausschuss des Ausschusses für Wissenschaft und Forschung: Technologie- und Forschungsförderung,Unterausschuss,/ausschuss/XX/A-WI/2/00218
+119,XX,Unterausschuss des Ausschusses für Wissenschaft und Forschung: Forschungsbericht und Frauenförderungsplan,Unterausschuss,/ausschuss/XX/A-WI/4/00218
+120,XX,Unterausschuss des Ausschusses für Wissenschaft und Forschung: Universitäts-Studiengesetz,Unterausschuss,/ausschuss/XX/A-WI/3/00218
+121,XX,Unterausschuss des Verfassungsausschusses: Rückgabe von Kunstgegenständen aus den Österreichischen Bundesmuseen,Unterausschuss,/ausschuss/XX/A-VF/14/00206
+122,XXI,Ausschuss für Menschenrechte,Fachausschuss,/ausschuss/XXI/A-ME/1/00140
+123,XXII,Ausschuss für Wissenschaft und Forschung,Fachausschuss,/ausschuss/XXII/A-WI/1/00220
+124,XXII,Ausschuss für Menschenrechte,Fachausschuss,/ausschuss/XXII/A-ME/1/00141
+125,XXII,Gleichbehandlungsausschuss,Fachausschuss,/ausschuss/XXII/A-GL/1/00069
+126,XXII,Justizausschuss,Fachausschuss,/ausschuss/XXII/A-JU/1/00113
+127,XXII,Kulturausschuss,Fachausschuss,/ausschuss/XXII/A-KU/1/00118
+128,XXII,Unterrichtsausschuss,Fachausschuss,/ausschuss/XXII/A-UN/1/00187
+129,XXII,"Enquete-Kommission: ""Architekturpolitik und Baukultur in Österreich""",Fachausschuss,/ausschuss/XXII/A-HA/3/00081
+130,XXII,Budgetausschuss,Fachausschuss,/ausschuss/XXII/A-BU/1/00029
+131,XXII,"Besonderer Ausschuss zur Vorberatung des Berichtes des Österreich-Konvents, vorgelegt vom Bundeskanzler",Fachausschuss,/ausschuss/XXII/A-BAOEK/1/00022
+132,XXIII,Wissenschaftsausschuss,Fachausschuss,/ausschuss/XXIII/A-WI/1/00265
+133,XXIII,Unterrichtsausschuss,Fachausschuss,/ausschuss/XXIII/A-UN/1/00260
+134,XXIII,Unterausschuss des Wissenschaftsausschusses: Universitätsgesetz 2002,Unterausschuss,/ausschuss/XXIII/A-WI/2/00265
+135,XXIII,Kulturausschuss,Fachausschuss,/ausschuss/XXIII/A-KU/1/00249
+136,XXIII,Gleichbehandlungsausschuss,Fachausschuss,/ausschuss/XXIII/A-GL/1/00244
+137,XXIII,Justizausschuss,Fachausschuss,/ausschuss/XXIII/A-JU/1/00247
+138,XXIII,Unterausschuss des Unterrichtsausschusses: Nationaler Bildungsplan für das letzte Kindergartenjahr,Unterausschuss,/ausschuss/XXIII/A-UN/2/00260
+139,XXIII,Hauptausschuss,Fachausschuss,/ausschuss/XXIII/A-HA/1/00228
+140,XXIII,Ausschuss für Petitionen und Bürgerinitiativen,Fachausschuss,/ausschuss/XXIII/A-PB/1/00254
+141,XXIII,Ausschuss für Konsumentenschutz,Fachausschuss,/ausschuss/XXIII/A-KO/1/00248
+142,XXIII,Gesundheitsausschuss,Fachausschuss,/ausschuss/XXIII/A-GE/1/00243
+143,XXIII,Geschäftsordnungsausschuss,Fachausschuss,/ausschuss/XXIII/A-GO/1/00242
+144,XXIII,Volksanwaltschaftsausschuss,Fachausschuss,/ausschuss/XXIII/A-VO/1/00263
+145,XX,Unterausschuss des Finanzausschusses: Einkommensteuergesetz 1988,Unterausschuss,/ausschuss/XX/A-FI/2/00050
+146,XX,Wirtschaftsausschuss,Fachausschuss,/ausschuss/XX/A-WH/1/00213
+147,XXI,Unvereinbarkeitsausschuss,Fachausschuss,/ausschuss/XXI/A-UV/1/00193
+148,XXI,Ausschuss für Sportangelegenheiten,Fachausschuss,/ausschuss/XXI/A-SP/1/00171
+149,XXII,Unterausschuss des Budgetausschusses: Bundesfinanzgesetz 2006 samt Anlagen,Unterausschuss,/ausschuss/XXII/A-BU/4/00029
+150,XXII,Unvereinbarkeitsausschuss,Fachausschuss,/ausschuss/XXII/A-UV/1/00194
+151,XXII,Immunitätsausschuss,Fachausschuss,/ausschuss/XXII/A-IM/1/00103
+152,XXII,Unterausschuss des Budgetausschusses: Bundesfinanzgesetz 2003 und 2004,Unterausschuss,/ausschuss/XXII/A-BU/2/00029
+153,XXII,Unterausschuss des Budgetausschusses: Bundesfinanzgesetz 2005 samt Anlagen,Unterausschuss,/ausschuss/XXII/A-BU/3/00029
+154,XXII,"Enquete-Kommission: ""Grundlagen eines modernen Österreichischen Bundestierschutzgesetzes""",Fachausschuss,/ausschuss/XXII/A-HA/2/00081
+155,XXII,Unterausschuss des Ausschusses für Land- und Forstwirtschaft: Österreichische Position zu den WTO-Verhandlungen im Bereich des Agrarhandels,Unterausschuss,/ausschuss/XXII/A-LF/2/00124
+156,XXII,Ausschuss für Sportangelegenheiten,Fachausschuss,/ausschuss/XXII/A-SP/1/00172
+157,XXIII,Ausschuss für Land- und Forstwirtschaft,Fachausschuss,/ausschuss/XXIII/A-LF/1/00252
+158,XXIII,Immunitätsausschuss,Fachausschuss,/ausschuss/XXIII/A-IM/1/00231
+159,XXIII,Ständiger gemeinsamer Ausschuss im Sinne des §9 des Finanz-VerfassungsG 1948,Fachausschuss,/ausschuss/XXIII/SA-P9/1/00234
+160,XXIII,Unvereinbarkeitsausschuss,Fachausschuss,/ausschuss/XXIII/A-UV/1/00232
+161,XXIII,Ausschuss für Sportangelegenheiten,Fachausschuss,/ausschuss/XXIII/A-SP/1/00257
+162,XXIV,Unterausschuss des Ausschusses für Land- und Forstwirtschaft: Pflanzenschutz,Unterausschuss,/ausschuss/XXIV/A-LF/2/00295
+163,XXIV,Immunitätsausschuss,Fachausschuss,/ausschuss/XXIV/A-IM/1/00274
+164,XXIII,Verkehrsausschuss,Fachausschuss,/ausschuss/XXIII/A-VE/1/00262
+165,XXIV,Unvereinbarkeitsausschuss,Fachausschuss,/ausschuss/XXIV/A-UV/1/00275
+166,XXIV,Ausschuss für Land- und Forstwirtschaft,Fachausschuss,/ausschuss/XXIV/A-LF/1/00295
+167,XXIV,Ständiger gemeinsamer Ausschuss im Sinne des § 9 des Finanz-Verfassungsgesetzes 1948,Fachausschuss,/ausschuss/XXIV/SA-P9/1/00276
+168,XXIV,Geschäftsordnungsausschuss,Fachausschuss,/ausschuss/XXIV/A-GO/1/00287
+169,XXIV,Ständiger Unterausschuss in ESM-Angelegenheiten,Unterausschuss,/ausschuss/XXIV/SA-ESM/1/00316
+170,XXIV,Ausschuss für Wirtschaft und Industrie,Fachausschuss,/ausschuss/XXIV/A-WH/1/00306
+171,XXIV,Volksanwaltschaftsausschuss,Fachausschuss,/ausschuss/XXIV/A-VO/1/00305
+172,XXV,Budgetausschuss,Fachausschuss,/ausschuss/XXV/A-BU/1/00345
+173,XXV,Ausschuss für Land- und Forstwirtschaft,Fachausschuss,/ausschuss/XXV/A-LF/1/00371
+174,XXV,Unterausschuss des Ausschusses für Land- und Forstwirtschaft: Situation auf den Agrarmärkten,Unterausschuss,/ausschuss/XXV/A-LF/2/00371
+175,XXV,Ständiger Unterausschuss des Budgetausschusses,Unterausschuss,/ausschuss/XXV/SA-BU/1/00346
+176,XXV,Ständiger gemeinsamer Ausschuss im Sinne des § 9 des Finanz-Verfassungsgesetzes 1948,Fachausschuss,/ausschuss/XXV/SA-P9/1/00350
+177,XXV,Geschäftsordnungsausschuss,Fachausschuss,/ausschuss/XXV/A-GO/1/00349
+178,XXV,Ständiger Unterausschuss in ESM-Angelegenheiten,Unterausschuss,/ausschuss/XXV/SA-ESM/1/00353
+179,XXV,Unvereinbarkeitsausschuss,Fachausschuss,/ausschuss/XXV/A-UV/1/00347
+180,XXV,Immunitätsausschuss,Fachausschuss,/ausschuss/XXV/A-IM/1/00348
+181,XXV,Außenpolitischer Ausschuss,Fachausschuss,/ausschuss/XXV/A-AU/1/00361
+182,XXV,Finanzausschuss,Fachausschuss,/ausschuss/XXV/A-FI/1/00364
+183,XXV,Ständiger Unterausschuss des Hauptausschusses,Unterausschuss,/ausschuss/XXV/SA-HA/1/00352
+184,XXV,Verfassungsausschuss,Fachausschuss,/ausschuss/XXV/A-VF/1/00359
+185,XXV,Ausschuss für Wirtschaft und Industrie,Fachausschuss,/ausschuss/XXV/A-WH/1/00381
+186,XXV,Gesundheitsausschuss,Fachausschuss,/ausschuss/XXV/A-GE/1/00366
+187,XXV,Ausschuss für Sportangelegenheiten,Fachausschuss,/ausschuss/XXV/A-SP/1/00375
+188,XX,Unterausschuss des Wirtschaftsausschusses: Berufsausbildungsgesetz,Unterausschuss,/ausschuss/XX/A-WH/3/00213
+189,XX,Unterausschuss des Wirtschaftsausschusses: Gewerberechtsnovelle 1997,Unterausschuss,/ausschuss/XX/A-WH/2/00213
+190,XX,Unterausschuss des Bautenausschusses: Straßennetz im Donaueuropäischen Raum,Unterausschuss,/ausschuss/XX/A-BA/2/00018
+191,XX,Unterausschuss des Verkehrsausschusses: Österreichischer Bundesverkehrswegeplan,Unterausschuss,/ausschuss/XX/A-VE/3/00201
+192,XX,Unterausschuss des Industrieausschusses: Technologiepolitisches Konzept,Unterausschuss,/ausschuss/XX/A-IN/2/00105
+193,XX,Unterausschuss des Geschäftsordnungsausschusses: Geschäftsordnung des Nationalrates,Unterausschuss,/ausschuss/XX/A-GO/2/00072
+194,XX,Unterausschuss des Budgetausschusses: Bundesfinanzgesetz 1998,Unterausschuss,/ausschuss/XX/A-BU/3/00027
+195,XX,Unterausschuss des Budgetausschusses: Bundesfinanzgesetz 1999,Unterausschuss,/ausschuss/XX/A-BU/4/00027
+196,XX,Unterausschuss des Verfassungsausschusses: Wiederholung der EU-Volksabstimmung,Unterausschuss,/ausschuss/XX/A-VF/10/00206
+197,XXI,Budgetausschuss,Fachausschuss,/ausschuss/XXI/A-BU/1/00028
+198,XXI,Unterausschuss des Budgetausschusses: Bundesfinanzgesetz 2000,Unterausschuss,/ausschuss/XXI/A-BU/2/00028
+199,XXI,Ständiger gemeinsamer Ausschuss im Sinne des § 9 des Finanz-Verfassungsgesetzes 1948,Fachausschuss,/ausschuss/XXI/SA-P9/1/00151
+200,XXI,Ständiger Unterausschuss des Budgetausschusses,Unterausschuss,/ausschuss/XXI/SA-BU/1/00033
+201,XXI,Unterausschuss des Budgetausschusses: Bundesfinanzgesetz 2002,Unterausschuss,/ausschuss/XXI/A-BU/4/00028
+202,XXI,Unterausschuss des Budgetausschusses: Bundesfinanzgesetz 2001,Unterausschuss,/ausschuss/XXI/A-BU/3/00028
+203,XX,Unterausschuss des Verfassungsausschusses: 13. Sportbericht,Unterausschuss,/ausschuss/XX/A-VF/8/00206
+204,XXI,Unterausschuss des Außenpolitischen Ausschusses: Südtirol,Unterausschuss,/ausschuss/XXI/A-AU/2/00012
+205,XXI,Untersuchungsausschuss: Vergabepraxis des Sozialministeriums 1995-1999,Untersuchungsausschuss,/ausschuss/XXI/A-USA/2/00189
+206,XXI,Unterausschuss des Außenpolitischen Ausschusses: Sanktionen gegen Österreich,Unterausschuss,/ausschuss/XXI/A-AU/4/00012
+207,XXI,Enquete-Kommission: mögliche Beeinflussung von Wahlkämpfen bzw. Wahlergebnissen durch Veröffentlichung von Meinungsumfragen unmittelbar vor Wahlen,Fachausschuss,/ausschuss/XXI/A-HA/2/00080
+208,XXII,Familienausschuss,Fachausschuss,/ausschuss/XXII/A-FA/1/00046
+209,XXII,Verkehrsausschuss,Fachausschuss,/ausschuss/XXII/A-VE/1/00203
+210,XXII,Ständiger Unterausschuss des Rechnungshofausschusses,Unterausschuss,/ausschuss/XXII/SA-RH/1/00165
+211,XXII,Landesverteidigungsausschuss,Fachausschuss,/ausschuss/XXII/A-LV/1/00132
+212,XXII,Rechnungshofausschuss,Fachausschuss,/ausschuss/XXII/A-RH/1/00160
+213,XXIII,Familienausschuss,Fachausschuss,/ausschuss/XXIII/A-FA/1/00239
+214,XXIII,Ausschuss für Menschenrechte,Fachausschuss,/ausschuss/XXIII/A-ME/1/00253
+215,XXIII,Ständiger Unterausschuss des Hauptausschusses,Unterausschuss,/ausschuss/XXIII/SA-HA/1/00229
+216,XXIV,Gleichbehandlungsausschuss,Fachausschuss,/ausschuss/XXIV/A-GL/1/00289
+217,XXIV,Justizausschuss,Fachausschuss,/ausschuss/XXIV/A-JU/1/00291
+218,XXIV,Bautenausschuss,Fachausschuss,/ausschuss/XXIV/A-BA/1/00283
+219,XXIV,Besonderer Ausschuss zur Vorberatung des Volksbegehrens Bildungsinitiative,Fachausschuss,/ausschuss/XXIV/A-BAVB/1/00315
+220,XXI,Bautenausschuss,Fachausschuss,/ausschuss/XXI/A-BA/1/00019
+221,XXI,Verfassungsausschuss,Fachausschuss,/ausschuss/XXI/A-VF/1/00207
+222,XXII,Bautenausschuss,Fachausschuss,/ausschuss/XXII/A-BA/1/00020
+223,XXII,Unterausschuss des Justizausschusses: Wohnungsgemeinnützigkeitsgesetz,Unterausschuss,/ausschuss/XXII/A-JU/3/00113
+224,XXIII,Ausschuss für Arbeit und Soziales,Fachausschuss,/ausschuss/XXIII/A-AS/1/00236
+225,XXIII,Verfassungsausschuss,Fachausschuss,/ausschuss/XXIII/A-VF/1/00261
+226,XXV,Hauptausschuss,Fachausschuss,/ausschuss/XXV/A-HA/1/00344
+227,XXV,Enquete-Kommission betreffend Stärkung der Demokratie in Österreich,Fachausschuss,/ausschuss/XXV/A-HA/3/00344
+228,XXV,Untersuchungsausschuss: Hypo-Untersuchungsausschuss,Untersuchungsausschuss,/ausschuss/XXV/A-USA/2/00383
+229,XXVI,Untersuchungsausschuss: BVT-Untersuchungsausschuss,Untersuchungsausschuss,/ausschuss/XXVI/A-USA/3/00862
+230,XXVI,Außenpolitischer Ausschuss,Fachausschuss,/ausschuss/XXVI/A-AU/1/00835
+231,XXVI,Hauptausschuss,Fachausschuss,/ausschuss/XXVI/A-HA/1/00823
+232,XXVI,Ständiger Unterausschuss in Angelegenheiten der Europäischen Union,Unterausschuss,/ausschuss/XXVI/SA-EU/1/00828
+233,XXVI,Ständiger Unterausschuss des Hauptausschusses,Unterausschuss,/ausschuss/XXVI/SA-HA/1/00830
+234,XXVI,"Untersuchungsausschuss: Untersuchungsausschuss zur Untersuchung der politischen Verantwortung im Zusammenhang mit dem Kampfflugzeugsystem ""Eurofighter Typhoon"" von Anfang 2000 bis Ende 2017",Untersuchungsausschuss,/ausschuss/XXVI/A-USA/2/00862
+235,XXVI,Geschäftsordnungsausschuss,Fachausschuss,/ausschuss/XXVI/A-GO/1/00838
+236,XXVII,Untersuchungsausschuss: COFAG-Untersuchungsausschuss,Untersuchungsausschuss,/ausschuss/XXVII/A-USA/4/00906
+237,XXVII,Untersuchungsausschuss: Ibiza-Untersuchungsausschuss,Untersuchungsausschuss,/ausschuss/XXVII/A-USA/2/00906
+238,XXVII,Ständiger Unterausschuss des Hauptausschusses,Unterausschuss,/ausschuss/XXVII/SA-HA/1/00869
+239,XXVII,"Untersuchungsausschuss: ""ROT-BLAUER Machtmissbrauch-Untersuchungsausschuss""",Untersuchungsausschuss,/ausschuss/XXVII/A-USA/5/00906
+240,XXVII,Geschäftsordnungsausschuss,Fachausschuss,/ausschuss/XXVII/A-GO/1/00873
+241,XXVII,Ständiger Unterausschuss in Angelegenheiten der Europäischen Union,Unterausschuss,/ausschuss/XXVII/SA-EU/1/00870
+242,XXVII,Untersuchungsausschuss: ÖVP-Korruptions-Untersuchungsausschuss,Untersuchungsausschuss,/ausschuss/XXVII/A-USA/3/00906
+243,XXVII,Hauptausschuss,Fachausschuss,/ausschuss/XXVII/A-HA/1/00868
+244,XXVII,Außenpolitischer Ausschuss,Fachausschuss,/ausschuss/XXVII/A-AU/1/00884
+245,XXVIII,Untersuchungsausschuss: Pilnacek-Untersuchungsausschuss,Untersuchungsausschuss,/ausschuss/XXVIII/A-USA/2/00944
+246,XXVIII,Geschäftsordnungsausschuss,Fachausschuss,/ausschuss/XXVIII/A-GO/1/00914
+247,XXVIII,Ständiger Unterausschuss in Angelegenheiten der Europäischen Union,Unterausschuss,/ausschuss/XXVIII/SA-EU/1/00910
+248,XXVIII,Außenpolitischer Ausschuss,Fachausschuss,/ausschuss/XXVIII/A-AU/1/00918
+249,XXVIII,Hauptausschuss,Fachausschuss,/ausschuss/XXVIII/A-HA/1/00911
+250,XXVIII,Ständiger Unterausschuss des Hauptausschusses,Unterausschuss,/ausschuss/XXVIII/SA-HA/1/00912
+251,XX,Unterausschuss des Verfassungsausschusses: Ausländerbeschäftigungsgesetz,Unterausschuss,/ausschuss/XX/A-VF/3/00206
+252,XX,Unterausschuss des Verfassungsausschusses: Kooperation und Solidarität bei der Entsendung von Einheiten und Einzelpersonen in das Ausland,Unterausschuss,/ausschuss/XX/A-VF/4/00206
+253,XX,Unterausschuss des Verfassungsausschusses: Regionalradiogesetz,Unterausschuss,/ausschuss/XX/A-VF/5/00206
+254,XX,Unterausschuss des Außenpolitischen Ausschusses: Beitritt Österreichs zum NATO-Vertrag,Unterausschuss,/ausschuss/XX/A-AU/5/00011
+255,XX,Unterausschuss des Verfassungsausschusses: Bundes-Verfassungsgesetz-Novelle 1996,Unterausschuss,/ausschuss/XX/A-VF/12/00206
+256,XX,Unterausschuss des Verfassungsausschusses: Kabel- und Satelliten-Rundfunkgesetz,Unterausschuss,/ausschuss/XX/A-VF/16/00206
+257,XX,Unterausschuss des Verfassungsausschusses: atomfreies Österreich,Unterausschuss,/ausschuss/XX/A-VF/17/00206
+258,XXI,Unterausschuss des Verfassungsausschusses: Rundfunkgesetz und Privatfernsehgesetz,Unterausschuss,/ausschuss/XXI/A-VF/6/00207
+259,XXI,"Unterausschuss des Verfassungsausschusses: Wahlrecht, Volksanwaltschaft und Untersuchungsausschüsse",Unterausschuss,/ausschuss/XXI/A-VF/2/00207
+260,XXII,Hauptausschuss,Fachausschuss,/ausschuss/XXII/A-HA/1/00081
+261,XXII,Ständiger Unterausschuss des Hauptausschusses,Unterausschuss,/ausschuss/XXII/SA-HA/1/00086
+262,XXII,Geschäftsordnungsausschuss,Fachausschuss,/ausschuss/XXII/A-GO/1/00074
+263,XXII,Verfassungsausschuss,Fachausschuss,/ausschuss/XXII/A-VF/1/00208
+264,XXII,Ständiger Unterausschuss in Angelegenheiten der Europäischen Union,Unterausschuss,/ausschuss/XXII/SA-EU/1/00039
+265,XXIII,Ständiger Unterausschuss in Angelegenheiten der Europäischen Union,Unterausschuss,/ausschuss/XXIII/SA-EU/1/00233
+266,XXIV,Kulturausschuss,Fachausschuss,/ausschuss/XXIV/A-KU/1/00293
+267,XXIV,Unterausschuss des Landesverteidigungsausschusses: Österreichische Sicherheitsstrategie,Unterausschuss,/ausschuss/XXIV/A-LV/2/00294
+268,XXIV,Unterausschuss des Verfassungsausschusses: Verankerung des Tierschutzes in der Verfassung,Unterausschuss,/ausschuss/XXIV/A-VF/3/00303
+269,XXIV,Wissenschaftsausschuss,Fachausschuss,/ausschuss/XXIV/A-WI/1/00307
+270,XXV,Ständiger Unterausschuss in Angelegenheiten der Europäischen Union,Unterausschuss,/ausschuss/XXV/SA-EU/1/00351
+271,XXV,Kulturausschuss,Fachausschuss,/ausschuss/XXV/A-KU/1/00370
+272,XXV,Wissenschaftsausschuss,Fachausschuss,/ausschuss/XXV/A-WI/1/00382
+273,XXV,"Unterausschuss des Verfassungsausschusses: ""Kompetenzen des Bundespräsidenten und allfällige Reform dieser Kompetenzen""",Unterausschuss,/ausschuss/XXV/A-VF/2/00359
+274,XXII,Unterausschuss des Ausschusses für Arbeit und Soziales: Pensions-Volksbegehren,Unterausschuss,/ausschuss/XXII/A-AS/2/00007
+275,XXII,Industrieausschuss,Fachausschuss,/ausschuss/XXII/A-IN/1/00107
+276,XXIII,Ständiger Unterausschuss des Ausschusses für innere Angelegenheiten,Unterausschuss,/ausschuss/XXIII/SA-IA/1/00246
+277,XXIII,Landesverteidigungsausschuss,Fachausschuss,/ausschuss/XXIII/A-LV/1/00250
+278,XXIII,Ständiger Unterausschuss des Landesverteidigungsausschusses,Unterausschuss,/ausschuss/XXIII/SA-LV/1/00251
+279,XXIV,Ausschuss für Konsumentenschutz,Fachausschuss,/ausschuss/XXIV/A-KO/1/00292
+280,XXIV,Unterausschuss des Außenpolitischen Ausschusses: Entwicklungszusammenarbeit,Unterausschuss,/ausschuss/XXIV/A-AU/3/00282
+281,XXIV,Ausschuss für innere Angelegenheiten,Fachausschuss,/ausschuss/XXIV/A-IA/1/00290
+282,XXIV,Ausschuss für Petitionen und Bürgerinitiativen,Fachausschuss,/ausschuss/XXIV/A-PB/1/00297
+283,XXIV,Landesverteidigungsausschuss,Fachausschuss,/ausschuss/XXIV/A-LV/1/00294
+284,XXI,Unterausschuss des Ausschusses für Arbeit und Soziales: Dämpfung des Zuwachses bei den Heilmittelkosten,Unterausschuss,/ausschuss/XXI/A-AS/4/00006
+285,XXI,Unterausschuss des Verkehrsausschusses: Telekommunikationsgesetz,Unterausschuss,/ausschuss/XXI/A-VE/2/00202
+286,XXI,Unterausschuss des Verkehrsausschusses: Straßenverkehrsordnung,Unterausschuss,/ausschuss/XXI/A-VE/3/00202
+287,XXI,Ständiger Unterausschuss des Ausschusses für innere Angelegenheiten,Unterausschuss,/ausschuss/XXI/SA-IA/1/00097
+288,XX,Unterausschuss des Wirtschaftsausschusses: Neuorganisation der österreichischen Elektrizitätswirtschaft,Unterausschuss,/ausschuss/XX/A-WH/4/00213
+289,XX,Unterausschuss des Wirtschaftsausschusses: Gründung von Unternehmen,Unterausschuss,/ausschuss/XX/A-WH/5/00213
+290,XXII,Unterausschuss des Verkehrsausschusses: Bundesbahnstrukturgesetz 2003,Unterausschuss,/ausschuss/XXII/A-VE/2/00203
+291,XXII,Ausschuss für Petitionen und Bürgerinitiativen,Fachausschuss,/ausschuss/XXII/A-PB/1/00146
+292,XXIII,"Untersuchungsausschuss: Finanzmarktaufsicht, BAWAG, Hypo Alpe-Adria und weitere Finanzdienstleister",Untersuchungsausschuss,/ausschuss/XXIII/A-USA/3/00235
+293,XXIII,Untersuchungsausschuss: Beschaffung von Kampfflugzeugen,Untersuchungsausschuss,/ausschuss/XXIII/A-USA/2/00235
+294,XX,Unterausschuss des Justizausschusses: Bekämpfung organisierter Kriminalität,Unterausschuss,/ausschuss/XX/A-JU/3/00111
+295,XX,Unterausschuss des Verfassungsausschusses: Volksbegehren zur Schaffung eines Bundes-Tierschutzgesetzes,Unterausschuss,/ausschuss/XX/A-VF/2/00206
+296,XX,Unterausschuss des Verfassungsausschusses: Ermächtigungen des Österreichischen Gemeindebundes und Städtebundes,Unterausschuss,/ausschuss/XX/A-VF/7/00206
+297,XXI,Unterausschuss des Ausschusses für Menschenrechte: Volksgruppen,Unterausschuss,/ausschuss/XXI/A-ME/2/00140
+298,XXII,Ausschuss für innere Angelegenheiten,Fachausschuss,/ausschuss/XXII/A-IA/1/00093
+299,XXII,Ständiger Unterausschuss des Ausschusses für innere Angelegenheiten,Unterausschuss,/ausschuss/XXII/SA-IA/1/00098
+300,XX,Unterausschuss des Verfassungsausschusses: Allgemeines Verwaltungsverfahrensgesetz und Verwaltungsstrafgesetz,Unterausschuss,/ausschuss/XX/A-VF/9/00206
+301,XX,Unterausschuss des Verfassungsausschusses: Volksgruppen und Presseförderung,Unterausschuss,/ausschuss/XX/A-VF/15/00206
+302,XXI,Unterausschuss des Verfassungsausschusses: Behinderten-Gleichstellungsgesetz,Unterausschuss,/ausschuss/XXI/A-VF/4/00207
+303,XXI,Ständiger Unterausschuss des Rechnungshofausschusses,Unterausschuss,/ausschuss/XXI/SA-RH/1/00164
+304,XXI,Unterausschuss des Verfassungsausschusses: Bundes-Tierschutzgesetz,Unterausschuss,/ausschuss/XXI/A-VF/3/00207
+305,XXI,Unterausschuss des Außenpolitischen Ausschusses: Entwicklungszusammenarbeit,Unterausschuss,/ausschuss/XXI/A-AU/3/00012
+306,XX,Unterausschuss des Außenpolitischen Ausschusses: Südtirol,Unterausschuss,/ausschuss/XX/A-AU/4/00011
+307,XX,Unterausschuss des Außenpolitischen Ausschusses: Entwicklungszusammenarbeit,Unterausschuss,/ausschuss/XX/A-AU/3/00011
+308,XX,Unterausschuss des Ausschusses für innere Angelegenheiten: Fremdengesetz 1997,Unterausschuss,/ausschuss/XX/A-IA/2/00091
+309,XX,Unterausschuss des Ausschusses für innere Angelegenheiten: Waffengesetzes 1996,Unterausschuss,/ausschuss/XX/A-IA/3/00091
+310,XXI,Unterausschuss des Landesverteidigungsausschusses: Sicherheits- und Verteidigungsdoktrin,Unterausschuss,/ausschuss/XXI/A-LV/2/00131
+311,XXII,Ständiger Unterausschuss des Landesverteidigungsausschusses,Unterausschuss,/ausschuss/XXII/SA-LV/1/00138
+312,XXIII,Ausschuss für innere Angelegenheiten,Fachausschuss,/ausschuss/XXIII/A-IA/1/00245
+313,XXI,Unterausschuss des Justizausschusses: Strafprozessreform,Unterausschuss,/ausschuss/XXI/A-JU/5/00112
+314,XXI,"Enquete-Kommission: ""Die Reaktionen auf strafbares Verhalten in Österreich, ihre Angemessenheit, ihre Effizienz, ihre Ausgewogenheit""",Fachausschuss,/ausschuss/XXI/A-HA/3/00080
+315,XXI,"Unterausschuss des Verfassungsausschusses: Verschärfung der Zucht- und Haltungsbedingungen für ""potentiell gefährliche"" Hunde",Unterausschuss,/ausschuss/XXI/A-VF/5/00207
+316,XXII,Unterausschuss des Justizausschusses: Strafprozessreformgesetz,Unterausschuss,/ausschuss/XXII/A-JU/2/00113
+317,XXV,Ausschuss für Menschenrechte,Fachausschuss,/ausschuss/XXV/A-ME/1/00372
+318,XXV,Volksanwaltschaftsausschuss,Fachausschuss,/ausschuss/XXV/A-VO/1/00380
+319,XXV,Ständiger Unterausschuss des Rechnungshofausschusses,Unterausschuss,/ausschuss/XXV/SA-RH/1/00374
+320,XXV,"Ausschuss für Forschung, Innovation und Technologie",Fachausschuss,/ausschuss/XXV/A-FO/1/00365
+321,XXV,Ausschuss für Petitionen und Bürgerinitiativen,Fachausschuss,/ausschuss/XXV/A-PB/1/00373
+322,XXV,Justizausschuss,Fachausschuss,/ausschuss/XXV/A-JU/1/00368
+323,XXI,Unterausschuss des Ausschusses für Sportangelegenheiten: Förderung des Mountainbike-Sports in Österreich,Unterausschuss,/ausschuss/XXI/A-SP/2/00171
+324,XXIII,Ständiger Unterausschuss des Rechnungshofausschusses,Unterausschuss,/ausschuss/XXIII/SA-RH/1/00256
+325,XXIV,Rechnungshofausschuss,Fachausschuss,/ausschuss/XXIV/A-RH/1/00280
+326,XXIV,Gesundheitsausschuss,Fachausschuss,/ausschuss/XXIV/A-GE/1/00288
+327,XXIV,Tourismusausschuss,Fachausschuss,/ausschuss/XXIV/A-TO/1/00300
+328,XXIV,Umweltausschuss,Fachausschuss,/ausschuss/XXIV/A-UM/1/00301
+329,XXII,Unterausschuss des Außenpolitischen Ausschusses: Südtirol; Autonomieentwicklung seit 2000,Unterausschuss,/ausschuss/XXII/A-AU/3/00013
+330,XXII,Unterausschuss des Verfassungsausschusses: Bundes-Tierschutzgesetz - TSchG,Unterausschuss,/ausschuss/XXII/A-VF/2/00208
+331,XXIV,Untersuchungsausschuss: Klärung von Korruptionsvorwürfen,Untersuchungsausschuss,/ausschuss/XXIV/A-USA/3/00314
+332,XXIV,Ständiger Unterausschuss des Rechnungshofausschusses,Unterausschuss,/ausschuss/XXIV/SA-RH/1/00298
+333,XXIV,Ausschuss für Menschenrechte,Fachausschuss,/ausschuss/XXIV/A-ME/1/00296
+334,XXIII,Untersuchungsausschuss: Amtsführung im Bundesministerium für Inneres und weiteren Bundesministerien,Untersuchungsausschuss,/ausschuss/XXIII/A-USA/4/00235
+335,XXIII,Unterausschuss des Außenpolitischen Ausschusses: Südtirol,Unterausschuss,/ausschuss/XXIII/A-AU/3/00237
+336,XXII,Unterausschuss des Verfassungsausschusses: Anerkennung der Österreichischen Gebärdensprache,Unterausschuss,/ausschuss/XXII/A-VF/3/00208
+337,XXIV,"Unterausschuss des Verfassungsausschusses: ""Verwaltungsreform""",Unterausschuss,/ausschuss/XXIV/A-VF/2/00303
+338,XXIV,Ständiger Unterausschuss des Landesverteidigungsausschusses,Unterausschuss,/ausschuss/XXIV/SA-LV/1/00309
+339,XXIV,Ständiger Unterausschuss des Ausschusses für innere Angelegenheiten,Unterausschuss,/ausschuss/XXIV/SA-IA/1/00310
+340,XXV,Landesverteidigungsausschuss,Fachausschuss,/ausschuss/XXV/A-LV/1/00356
+341,XXV,Ständiger Unterausschuss des Landesverteidigungsausschusses,Unterausschuss,/ausschuss/XXV/SA-LV/1/00357
+342,XXV,Ausschuss für innere Angelegenheiten,Fachausschuss,/ausschuss/XXV/A-IA/1/00354
+343,XXV,Ständiger Unterausschuss des Ausschusses für innere Angelegenheiten,Unterausschuss,/ausschuss/XXV/SA-IA/1/00355
+344,XXV,"Untersuchungsausschuss: Untersuchungsausschuss über das Kampfflugzeugsystem ""Eurofighter Typhoon""",Untersuchungsausschuss,/ausschuss/XXV/A-USA/3/00383
+345,XXVI,Ständiger Unterausschuss des Ausschusses für innere Angelegenheiten,Unterausschuss,/ausschuss/XXVI/SA-IA/1/00840
+346,XXVI,Landesverteidigungsausschuss,Fachausschuss,/ausschuss/XXVI/A-LV/1/00845
+347,XXVI,Sportausschuss,Fachausschuss,/ausschuss/XXVI/A-SP/1/00851
+348,XXVI,Ständiger Unterausschuss des Landesverteidigungsausschusses,Unterausschuss,/ausschuss/XXVI/SA-LV/1/00846
+349,XXVI,Ausschuss für innere Angelegenheiten,Fachausschuss,/ausschuss/XXVI/A-IA/1/00839
+350,XXII,Unterausschuss des Außenpolitischen Ausschusses: Österreichische Entwicklungszusammenarbeit,Unterausschuss,/ausschuss/XXII/A-AU/2/00013
+351,XXIV,Unterausschuss des Außenpolitischen Ausschusses: Südtirol,Unterausschuss,/ausschuss/XXIV/A-AU/2/00282
+352,XXVI,Ausschuss für Familie und Jugend,Fachausschuss,/ausschuss/XXVI/A-FA/1/00859
+353,XXVI,Immunitätsausschuss,Fachausschuss,/ausschuss/XXVI/A-IM/1/00825
+354,XXVI,Unterrichtsausschuss,Fachausschuss,/ausschuss/XXVI/A-UN/1/00854
+355,XXVI,Tourismusausschuss,Fachausschuss,/ausschuss/XXVI/A-TO/1/00852
+356,XXVI,Ausschuss für Land- und Forstwirtschaft,Fachausschuss,/ausschuss/XXVI/A-LF/1/00844
+357,XXVI,"Ausschuss für Wirtschaft, Industrie und Energie",Fachausschuss,/ausschuss/XXVI/A-WH/1/00861
+358,XXIV,Unterausschuss des Unterrichtsausschusses: Nationaler Bildungsbericht Österreich 2009,Unterausschuss,/ausschuss/XXIV/A-UN/2/00302
+359,XXIV,Unterrichtsausschuss,Fachausschuss,/ausschuss/XXIV/A-UN/1/00302
+360,XXIII,Unterausschuss des Außenpolitischen Ausschusses: Fortschreibung des Dreijahresprogramms der Österreichischen Entwicklungspolitik 2007 bis 2009,Unterausschuss,/ausschuss/XXIII/A-AU/2/00237
+361,XXIV,Unterausschuss des Justizausschusses: Strafprozessreform,Unterausschuss,/ausschuss/XXIV/A-JU/2/00291
+362,XXVI,Verfassungsausschuss,Fachausschuss,/ausschuss/XXVI/A-VF/1/00833
+363,XXVI,Ausschuss für Menschenrechte,Fachausschuss,/ausschuss/XXVI/A-ME/1/00847
+364,XXVI,Unvereinbarkeitsausschuss,Fachausschuss,/ausschuss/XXVI/A-UV/1/00824
+365,XXVI,Volksanwaltschaftsausschuss,Fachausschuss,/ausschuss/XXVI/A-VO/1/00856
+366,XXVI,Kulturausschuss,Fachausschuss,/ausschuss/XXVI/A-KU/1/00843
+367,XXVI,Gleichbehandlungsausschuss,Fachausschuss,/ausschuss/XXVI/A-GL/1/00837
+368,XXVI,Ausschuss für Konsumentenschutz,Fachausschuss,/ausschuss/XXVI/A-KO/1/00842
+369,XXVI,Justizausschuss,Fachausschuss,/ausschuss/XXVI/A-JU/1/00841
+370,XXVII,Verfassungsausschuss,Fachausschuss,/ausschuss/XXVII/A-VF/1/00900
+371,XXVII,Immunitätsausschuss,Fachausschuss,/ausschuss/XXVII/A-IM/1/00872
+372,XXVII,Ausschuss für Menschenrechte,Fachausschuss,/ausschuss/XXVII/A-ME/1/00894
+373,XXVII,Ausschuss für innere Angelegenheiten,Fachausschuss,/ausschuss/XXVII/A-IA/1/00877
+374,XXVII,Gleichbehandlungsausschuss,Fachausschuss,/ausschuss/XXVII/A-GL/1/00890
+375,XXVIII,Verfassungsausschuss,Fachausschuss,/ausschuss/XXVIII/A-VF/1/00938
+376,XXVIII,Ausschuss für innere Angelegenheiten,Fachausschuss,/ausschuss/XXVIII/A-IA/1/00924
+377,XXVII,Justizausschuss,Fachausschuss,/ausschuss/XXVII/A-JU/1/00891
+378,XXVIII,Gleichbehandlungsausschuss,Fachausschuss,/ausschuss/XXVIII/A-GL/1/00923
+379,XXVIII,Justizausschuss,Fachausschuss,/ausschuss/XXVIII/A-JU/1/00926
+380,XXVIII,Kulturausschuss,Fachausschuss,/ausschuss/XXVIII/A-KU/1/00928
+381,XXVII,Unterrichtsausschuss,Fachausschuss,/ausschuss/XXVII/A-UN/1/00899
+382,XXVIII,Immunitätsausschuss,Fachausschuss,/ausschuss/XXVIII/A-IM/1/00913
+383,XXVI,Gesundheitsausschuss,Fachausschuss,/ausschuss/XXVI/A-GE/1/00836
+384,XXVI,Ausschuss für Arbeit und Soziales,Fachausschuss,/ausschuss/XXVI/A-AS/1/00834
+385,XXVI,Ausschuss für Petitionen und Bürgerinitiativen,Fachausschuss,/ausschuss/XXVI/A-PB/1/00848
+386,XXVI,Ständiger gemeinsamer Ausschuss im Sinne des § 9 des Finanz-Verfassungsgesetzes 1948,Fachausschuss,/ausschuss/XXVI/SA-P9/1/00831
+387,XXVI,Ständiger Unterausschuss des Rechnungshofausschusses,Unterausschuss,/ausschuss/XXVI/SA-RH/1/00850
+388,XXVI,Ausschuss für Bauten und Wohnen,Fachausschuss,/ausschuss/XXVI/A-BA/1/00858
+389,XXVI,Ständiger Unterausschuss des Budgetausschusses,Unterausschuss,/ausschuss/XXVI/SA-BU/1/00827
+390,XXVI,Verkehrsausschuss,Fachausschuss,/ausschuss/XXVI/A-VE/1/00855
+391,XXVI,"Ausschuss für Forschung, Innovation und Digitalisierung",Fachausschuss,/ausschuss/XXVI/A-FO/1/00860
+392,XXVI,Umweltausschuss,Fachausschuss,/ausschuss/XXVI/A-UM/1/00853
+393,XXVI,Budgetausschuss,Fachausschuss,/ausschuss/XXVI/A-BU/1/00826
+394,XXVI,Rechnungshofausschuss,Fachausschuss,/ausschuss/XXVI/A-RH/1/00849
+395,XXVI,Wissenschaftsausschuss,Fachausschuss,/ausschuss/XXVI/A-WI/1/00857
+396,XXVII,Volksanwaltschaftsausschuss,Fachausschuss,/ausschuss/XXVII/A-VO/1/00902
+397,XXVII,Ausschuss für Arbeit und Soziales,Fachausschuss,/ausschuss/XXVII/A-AS/1/00883
+398,XXVII,"Ausschuss für Wirtschaft, Industrie und Energie",Fachausschuss,/ausschuss/XXVII/A-WH/1/00903
+399,XXVII,Kulturausschuss,Fachausschuss,/ausschuss/XXVII/A-KU/1/00882
+400,XXVIII,Ausschuss für Bauten und Wohnen,Fachausschuss,/ausschuss/XXVIII/A-BA/1/00919
+401,XXVIII,Ausschuss für Arbeit und Soziales,Fachausschuss,/ausschuss/XXVIII/A-AS/1/00917
+402,XXVIII,Unvereinbarkeitsausschuss,Fachausschuss,/ausschuss/XXVIII/A-UV/1/00915
+403,XXVIII,Ausschuss für Menschenrechte und Volksanwaltschaft,Fachausschuss,/ausschuss/XXVIII/A-MV/1/00943
+404,XXVIII,"Ausschuss für Wirtschaft, Industrie und Energie",Fachausschuss,/ausschuss/XXVIII/A-WH/1/00940
+405,XXVIII,Ausschuss für Petitionen und Bürgerinitiativen,Fachausschuss,/ausschuss/XXVIII/A-PB/1/00932
+406,XXVIII,Landesverteidigungsausschuss,Fachausschuss,/ausschuss/XXVIII/A-LV/1/00929
+407,XXVIII,Gesundheitsausschuss,Fachausschuss,/ausschuss/XXVIII/A-GE/1/00922
+408,XXVIII,Budgetausschuss,Fachausschuss,/ausschuss/XXVIII/A-BU/1/00907
+409,XXVIII,Ständiger Unterausschuss des Budgetausschusses,Unterausschuss,/ausschuss/XXVIII/SA-BU/1/00908
+410,XXVII,Rechnungshofausschuss,Fachausschuss,/ausschuss/XXVII/A-RH/1/00881
+411,XXVII,Ausschuss für Land- und Forstwirtschaft,Fachausschuss,/ausschuss/XXVII/A-LF/1/00893
+412,XXVII,Ausschuss für Konsumentenschutz,Fachausschuss,/ausschuss/XXVII/A-KO/1/00892
+413,XXVII,Tourismusausschuss,Fachausschuss,/ausschuss/XXVII/A-TO/1/00897
+414,XXVII,Umweltausschuss,Fachausschuss,/ausschuss/XXVII/A-UM/1/00898
+415,XXVII,Ständiger Unterausschuss des Rechnungshofausschusses,Unterausschuss,/ausschuss/XXVII/SA-RH/1/00905
+416,XXVII,Ausschuss für Familie und Jugend,Fachausschuss,/ausschuss/XXVII/A-FA/1/00886
+417,XXVIII,Ausschuss für Land- und Forstwirtschaft,Fachausschuss,/ausschuss/XXVIII/A-LF/1/00931
+418,XXVIII,Umweltausschuss,Fachausschuss,/ausschuss/XXVIII/A-UM/1/00937
+419,XXVIII,Ausschuss für Konsumentenschutz,Fachausschuss,/ausschuss/XXVIII/A-KO/1/00927
+420,XXVII,Verkehrsausschuss,Fachausschuss,/ausschuss/XXVII/A-VE/1/00901
+421,XXVIII,Ständiger Unterausschuss des Rechnungshofausschusses,Unterausschuss,/ausschuss/XXVIII/SA-RH/1/00934
+422,XXVII,Ausschuss für Petitionen und Bürgerinitiativen,Fachausschuss,/ausschuss/XXVII/A-PB/1/00895
+423,XXVIII,Rechnungshofausschuss,Fachausschuss,/ausschuss/XXVIII/A-RH/1/00933
+424,XXVIII,Ausschuss für Familie und Jugend,Fachausschuss,/ausschuss/XXVIII/A-FA/1/00920
+425,XXVI,Finanzausschuss,Fachausschuss,/ausschuss/XXVI/A-FI/1/00832
+426,XXVII,Gesundheitsausschuss,Fachausschuss,/ausschuss/XXVII/A-GE/1/00889
+427,XXVII,Landesverteidigungsausschuss,Fachausschuss,/ausschuss/XXVII/A-LV/1/00879
+428,XXVII,Finanzausschuss,Fachausschuss,/ausschuss/XXVII/A-FI/1/00887
+429,XXVII,Budgetausschuss,Fachausschuss,/ausschuss/XXVII/A-BU/1/00867
+430,XXVII,Ständiger Unterausschuss des Budgetausschusses,Unterausschuss,/ausschuss/XXVII/SA-BU/1/00874
+431,XXVII,Ständiger Unterausschuss des Landesverteidigungsausschusses,Unterausschuss,/ausschuss/XXVII/SA-LV/1/00880
+432,XXVIII,Finanzausschuss,Fachausschuss,/ausschuss/XXVIII/A-FI/1/00921
+433,XXVIII,Ständiger Unterausschuss in ESM-Angelegenheiten,Unterausschuss,/ausschuss/XXVIII/SA-ESM/1/00909
+434,XXVIII,Ständiger Unterausschuss des Landesverteidigungsausschusses,Unterausschuss,/ausschuss/XXVIII/SA-LV/1/00930
+435,XXVIII,"Ausschuss für Wissenschaft, Forschung und Digitalisierung",Fachausschuss,/ausschuss/XXVIII/A-WI/1/00941
+436,XXVII,Sportausschuss,Fachausschuss,/ausschuss/XXVII/A-SP/1/00896
+437,XXVIII,Ständiger gemeinsamer Ausschuss im Sinne des § 9 des Finanz-Verfassungsgesetzes 1948,Fachausschuss,/ausschuss/XXVIII/SA-P9/1/00916
+438,XXVIII,Ständiger Unterausschuss des Ausschusses für innere Angelegenheiten,Unterausschuss,/ausschuss/XXVIII/SA-IA/1/00925
+439,XXVI,Unterausschuss des Budgetausschusses: Budgetvollzug,Unterausschuss,/ausschuss/XXVI/A-BU/2/00826
+440,XXVI,Ständiger Unterausschuss in ESM-Angelegenheiten,Unterausschuss,/ausschuss/XXVI/SA-ESM/1/00829
+441,XXVII,Ständiger Unterausschuss in ESM-Angelegenheiten,Unterausschuss,/ausschuss/XXVII/SA-ESM/1/00875
+442,XXVII,Ständiger gemeinsamer Ausschuss im Sinne des § 9 des Finanz-Verfassungsgesetzes 1948,Fachausschuss,/ausschuss/XXVII/SA-P9/1/00876
+443,XXVII,Unterausschuss des Budgetausschusses: Budgetvollzug,Unterausschuss,/ausschuss/XXVII/A-BU/2/00867
+444,XXVI,Unterausschuss des Außenpolitischen Ausschusses: Südtirol,Unterausschuss,/ausschuss/XXVI/A-AU/3/00835
+445,XXVIII,Bildungsausschuss,Fachausschuss,/ausschuss/XXVIII/A-BI/1/00942
+446,XXVIII,Tourismusausschuss,Fachausschuss,/ausschuss/XXVIII/A-TO/1/00936
+447,XXVI,Unterausschuss des Außenpolitischen Ausschusses: Entwicklungszusammenarbeit,Unterausschuss,/ausschuss/XXVI/A-AU/2/00835
+448,XXVII,Unterausschuss des Außenpolitischen Ausschusses: Entwicklungszusammenarbeit,Unterausschuss,/ausschuss/XXVII/A-AU/2/00884
+449,XXVII,Wissenschaftsausschuss,Fachausschuss,/ausschuss/XXVII/A-WI/1/00904
+450,XXVIII,Sportausschuss,Fachausschuss,/ausschuss/XXVIII/A-SP/1/00935
+451,XXVIII,Ausschuss für Verkehr und Mobilität,Fachausschuss,/ausschuss/XXVIII/A-VE/1/00939
+452,XXVII,"Ausschuss für Forschung, Innovation und Digitalisierung",Fachausschuss,/ausschuss/XXVII/A-FO/1/00888
+453,XXVII,Unterausschuss des Außenpolitischen Ausschusses: Südtirol,Unterausschuss,/ausschuss/XXVII/A-AU/3/00884
+454,XXVII,Ständiger Unterausschuss des Ausschusses für innere Angelegenheiten,Unterausschuss,/ausschuss/XXVII/SA-IA/1/00878
+455,XXVI,"Unterausschuss des Ausschusses für Forschung, Innovation und Digitalisierung: Luft- und Raumfahrt",Unterausschuss,/ausschuss/XXVI/A-FO/2/00860
+456,XXVII,Ausschuss für Bauten und Wohnen,Fachausschuss,/ausschuss/XXVII/A-BA/1/00885
+457,XXVIII,"Unterausschuss des Ausschusses für Wissenschaft, Forschung und Digitalisierung: Weltraum- und Raumfahrtforschung",Unterausschuss,/ausschuss/XXVIII/A-WI/2/00941
+458,XXVII,Unvereinbarkeitsausschuss,Fachausschuss,/ausschuss/XXVII/A-UV/1/00871
+459,XXVIII,Unterausschuss des Budgetausschusses: Budgetvollzug,Unterausschuss,/ausschuss/XXVIII/A-BU/2/00907
+460,XXV,Ausschuss für Arbeit und Soziales,Fachausschuss,/ausschuss/XXV/A-AS/1/00360
+461,XXV,Umweltausschuss,Fachausschuss,/ausschuss/XXV/A-UM/1/00377
+462,XXIV,Unterausschuss des Ausschusses für Sportangelegenheiten: Evaluierung und Weiterentwicklung der Anti-Dopingbestimmungen,Unterausschuss,/ausschuss/XXIV/A-SP/2/00299
+463,XXV,Gleichbehandlungsausschuss,Fachausschuss,/ausschuss/XXV/A-GL/1/00367
+464,XXV,Unterausschuss des Außenpolitischen Ausschusses: Südtirol,Unterausschuss,/ausschuss/XXV/A-AU/2/00361
+465,XXV,Familienausschuss,Fachausschuss,/ausschuss/XXV/A-FA/1/00363
+466,XXV,Unterrichtsausschuss,Fachausschuss,/ausschuss/XXV/A-UN/1/00378
+467,XXIV,Unterausschuss des Wissenschaftsausschusses: Dialog Hochschulpartnerschaft,Unterausschuss,/ausschuss/XXIV/A-WI/2/00307
+468,XXV,Ausschuss für Konsumentenschutz,Fachausschuss,/ausschuss/XXV/A-KO/1/00369
+469,XXV,Rechnungshofausschuss,Fachausschuss,/ausschuss/XXV/A-RH/1/00358
+470,XXV,Bautenausschuss,Fachausschuss,/ausschuss/XXV/A-BA/1/00362
+471,XXV,Verkehrsausschuss,Fachausschuss,/ausschuss/XXV/A-VE/1/00379
+472,XXV,Tourismusausschuss,Fachausschuss,/ausschuss/XXV/A-TO/1/00376
+473,XXV,"Enquete-Kommission zum Thema ""Würde am Ende des Lebens""",Fachausschuss,/ausschuss/XXV/A-HA/2/00344
+474,XXV,Unterausschuss des Außenpolitischen Ausschusses: Entwicklungszusammenarbeit,Unterausschuss,/ausschuss/XXV/A-AU/3/00361
+475,XXV,Unterausschuss des Familienausschusses: Kinderrechte-Monitoring und Jugendpartizipation,Unterausschuss,/ausschuss/XXV/A-FA/2/00363
+476,XXVI,Unterausschuss des Verfassungsausschusses: Parteiengesetz,Unterausschuss,/ausschuss/XXVI/A-VF/2/00833
+477,XXV,Unterausschuss des Unterrichtsausschusses: zur Schulreform,Unterausschuss,/ausschuss/XXV/A-UN/2/00378
+478,XXV,Unterausschuss des Budgetausschusses: Budgetvollzug,Unterausschuss,/ausschuss/XXV/A-BU/2/00345

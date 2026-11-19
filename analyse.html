@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Spezialisierung · Nationalrat in Zahlen</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
+<link rel="stylesheet" href="dash.css">
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<header class="kopfzeile"><div class="huelle"><a class="marke" href="index.html">Nationalrat <span>in Zahlen</span></a><nav class="nav" aria-label="Seiten"><a href="index.html">Übersicht</a><a href="anfragen.html">Anfragen</a><a href="antraege.html">Gesetzesanträge</a><a href="abgeordnete.html">Abgeordnete</a><a href="netzwerk.html">Ausschuss-Netzwerk</a><a href="analyse.html" aria-current="page">Spezialisierung</a><a href="regionen.html">Regionen</a></nav></div></header>
+<div class="huelle">
+<section class="held"><span class="augenbraue">Spezialisierung · Ausschüsse und Anfragen · XX. bis XXVIII. GP</span><h1>Fragen Abgeordnete zu dem, wofür sie im Ausschuss sitzen?</h1>
+<p class="vorspann">Wer im Gesundheitsausschuss sitzt, kennt das Gesundheitssystem und die zuständige Ministerin. Nutzen Abgeordnete diese Spezialisierung auch für ihre schriftlichen Anfragen? Dafür haben wir 77.721 Anfragen seit 1996 mit den Ausschussmitgliedschaften ihrer Einbringer:innen verknüpft.</p>
+<p class="vorspann">Die kurze Antwort: ja, deutlich. Und der Beruf vor dem Mandat spielt eine ebenso große Rolle wie der Ausschuss. Die lange Antwort hängt vom Politikfeld, vom Klub und von der Person ab.</p></section>
+</div>
+<main class="huelle brett">
+<div class="an-kopf">
+  <div class="gross" id="an-lift">×1,9</div>
+  <div><p>So viel öfter richten Ausschussmitglieder ihre Anfragen an das Ressort ihres Ausschussthemas, als bei zufälliger Verteilung zu erwarten wäre. <strong id="an-anteil">51 %</strong> ihrer Anfragen gehen an „ihre“ Ressorts, erwartet wären <strong id="an-erw">26 %</strong>.</p>
+  <p class="mut">Grundlage: <span id="an-n">–</span> Anfragen von Abgeordneten mit Fachausschussmandat. <span id="an-status">Daten werden geladen …</span></p></div>
+</div>
+<section class="netz-steuer" aria-label="Filter">
+  <label for="an-von">Von<select id="an-von"></select></label>
+  <label for="an-bis">Bis<select id="an-bis"></select></label>
+  <label class="netz-check" for="an-serien"><input type="checkbox" id="an-serien"> Serienanfragen ausschließen</label>
+  <div class="feld" style="flex-basis:100%">Klubs<span class="ja-chips" id="an-klubs"></span></div>
+  <button type="button" class="ja-btn" id="an-reset">Alle Filter zurücksetzen</button>
+</section>
+<div class="ja-grid">
+<div class="ja-prosa"><div><h2>Je nach Politikfeld sehr unterschiedlich</h2><p>Am stärksten ist der Effekt bei Energie (×7,2), Bildung (×4,4) und Landesverteidigung (×4,1). Mitglieder des Gesundheitsausschusses etwa richten 26 % ihrer Anfragen an ein Ressort mit Gesundheitszuständigkeit, andere Abgeordnete nur 7 %.</p><p>Schwach ist der Zusammenhang bei Querschnittsthemen wie Innovation & Technologie (×1,4) oder Konsumentenschutz (×1,6). Hier sind die zuständigen Ressorts oft Teil großer Ministerien, und Anfragen landen auch ohne Ausschussbezug dort. Ein Klick auf ein Feld filtert die Liste der Abgeordneten unten.</p></div><div class="merk"><span class="zahl">×7,2</span><span class="was">Energie: der stärkste Zusammenhang</span></div></div>
+
+<section class="ja-card full" id="an-felder-karte">
+  <div class="ja-ct"><div><h2>Anteil der Anfragen an das Ressort des Politikfelds</h2><p class="ja-note">Je Politikfeld: Anteil der Anfragen von Ausschussmitgliedern an ein Ressort dieses Felds, im Vergleich zu allen anderen Abgeordneten. Rechts der Faktor, sortiert absteigend.</p></div></div>
+  <div class="an-legende"><span><i style="background:var(--akzent)"></i>Mitglieder des zuständigen Ausschusses</span><span><i style="background:var(--cds-chart-muted)"></i>andere Abgeordnete</span></div>
+  <div id="an-felder"></div>
+</section>
+<div class="ja-prosa"><div><h2>Spezialisierung ist kein neues Phänomen</h2><p>Der Faktor liegt seit 1996 in jeder Periode um zwei. Die Zahl der Anfragen ist stark gestiegen, die Arbeitsteilung entlang der Ausschüsse ist gleich geblieben.</p><p>Zwischen den Klubs gibt es Unterschiede: NEOS (×2,2) und Grüne (×2,2) fragen besonders fokussiert, die SPÖ am wenigsten (×1,7). Serienanfragen an alle Ressorts drücken den Wert. Schließen Sie sie oben aus, steigt der Faktor insgesamt auf ×2,2.</p></div><div class="merk"><span class="zahl">×2,2</span><span class="was">Faktor ohne Serienanfragen</span></div></div>
+
+<section class="ja-card" id="an-gp-karte"><div class="ja-ct"><div><h2>Je Gesetzgebungsperiode</h2><p class="ja-note">Faktor und Anteil an eigenen Ausschussthemen. Die gestrichelte Linie markiert ×1, also keinen Zusammenhang.</p></div></div><div class="ja-bars" id="an-gp"></div></section>
+<section class="ja-card" id="an-klub-karte"><div class="ja-ct"><div><h2>Je Klub</h2><p class="ja-note">Parteien seit den 1980er-Jahren mit mindestens 200 verknüpften Anfragen in der Auswahl.</p></div></div><div class="ja-bars" id="an-klub"></div></section>
+<div class="ja-prosa"><div><h2>Spezialist:innen und Generalist:innen</h2><p>Manche Abgeordnete fragen fast ausschließlich zu ihrem Ausschussthema. Leopold Mayerhofer (FPÖ) richtete 98 % seiner 1.093 Anfragen an das Ressort seines Ausschusses (Inneres). Andere fragen breit über alle Ressorts, oft weil ihre Klubs Anfragen zentral verteilen.</p><p>Die Tabelle zeigt alle Abgeordneten mit mindestens 20 Anfragen in der Auswahl. Sortieren Sie nach „Faktor“, um die stärksten Spezialist:innen relativ zur Erwartung zu finden, oder nach „Anteil“ für den absoluten Fokus.</p></div><div class="merk"><span class="zahl">98 %</span><span class="was">Fokus von Leopold Mayerhofer auf das Ausschussthema</span></div></div>
+
+<section class="ja-card full" id="an-personen">
+  <div class="ja-ct"><div><h2>Abgeordnete nach Fokus</h2><p class="ja-note" id="an-tab-note"></p></div></div>
+  <div class="ja-tw" style="max-height:none"><table class="ja-table ja-el an-tab" id="an-tab"><thead><tr>
+    <th><button data-s="name">Name</button></th><th><button data-s="klub">Klub</button></th><th><button data-s="n">Anfragen</button></th><th><button data-s="anteil">Anteil</button></th><th><button data-s="erw">erwartet</button></th><th><button data-s="lift">Faktor</button></th><th class="an-hide"><button data-s="hauptfeld">Hauptthema</button></th><th></th>
+  </tr></thead><tbody></tbody></table></div>
+  <div class="ja-pager" id="an-pager"></div>
+</section>
+</div>
+<div class="ja-grid">
+<div class="ja-prosa"><div><h2>Und der Beruf?</h2><p>Auch der Beruf vor dem Mandat prägt, wonach Abgeordnete fragen. Abgeordnete aus Gesundheitsberufen richten 39 % ihrer Anfragen an ein Ressort mit Gesundheitszuständigkeit, andere 10 %. Bei Landwirt:innen ist es ähnlich: 19 % ihrer Anfragen gehen an das Landwirtschaftsressort, bei allen anderen 5 %.</p><p>Nicht jeder Beruf wirkt so. Abgeordnete aus Gewerkschaft, Arbeiterkammer oder Handwerk fragen sogar etwas seltener zu Arbeit und Soziales als der Durchschnitt (×0,8). Ein Klick auf eine Zeile wählt das Feld für die Detailansicht weiter unten.</p></div><div class="merk"><span class="zahl">×3,9</span><span class="was">Gesundheitsberufe fragen so oft öfter beim Gesundheitsressort</span></div></div>
+
+<section class="ja-card full" id="be-anf-karte">
+  <div class="ja-ct"><div><h2>Beruf und Anfragen</h2><p class="ja-note">Je Politikfeld: Anteil der Anfragen an Ressorts des Felds von Abgeordneten mit passender Berufsgruppe, im Vergleich zu allen anderen. Rechts der Faktor.</p></div></div>
+  <div class="an-legende"><span><i style="background:var(--akzent)"></i>Abgeordnete mit passendem Beruf</span><span><i style="background:var(--cds-chart-muted)"></i>andere Abgeordnete</span></div>
+  <div id="be-anf"></div>
+</section>
+<div class="ja-prosa"><div><h2>Der Beruf führt in den Ausschuss</h2><p>Die Klubs besetzen ihre Ausschüsse nach Fachwissen. 93 % der Abgeordneten aus Gesundheitsberufen sitzen im Gesundheitsausschuss, von den übrigen 13 %. Jurist:innen sitzen zu 63 % im Justizausschuss, Landwirt:innen zu 49 % im Landwirtschaftsausschuss.</p><p>Damit stellt sich die Frage, was stärker wirkt: der Beruf oder der Ausschuss. Die Detailansicht trennt beides.</p></div><div class="merk"><span class="zahl">93 %</span><span class="was">der Abgeordneten aus Gesundheitsberufen sitzen im Gesundheitsausschuss</span></div></div>
+
+<section class="ja-card full" id="be-aus-karte">
+  <div class="ja-ct"><div><h2>Beruf und Ausschuss</h2><p class="ja-note">Je Politikfeld: Anteil der Abgeordneten mit passender Berufsgruppe, die im zuständigen Fachausschuss sitzen, im Vergleich zu allen anderen mit Fachausschussmandat.</p></div></div>
+  <div class="an-legende"><span><i style="background:var(--akzent)"></i>Abgeordnete mit passendem Beruf</span><span><i style="background:var(--cds-chart-muted)"></i>andere Abgeordnete</span></div>
+  <div id="be-aus"></div>
+</section>
+<div class="ja-prosa"><div><h2>Beruf und Ausschuss zusammen</h2><p>Am fokussiertesten fragen Abgeordnete, bei denen beides zusammenkommt. Landwirt:innen im Landwirtschaftsausschuss richten 47 % ihrer Anfragen an das Landwirtschaftsressort. Ihre Ausschusskolleg:innen aus anderen Berufen tun das nur zu 10 %. Beim Inneren ist es ähnlich: 51 % bei Abgeordneten aus dem öffentlichen Dienst im Innenausschuss, 28 % bei den übrigen Ausschussmitgliedern.</p><p>In der Bildung ist es umgekehrt: Abgeordnete aus Bildungsberufen im Unterrichts- bzw. Bildungsausschuss fragen nicht stärker zur Bildung als ihre Ausschusskolleg:innen (20 % gegenüber 23 %). Wählen Sie ein Feld, um die vier Gruppen zu vergleichen.</p></div><div class="merk"><span class="zahl">47 %</span><span class="was">Fokus von Landwirt:innen im Landwirtschaftsausschuss</span></div></div>
+
+<section class="ja-card full" id="be-kombi-karte">
+  <div class="ja-ct"><div><h2>Beruf, Ausschuss oder beides?</h2><p class="ja-note" id="be-kombi-note"></p></div>
+    <label class="ja-f" for="be-feld">Politikfeld<select id="be-feld"></select></label></div>
+  <div class="ja-bars" id="be-kombi"></div>
+</section>
+</div>
+<div class="ja-grid">
+<div class="ja-prosa"><div><h2>Wie die Analyse gerechnet ist</h2><p>Für jede Person und Gesetzgebungsperiode werden ihre Fachausschüsse (ohne Ersatzmitgliedschaften) und ihre schriftlichen Anfragen betrachtet. Ausschüsse und Ressorts werden über 23 Politikfelder verbunden, die aus ihren Bezeichnungen abgeleitet sind. Eine Anfrage zählt als Treffer, wenn das befragte Ressort ein Feld eines eigenen Ausschusses abdeckt.</p><p>Der Erwartungswert ist der Anteil aller Anfragen derselben Periode, die an Ressorts dieser Felder gingen. Ein Faktor von 2 heißt also: doppelt so viele Anfragen zum eigenen Ausschussthema wie im Durchschnitt aller Anfragen. Querschnittsausschüsse ohne eigenes Ressort (Verfassung, Hauptausschuss, Rechnungshof, Geschäftsordnung) und das Bundeskanzleramt sind ausgenommen. Ressorts mit mehreren Zuständigkeiten zählen für jedes ihrer Felder. Für den Beruf werden Berufsgruppen (halbautomatisch aus den Biografien kategorisiert) Politikfeldern zugeordnet; Angestellte, Politik und Sonstige bleiben außen vor. Die Analyse zeigt einen Zusammenhang, keine Ursache: Wer sich für ein Thema interessiert, geht auch in den passenden Ausschuss.</p></div><div></div></div>
+
+</div>
+<details class="an-methode" style="margin-bottom:12px"><summary>Zuordnung von Berufsgruppen zu Politikfeldern anzeigen</summary>
+  <div class="ja-tw"><table id="be-zuordnung"><thead><tr><th>Berufsgruppen</th><th>Politikfeld</th></tr></thead><tbody></tbody></table></div>
+</details>
+<details class="an-methode"><summary>Zuordnung von Ausschüssen und Ressorts zu Politikfeldern anzeigen</summary>
+  <div class="ja-tw" style="max-height:28rem"><table id="an-zuordnung"><thead><tr><th>Politikfeld</th><th>Ausschüsse (alle Perioden)</th><th>Ressorts (alle Perioden)</th></tr></thead><tbody></tbody></table></div>
+</details>
+<p class="ja-note" style="margin-top:20px">Quellen: Parlament Österreich, Open Data (schriftliche Anfragen mit Detailseiten, Ausschussmitgliedschaften Liste 250, Parlamentarier:innen Liste 409), Lizenz CC BY 4.0. Einbringer:innen über die Personen-ID; befragte Regierungsmitglieder sind ausgeschlossen. Serienanfragen: Betreff mindestens zehnmal in derselben Periode.</p>
+</main>
+<footer class="fuss"><div class="huelle">
+<p>Daten: Parlament Österreich, Open Data (Filter-API und Detailseiten im JSON-Format), Lizenz CC BY 4.0. Stand der Daten: 2. November 2026.</p>
+<p>Ein unabhängiges Auswertungsprojekt auf Basis der offenen Daten. Kein offizielles Angebot der Parlamentsdirektion; maßgeblich sind die Angaben auf parlament.gv.at.</p>
+</div></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="analyse.js"></script>
+</body>
+</html>

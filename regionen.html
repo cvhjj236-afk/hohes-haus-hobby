@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Regionen · Nationalrat in Zahlen</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
+<link rel="stylesheet" href="dash.css">
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<header class="kopfzeile"><div class="huelle"><a class="marke" href="index.html">Nationalrat <span>in Zahlen</span></a><nav class="nav" aria-label="Seiten"><a href="index.html">Übersicht</a><a href="anfragen.html">Anfragen</a><a href="antraege.html">Gesetzesanträge</a><a href="abgeordnete.html">Abgeordnete</a><a href="netzwerk.html">Ausschuss-Netzwerk</a><a href="analyse.html">Spezialisierung</a><a href="regionen.html" aria-current="page">Regionen</a></nav></div></header>
+<div class="huelle">
+<section class="held"><span class="augenbraue">Regionen · Bundesländer, Wahlkreise und Wirtschaft · XX. bis XXVIII. GP</span><h1>Vertreten Abgeordnete ihre Region?</h1>
+<p class="vorspann">Abgeordnete werden in Wahlkreisen gewählt, aber sie sitzen im Nationalrat für ganz Österreich. Wie stark schlägt die Herkunft trotzdem durch? Wir haben drei Spuren verfolgt: welche Orte in den Betreffen der Anfragen vorkommen, über welche Liste jemand ins Parlament kam, und ob die Wirtschaft eines Bundeslands sich in den Ausschüssen seiner Abgeordneten wiederfindet.</p>
+<p class="vorspann">Die kurze Antwort: Wer nach einer Region fragt, fragt meistens nach der eigenen. Und Bundesländer mit viel Tourismus, Verkehr oder Industrie schicken ihre Abgeordneten deutlich öfter in die passenden Ausschüsse.</p></section>
+</div>
+<main class="huelle brett">
+<div class="an-kopf">
+  <div class="gross" id="rg-faktor">×3,6</div>
+  <div><p>So viel öfter betreffen regionale Anfragen das eigene Bundesland, als bei zufälliger Verteilung zu erwarten wäre. <strong id="rg-own">51 %</strong> der Anfragen mit Ortsbezug nennen das Bundesland der Fragesteller:innen, erwartet wären <strong id="rg-exp">14 %</strong>.</p>
+  <p class="mut">Grundlage: <span id="rg-nreg">11.004</span> Anfragen mit erkennbarem Bundesland-Bezug im Betreff, von 82.558 Anfragen insgesamt. <span id="rg-status">Daten werden geladen …</span></p></div>
+</div>
+<section class="netz-steuer" aria-label="Filter">
+  <label for="rg-von">Von<select id="rg-von"></select></label>
+  <label for="rg-bis">Bis<select id="rg-bis"></select></label>
+  <div class="feld" style="flex-basis:100%">Klubs<span class="ja-chips" id="rg-klubs"></span></div>
+  <div class="feld" style="flex-basis:100%">Mandat über<span class="ja-chips" id="rg-ebenen"></span></div>
+  <button type="button" class="ja-btn" id="rg-reset">Alle Filter zurücksetzen</button>
+</section>
+<div class="ja-grid">
+<div class="ja-prosa"><div><h2>Gefragt wird vor allem nach dem eigenen Land</h2><p>Etwa jede achte Anfrage nennt im Betreff einen Ort, einen Bezirk oder ein Bundesland. Gemeint ist dann meist die Heimat: Abgeordnete aus Tirol fragen in 83 % solcher Fälle nach Tirol, aus Kärnten zu 73 %, aus Salzburg zu 67 %. Bei gleichmäßiger Verteilung wären es jeweils 6 bis 19 %.</p><p>Am wenigsten heimatbezogen fragen Abgeordnete aus Niederösterreich (34 %) und Vorarlberg (37 %). Niederösterreicher:innen fragen oft auch nach Wien, das Umland und die Hauptstadt hängen eng zusammen. Ein Klick auf ein Bundesland zeigt unten Beispiele.</p></div><div class="merk"><span class="zahl">83 %</span><span class="was">der regionalen Anfragen Tiroler Abgeordneter betreffen Tirol</span></div></div>
+
+<section class="ja-card" id="rg-bl-karte"><div class="ja-ct"><div><h2>Anteil zum eigenen Bundesland</h2><p class="ja-note">Je Bundesland der Fragesteller:innen: Anteil der Anfragen mit Ortsbezug, die das eigene Bundesland nennen, und zum Vergleich der Erwartungswert bei zufälliger Verteilung. Ohne Bundesliste.</p></div></div><div class="ja-bars" id="rg-bl-bars"></div></section>
+<section class="ja-card" id="rg-bsp-karte"><div class="ja-ct"><div><h2 id="rg-bsp-titel">Beispiele</h2><p class="ja-note">Ausgewählte Anfragen, Links führen zur Parlamentswebsite.</p></div></div><ul class="rg-bsp" id="rg-bsp"></ul></section>
+<section class="ja-card full" id="rg-matrix-karte">
+  <div class="ja-ct"><div><h2>Wer fragt nach wem?</h2><p class="ja-note">Zeilen: Bundesland der Fragesteller:innen. Spalten: im Betreff genanntes Bundesland. Jede Zeile ergibt 100 %; die Diagonale ist das eigene Land. Eine Anfrage kann mehrere Länder nennen.</p></div></div>
+  <div class="ja-tw" style="max-height:none"><table class="rg-heat" id="rg-matrix"><thead></thead><tbody></tbody></table></div>
+</section>
+<div class="ja-prosa"><div><h2>Direkt gewählt, regionaler gefragt</h2><p>Seit 1994 gibt es drei Wege in den Nationalrat: über einen der 39 Regionalwahlkreise, über die Landesliste eines Bundeslands oder über die Bundesliste. Wer im Regionalwahlkreis gewählt wurde, stellt die meisten Anfragen mit Ortsbezug: 17 % gegenüber 11 % bei Landes- und 11 % bei Bundeslisten-Abgeordneten.</p><p>Gleichzeitig fragen Regionalwahlkreis-Abgeordnete insgesamt weniger: rund 10,8 Anfragen pro Mandatsjahr, gegenüber etwa 19,0 auf Landes- und 19,5 auf Bundesebene. Ein Grund könnte sein, dass Listenplätze öfter an Fachsprecher:innen gehen, die viele Anfragen stellen; die Daten belegen das aber nicht direkt.</p></div><div class="merk"><span class="zahl">17 %</span><span class="was">regionale Anfragen bei Regionalwahlkreis-Abgeordneten</span></div></div>
+
+<section class="ja-card" id="rg-ebene-karte"><div class="ja-ct"><div><h2>Anteil regionaler Anfragen nach Mandat</h2><p class="ja-note">Anteil aller Anfragen mit Ortsbezug im Betreff. Unabhängig vom Filter „Mandat über“.</p></div></div><div class="ja-bars" id="rg-ebene-bars"></div></section>
+<section class="ja-card full" id="rg-ebene-tab-karte"><div class="ja-ct"><div><h2>Mandatsebenen im Vergleich</h2><p class="ja-note">„Eigenes Land“: Anteil der regionalen Anfragen zum eigenen Bundesland. „Ausschussfokus“: Faktor der Anfragen zum Thema der eigenen Fachausschüsse (siehe Seite Spezialisierung).</p></div></div>
+  <div class="ja-tw" style="max-height:none"><table class="ja-table" id="rg-ebene"><thead><tr><th>Mandat über</th><th>Personen</th><th>Anfragen/Jahr</th><th>regional</th><th>eigenes Land</th><th>Ausschuss&shy;fokus</th></tr></thead><tbody></tbody></table></div></section>
+<div class="ja-prosa"><div><h2>Die Wirtschaft des Landes im Ausschuss</h2><p>Tirol erwirtschaftet 2,6-mal so viel seiner Wertschöpfung in Beherbergung und Gastronomie wie Österreich im Schnitt, Salzburg 1,9-mal. Dieses Verhältnis heißt Standortquotient. Sitzen die Abgeordneten solcher Länder auch öfter im passenden Ausschuss?</p><p>Bei Tourismus, Verkehr und Industrie ja: Abgeordnete aus Ländern mit starkem Tourismus sitzen zu 21 % im Tourismusausschuss, aus Ländern mit schwachem Tourismus zu 7 %. Beim Verkehr ist es 23 % gegenüber 11 %, bei der Industrie 23 % gegenüber 13 %. Bei Finanzdienstleistungen gibt es keinen Unterschied. Bei den Anfragen zeigt sich dagegen kaum ein Muster: Die Wirtschaftsstruktur beeinflusst, wo jemand sitzt, weniger, wonach jemand fragt.</p></div><div class="merk"><span class="zahl">×2,8</span><span class="was">öfter im Tourismusausschuss aus Tourismusländern</span></div></div>
+
+<section class="ja-card full" id="rg-lq-karte">
+  <div class="ja-ct"><div><h2>Wirtschaftsstruktur der Bundesländer</h2><p class="ja-note">Standortquotient je Branche: Anteil an der Bruttowertschöpfung des Bundeslands geteilt durch den Österreich-Anteil, gemittelt über die gewählten Perioden. Über 1 (blau) ist die Branche überdurchschnittlich wichtig, unter 1 (orange) unterdurchschnittlich. Klick auf eine Spalte wählt die Branche für das Streudiagramm.</p></div></div>
+  <div class="ja-tw" style="max-height:none"><table class="rg-heat rg-lq" id="rg-lq"><thead></thead><tbody></tbody></table></div>
+</section>
+<section class="ja-card full" id="rg-streu-karte">
+  <div class="ja-ct"><div><h2>Branche und Ausschuss je Bundesland</h2><p class="ja-note" id="rg-streu-note"></p></div>
+    <div class="rg-ctl"><label class="ja-f" for="rg-sektor">Branche<select id="rg-sektor"></select></label>
+    <span class="ja-chips" id="rg-y"><button type="button" class="ja-chip" data-v="ausschuss">Ausschuss</button><button type="button" class="ja-chip" data-v="anfragen">Anfragen</button></span></div></div>
+  <div id="rg-streu"></div>
+</section>
+<section class="ja-card full" id="rg-zus-karte">
+  <div class="ja-ct"><div><h2>Starke gegen schwache Branche</h2><p class="ja-note">Anteil der Abgeordneten mit Regional- oder Landesmandat im zuständigen Ausschuss, getrennt nach Bundesländern mit starker (Standortquotient ab 1,25) und schwacher Branche (unter 1). Rechts der Faktor.</p></div></div>
+  <div class="an-legende"><span><i style="background:var(--akzent)"></i>Bundesland mit starker Branche</span><span><i style="background:var(--cds-chart-muted)"></i>Bundesland mit schwacher Branche</span></div>
+  <div id="rg-zus"></div>
+</section>
+</div>
+<div class="ja-grid">
+<div class="ja-prosa"><div><h2>Wie die Analyse gerechnet ist</h2><p>Ortsbezug: Die Betreffe aller Anfragen ab der XX. GP werden mit dem Gemeindeverzeichnis, den politischen Bezirken und den Bundesländern von Statistik Austria abgeglichen. Mehrdeutige Namen, die auch Alltagswörter oder Personennamen sind (etwa „Sonntag“ oder „Strobl“), sind ausgeschlossen, Landschaften wie Pinzgau oder Waldviertel ergänzt. Eine Prüfung von 100 zufälligen Treffern ergab 98 richtige Zuordnungen; die gefundenen Fehlerquellen (etwa „Data Mining“ als Gemeinde Mining oder das Ulrichsberg-Treffen in Kärnten statt der Gemeinde in Oberösterreich) wurden korrigiert. Erwartet wird der Anteil, den das Bundesland an allen regionalen Anfragen derselben Periode hat. Fragesteller:innen ohne Bundeslandbezug (Bundesliste) bleiben beim Vergleich zum eigenen Land außen vor.</p><p>Mandatsebene: aus dem Wahlkreis des Mandats in der jeweiligen Periode (Regionalwahlkreis wie „7A – Innsbruck“, Landeswahlkreis wie „7 – Tirol“ oder Bundeswahlvorschlag). Wirtschaft: Bruttowertschöpfung nach Wirtschaftsbereichen (ÖNACE) auf Bundeslandebene aus der Regionalen Gesamtrechnung, je Periode gemittelt. Branchen werden dem Ausschuss des passenden Politikfelds zugeordnet. Bildung und Gesundheit sind weggelassen, weil sich die Länder dort kaum unterscheiden. Alle Ergebnisse zeigen Zusammenhänge, keine Ursachen.</p></div><div></div></div>
+
+</div>
+<p class="ja-note" style="margin-top:20px">Quellen: Parlament Österreich, Open Data (schriftliche Anfragen, Ausschussmitgliedschaften, Parlamentarier:innen), CC BY 4.0. Statistik Austria, Regionale Gesamtrechnung RGR103 (Hauptaggregate nach Bundesländern) sowie Gemeinde- und Bezirksverzeichnis, CC BY 4.0. Die Ortserkennung ist automatisch und nicht fehlerfrei.</p>
+</main>
+<footer class="fuss"><div class="huelle">
+<p>Daten: Parlament Österreich, Open Data (Filter-API und Detailseiten im JSON-Format), Lizenz CC BY 4.0. Stand der Daten: 2. November 2026.</p>
+<p>Ein unabhängiges Auswertungsprojekt auf Basis der offenen Daten. Kein offizielles Angebot der Parlamentsdirektion; maßgeblich sind die Angaben auf parlament.gv.at.</p>
+</div></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="region.js"></script>
+</body>
+</html>
